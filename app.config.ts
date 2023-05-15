@@ -4,8 +4,7 @@ export default defineAppConfig({
     description: 'Sahabat menuju sehat.',
     socials: {
       youtube: '@puskesmasjayengan',
-      instagram: 'puskesmasjayengan',
-      facebook: 'UPTD Puskesmas Jayengan',
+      instagram: 'puskesmasjayengan'
     },
     aside: {
       level: 1,
