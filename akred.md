@@ -1,97 +1,23 @@
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 18.142 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Sun May 14 2023 04:26:23 GMT-0700 (PDT)
-* Source doc: Copy of AKREDITASI PUSKESMAS 2023
-
-WARNING:
-You have 6 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-```
-
-
-
-
-```
-
-
-
 # INSTRUMEN PENILAIAN AKREDITASI PUSKESMAS 
-
 
 ## TAHUN 2023 
 
-
-```
-
-
-
-
 Referensi :
-KMK No.HK.01.07-MENKES-165-2023 Tentang Standar Akreditasi PUSKESMAS 
-
-
-Kepdirjen No. HK.02.02/D/487/2023 
-
-
-```
-
-
-
-# 
-
+- KMK No.HK.01.07-MENKES-165-2023 Tentang Standar Akreditasi PUSKESMAS 
+- Kepdirjen No. HK.02.02/D/487/2023 
 
 # BAB I KEPEMIMPINAN DAN MANAJEMEN PUSKESMAS (KMP)
 
-
 ## Standar 1.1 Perencanaan dan kemudahan akses bagi pengguna layanan 
 
-
-```
 Perencanaan Pusat Kesehatan Masyarakat (Puskesmas) dilakukan secara terpadu yang berbasis wilayah kerja Puskesmas bersama dengan lintas program dan lintas sektor sesuai dengan ketentuan peraturan perundang-undangan serta dalam pelaksanaan kegiatan harus memperhatikan kemudahan akses pengguna layanan. 
 
 Perencanaan Puskesmas dan jenis-jenis pelayanan yang disediakan mempertimbangkan visi, misi, tujuan, tata nilai, hasil analisis kebutuhan dan harapan masyarakat, hasil analisis peluang pengembangan pelayanan, hasil analisis risiko pelayanan, dan hasil analisis data kinerja serta umpan balik dari dinas kesehatan daerah kabupaten/kota. 
 
 Puskesmas mudah diakses oleh pengguna layanan untuk mendapat pelayanan sesuai kebutuhan, mendapat informasi tentang pelayanan, dan untuk menyampaikan umpan balik serta mendapatkan dukungan dari lintas program dan lintas sektor. 
-```
-
-
-
-###  \
-
-
 
 ### Kriteria 1.1.1 Puskesmas wajib menyediakan jenis-jenis pelayanan yang ditetapkan berdasarkan visi, misi, tujuan, tata nilai, hasil analisis kebutuhan dan harapan masyarakat, hasil analisis peluang pengembangan pelayanan, hasil analisis risiko pelayanan, hasil analisis data kinerja, dan ketentuan peraturan perundang-undangan yang dituangkan dalam perencanaan. 
 
-
-```
 POKOK PIKIRAN: 
 
 a) Puskesmas sebagai unit pelaksana teknis daerah bidang kesehatan yang bersifat fungsional dan unit layanan yang bekerja profesional harus memiliki visi, misi, tujuan dan tata nilai sesuai ketentuan yang berlaku yang sejalan dengan visi, misi presiden dan pemerintah daerah. 
@@ -118,17 +44,11 @@ h) Hasil identifikasi dan analisis untuk menetapkan jenis pelayanan dan penyusun
 
 i) Agar Puskesmas dapat mengelola upaya kesehatan dengan baik dan berkesinambungan dalam mencapai tujuannya, Puskesmas harus menyusun 
 
-```
+1. rencana kegiatan untuk periode 5 (lima) tahunan yang selanjutnya akan dirinci lagi ke dalam
+2. rencana  tahunan Puskesmas yang berupa 
+    1. rencana usulan kegiatan (RUK) dan 
+    2. rencana pelaksanaan kegiatan (RPK) sesuai siklus perencanaan anggaran daerah. 
 
-
-
-1. `rencana kegiatan untuk periode 5 (lima) tahunan yang selanjutnya akan dirinci lagi ke dalam`
-2. `rencana  tahunan Puskesmas yang berupa `
-    1. `rencana usulan kegiatan (RUK) dan `
-    2. `rencana pelaksanaan kegiatan (RPK) sesuai siklus perencanaan anggaran daerah. `
-
-
-```
 j) Perencanaan Puskesmas dilakukan secara terpadu, baik KMP, upaya kesehatan masyarakat (UKM), upaya kesehatan perorangan (UKP), laboratorium, dan kefarmasian, serta disusun bersama dengan sektor terkait dan masyarakat. 
 
 k) Rencana usulan kegiatan (RUK) disusun secara terintegrasi oleh tim manajemen Puskesmas yang akan dibahas dalam musrenbang desa dan musrenbang kecamatan untuk kemudian diusulkan ke dinas kesehatan daerah kabupaten/kota. 
@@ -152,146 +72,72 @@ o) Revisi terhadap rencana harus dilakukan dengan alasan yang tepat sebagai upay
 p) Untuk Puskesmas Badan Layanan Umum Daerah (BLUD), penyusunan rencana lima tahunan dan rencana tahunan harus sesuai dengan ketentuan peraturan perundang-undangan terkait BLUD. 
 
 Elemen Penilaian:
-```
+#### a) Ditetapkan visi, misi, tujuan, dan tata nilai Puskesmas yang menjadi acuan dalam penyelenggaraan Puskesmas mulai dari perencanaan, pelaksanaan kegiatan hingga evaluasi kinerja Puskesmas (R).  
 
-
-
-####   \
-a) Ditetapkan visi, misi, tujuan, dan tata nilai Puskesmas yang menjadi acuan dalam penyelenggaraan Puskesmas mulai dari perencanaan, pelaksanaan kegiatan hingga evaluasi kinerja Puskesmas (R).  \
-
-
-
-```
 1. SK tentang Penetapan Visi, Misi, Tujuan, dan Tata Nilai Puskesmas. 
-
 
 Catatan: 
 jika kebijakan daerah menyatakan bahwa penetapan visi dan misi hanya oleh kepala daerah, maka kepala Puskesmas hanya menetapkan tujuan dan tata nilai. 
  
-```
+####  b) Ditetapkan jenis-jenis pelayanan yang disediakan berdasarkan hasil identifikasi dan analisis sesuai dengan ketentuan yang berlaku (R, D, W).
 
-
-
-####  \
-b) Ditetapkan jenis-jenis pelayanan yang disediakan berdasarkan hasil identifikasi dan analisis sesuai dengan ketentuan yang berlaku (R, D, W).
-
-
-```
 1. SK tentang Penetapan Jenis-Jenis  Pelayanan Puskesmas. 
 
 1. Hasil identifikasi dan analisis yang mendasari penetapan jenis- jenis pelayanan, khususnya untuk jenis pelayanan yang bersifat pengembangan, baik UKM maupun UKP.
-```
 
+Kepala Puskesmas dan KTU: penggalian informasi terkait proses identifikasi dan analisis yang mendasari penetapan jenis- jenis pelayanan.  
 
-Kepala Puskesmas dan KTU: penggalian informasi terkait proses identifikasi dan analisis yang mendasari penetapan jenis- jenis pelayanan.  \
-  \
-  \
+#### c) Rencana lima tahunan Puskesmas disusun dengan melibatkan lintas program dan lintas sektor berdasarkan pada rencana strategis dinas kesehatan daerah kabupaten/kota (R, D, W).  
 
-
-
-#### c) Rencana lima tahunan Puskesmas disusun dengan melibatkan lintas program dan lintas sektor berdasarkan pada rencana strategis dinas kesehatan daerah kabupaten/kota (R, D, W).  \
-
-
-
-```
 1. Rencana lima tahunan Puskesmas. 
 1. Bukti pertemuan penyusunan rencana lima tahunan bersama lintas program dan lintas sektor: minimal daftar hadir dan notulen yang disertai dengan foto kegiatan. 
-
 
 Catatan: 
 berlaku untuk rencana lima tahunan yang disusun dalam 2 tahun terakhir dari saat survei akreditasi dilaksanakan.
 
-Kepala Puskesmas, KTU dan tim manajemen Puskesmas: 
-```
-
-
-Penggalian informasi terkait proses penyusunan rencana lima tahunan.  \
-  \
+Kepala Puskesmas, KTU dan tim manajemen Puskesmas: Penggalian informasi terkait proses penyusunan rencana lima tahunan.  
  
-
-
-####  \
-d) Rencana usulan kegiatan (RUK) disusun dengan melibatkan lintas program dan lintas sektor berdasarkan rencana lima tahunan Puskesmas, hasil analisis kebutuhan dan harapan masyarakat, dan hasil analisis data kinerja (R, D, W). 
-
-
-```
+####  d) Rencana usulan kegiatan (RUK) disusun dengan melibatkan lintas program dan lintas sektor berdasarkan rencana lima tahunan Puskesmas, hasil analisis kebutuhan dan harapan masyarakat, dan hasil analisis data kinerja (R, D, W). 
 
 1. Rencana usulan kegiatan (RUK) tahun n (dan n+1 disesuaikan dengan saat dilangsungkannya survei akreditasi). 
 
-2. Rencana lima tahunan 
-Puskesmas. 
+2. Rencana lima tahunan Puskesmas. 
+
 1. Hasil analisis kebutuhan dan harapan masyarakat. 
 
 2. Hasil analisis data kinerja. 
 
 3. Bukti pertemuan penyusunan RUK bersama lintas program dan lintas sektor, minimal melampirkan daftar hadir dan notulen yang disertai dengan foto kegiatan. 
  
-Kepala Puskesmas, KTU dan tim manajemen Puskesmas: 
-penggalian informasi terkait proses penyusunan RUK. 
-
-
-```
-
-
+Kepala Puskesmas, KTU dan tim manajemen Puskesmas: penggalian informasi terkait proses penyusunan RUK. 
 
 #### e) Rencana pelaksanaan kegiatan (RPK) tahunan Puskesmas disusun bersama lintas program sesuai dengan alokasi anggaran yang ditetapkan oleh dinas kesehatan daerah kabupaten/kota (R, D, W).
 
-
-```
 1. Rencana pelaksanaan kegiatan (RPK) tahunan tahun n.
 1. Bukti pertemuan penyusunan RPK bersama lintas program, minimal melampirkan daftar hadir dan notulen yang diserta dengan foto kegiatan. 
  
- 
-Kepala Puskesmas, KTU dan tim manajemen Puskesmas: 
- penggalian informasi terkait proses penyusunan RPK tahunan. 
- 
+Kepala Puskesmas, KTU dan tim manajemen Puskesmas: penggalian informasi terkait proses penyusunan RPK tahunan. 
 
-```
+#### f) Rencana pelaksanaan kegiatan bulanan disusun sesuai dengan rencana pelaksanaan kegiatan tahunan serta hasil pemantauan dan capaian kinerja bulanan (R, D, W).  
 
-
-
-#### f) Rencana pelaksanaan kegiatan bulanan disusun sesuai dengan rencana pelaksanaan kegiatan tahunan serta hasil pemantauan dan capaian kinerja bulanan (R, D, W).  \
-
-
-1. Rencana pelaksanaan kegiatan (RPK) bulanan.  \
-
+1. Rencana pelaksanaan kegiatan (RPK) bulanan.  
 
 1. Hasil pemantauan dan capaian kinerja bulanan. 
 
-
-```
 2. Bukti pertemuan penyusunan RPK bulanan, minimal melampirkan daftar hadir dan notulen yang diserta dengan foto kegiatan. 
  
-Kepala Puskesmas, KTU dan tim manajemen Puskesmas: 
- penggalian informasi terkait proses penyusunan RPK bulanan. 
+Kepala Puskesmas, KTU dan tim manajemen Puskesmas: penggalian informasi terkait proses penyusunan RPK bulanan. 
  
+#### g) Apabila ada perubahan kebijakan pemerintah dan/atau pemerintah daerah, dilakukan revisi perencanaan sesuai kebijakan yang ditetapkan (R, D, W).  
 
-```
-
-
-
-#### g) Apabila ada perubahan kebijakan pemerintah dan/atau pemerintah daerah, dilakukan revisi perencanaan sesuai kebijakan yang ditetapkan (R, D, W).  \
-
-
-
-```
 Rencana lima tahunan dan/atau 
 Rencana Pelaksanaan Kegiatan (RPK) revisi. 
 Bukti penyusunan revisi perencanaan, minimal melampirkan daftar hadir dan notulen yang diserta dengan foto kegiatan. 
  
-Kepala Puskesmas, KTU dan tim manajemen Puskesmas: 
- penggalian informasi terkait proses revisi perencanaan. 
-```
-
-
-
-### 
-
+Kepala Puskesmas, KTU dan tim manajemen Puskesmas: penggalian informasi terkait proses revisi perencanaan. 
 
 ### Kriteria 1.1.2 Masyarakat sebagai penerima manfaat layanan lintas program dan lintas sektor mendapatkan kemudahan akses informasi tentang hak dan kewajiban pasien, jenis-jenis pelayanan, dan kegiatan-kegiatan Puskesmas serta akses terhadap pelayanan dan akses penyampaian umpan balik 
 
-
-```
 POKOK PIKIRAN: 
 
 a) Puskesmas sebagai fasilitas kesehatan tingkat pertama (FKTP) wajib menyediakan pelayanan kesehatan sesuai dengan ketentuan peraturan perundang-undangan dengan memperhatikan kebutuhan dan harapan masyarakat. 
@@ -330,26 +176,12 @@ Untuk itu, perlu dilakukan penilaian kepuasan pengguna layanan/pasien secara ber
 Elemen Penilaian
 
 
-```
+####  a) Ditetapkan kebijakan tentang hak dan kewajiban pasien (R).  
 
-
-
-####  \
-a) Ditetapkan kebijakan tentang hak dan kewajiban pasien (R).  \
-
-
-
-```
 1. SK tentang Penetapan Hak dan Kewajiban Pasien. 
-```
 
+#### b) Dilakukan sosialisasi tentang hak dan kewajiban pasien serta jenis- jenis pelayanan yang disediakan oleh Puskesmas kepada pengguna layanan dan kepada petugas dengan menggunakan strategi komunikasi yang ditetapkan Puskesmas (R, D, O, W).  
 
-
-#### b) Dilakukan sosialisasi tentang hak dan kewajiban pasien serta jenis- jenis pelayanan yang disediakan oleh Puskesmas kepada pengguna layanan dan kepada petugas dengan menggunakan strategi komunikasi yang ditetapkan Puskesmas (R, D, O, W).  \
-
-
-
-```
 1. SK tentang Media Komunikasi dan Koordinasi 
 1. Bukti sosialisasi hak dan kewajiban pasien. 
 
@@ -360,56 +192,33 @@ Pengamatan surveior terhadap:
 
 
 2. Media informasi tentang jenis- jenis pelayanan Puskesmas. 
-1. PJ UKP: 
 
-
-    Penggalian  	informasi 
+1. PJ UKP: Penggalian  	informasi 
 terkait proses sosialisasi hak dan kewajiban pasien. 
 
-
-2. KTU, PJ UKM dan PJ UKP: 
- penggalian informasi terkait proses sosialisasi jenis-jenis pelayanan Puskesmas. 
+2. KTU, PJ UKM dan PJ UKP:  penggalian informasi terkait proses sosialisasi jenis-jenis pelayanan Puskesmas. 
 
 
-```
+#### c) Dilakukan evaluasi dan tindak lanjut kepatuhan petugas dalam implementasi pemenuhan hak dan kewajiban pasien, dan hasil sosialisasi jenis-jenis pelayanan yang disediakan oleh Puskesmas kepada pengguna layanan (D, O, W). 
 
-
-
-#### c) Dilakukan evaluasi dan tindak lanjut kepatuhan petugas dalam implementasi pemenuhan hak dan kewajiban pasien, dan hasil sosialisasi jenis-jenis pelayanan yang disediakan oleh Puskesmas kepada pengguna layanan (D, O, W). \
-  \
-
-
-
-```
 1. Bukti evaluasi kepatuhan petugas dalam implementasi hak dan kewajiban pasien.
 
 2. Bukti evaluasi hasil sosialisasi jenis-jenis pelayanan Puskesmas serta rencana tindak lanjutnya. 
 
 3. Bukti hasil tindak lanjut. 
+
 Pengamatan surveior terhadap kepatuhan petugas dalam implementasi pemenuhan hak dan kewajiban pasien serta rencana tindak lanjutnya.
-1. PJ UKP: 
- penggalian informasi terkait evaluasi kepatuhan petugas dalam implementasi hak dan kewajiban pasien dan tindak lanjutnya. 
 
+1. PJ UKP:  penggalian informasi terkait evaluasi kepatuhan petugas dalam implementasi hak dan kewajiban pasien dan tindak lanjutnya. 
 
-2. KTU, PJ UKM dan PJ UKP: 
- penggalian informasi terkait proses evaluasi hasil sosialisasi jenis-jenis pelayanan Puskesmas 
+2. KTU, PJ UKM dan PJ UKP:  penggalian informasi terkait proses evaluasi hasil sosialisasi jenis-jenis pelayanan Puskesmas 
 serta tindak lanjutnya. 
  
- 
-```
-
-
-
 #### d) Dilakukan upaya untuk memperoleh umpan balik pengguna layanan dan pengukuran kepuasan pasien serta penanganan aduan/keluhan dari pengguna layanan maupun tindak lanjutnya yang didokumentasikan sesuai dengan aturan yang telah ditetapkan dan dapat diakses oleh publik (R,D,O,W) 
-
-
-```
-
 
 1. SK tentang Pengelolaan Umpan Balik dari Pengguna Layanan. 
 
-2. SOP Pengelolaan Umpan Balik dari 
-Pengguna Layanan. 
+2. SOP Pengelolaan Umpan Balik dari Pengguna Layanan. 
 
 3. SOP Pengukuran Kepuasan Pasien. 
 
@@ -422,38 +231,17 @@ Pengguna Layanan.
 Pengamatan surveior terhadap bentuk dan proses upaya memperoleh umpan balik pengguna layanan, pengukuran kepuasan pasien serta penanganan aduan/keluhan dari pengguna layanan dan tindak lanjutnya. 
 
 Surveior mengamati apakah hasil pengelolaan dan tindak lanjut hal- hal tersebut dapat diakses oleh publik. 
-PJ Mutu dan petugas yang ditunjuk: 
 
-
-Penggalian informasi terkait proses memperoleh umpan balik pengguna layanan, pengukuran kepuasan pasien serta penanganan aduan/keluhan dari pengguna layanan dan tindak lanjutnya. 
+PJ Mutu dan petugas yang ditunjuk: Penggalian informasi terkait proses memperoleh umpan balik pengguna layanan, pengukuran kepuasan pasien serta penanganan aduan/keluhan dari pengguna layanan dan tindak lanjutnya. 
  
- 
-
-
-
-
-
-```
-
-
-
-
-
 ## Standar 1.2 Tata kelola organisasi 
 
-
-```
 Tata kelola organisasi Puskesmas dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan. 
 
 Tata kelola organisasi Puskesmas meliputi struktur organisasi, pengendalian dokumen, pengelolaan jaringan pelayanan dan jejaring, serta manajemen data dan informasi. 
-```
-
-
 
 ### Kriteria 1.2.1 Struktur organisasi ditetapkan dengan kejelasan tugas, wewenang, tanggung jawab, tata hubungan kerja, dan persyaratan jabatan 
 
-
-```
 POKOK PIKIRAN: 
 
 a) Agar dapat menjalankan tugas pokok dan fungsi organisasi, perlu disusun struktur organisasi Puskesmas yang ditetapkan sesuai dengan ketentuan peraturan perundang-undangan. 
@@ -482,30 +270,15 @@ g) Sebagai wujud akuntabilitas dalam penyelenggaraan pelayanan di Puskesmas, per
  
 ELEMEN PENILAIAN 
 
-```
+#### a) Kepala Puskesmas menetapkan penanggung jawab dan koordinator pelayanan Puskesmas sesuai struktur organisasi yang ditetapkan (R).  
 
-
-
-#### a) Kepala Puskesmas menetapkan penanggung jawab dan koordinator pelayanan Puskesmas sesuai struktur organisasi yang ditetapkan (R).  \
-
-
-
-```
 1. SK tentang Penetapan Penanggung Jawab dan Koordinator Pelayanan. 
 
-```
+#### b) Ditetapkan kode etik perilaku yang berlaku untuk seluruh pegawai yang bekerja di Puskesmas serta dilakukan evaluasi terhadap pelaksanaannya dan dilakukan tindak lanjutnya (R, D, W). 
 
-
-
-#### b) Ditetapkan kode etik perilaku yang berlaku untuk seluruh pegawai yang bekerja di Puskesmas serta dilakukan evaluasi terhadap pelaksanaannya dan dilakukan tindak lanjutnya (R, D, W). \
-
-
-
-```
 1. SK tentang Penetapan Kode Etik Perilaku Pegawai Puskesmas. 
 
 Catatan: tata nilai dan budaya keselamatan dapat menjadi bagian dari kode etik perilaku. 
-
 
 1. Hasil evaluasi pelaksanaan kode etik perilaku pegawai. 
 
@@ -516,43 +289,22 @@ terintegrasi dengan penilaian kinerja pegawai.
  
 Kepala Puskesmas, KTU dan para PJ: 
 
-
 penggalian informasi terkait proses dan hasil evaluasi pelaksanaan kode etik perilaku pegawai serta tindak lanjutnya.
-```
 
 
+#### c) Terdapat kebijakan dan prosedur yang jelas dalam pendelegasian wewenang manajerial dari kepala Puskesmas kepada penanggung jawab upaya, dari penanggung jawab upaya kepada koordinator pelayanan, dan dari koordinator  pelayanan kepada pelaksana kegiatan (R, D).  
 
-#### c) Terdapat kebijakan dan prosedur yang jelas dalam pendelegasian wewenang manajerial dari kepala Puskesmas kepada penanggung jawab upaya, dari penanggung jawab upaya kepada koordinator pelayanan, dan dari koordinator  pelayanan kepada pelaksana kegiatan (R, D).  \
-
-
-
-```
 1. SK tentang Pendelegasian Wewenang Manajerial. 
 
 Catatan: 
-SK Pendelegasian Wewenang Manajerial dapat terintegrasi dengan SK Pendelegasian 
-Wewenang Klinis. 
+SK Pendelegasian Wewenang Manajerial dapat terintegrasi dengan SK Pendelegasian Wewenang Klinis. 
 
 
-2. SOP tentang Pendelegasian  
-Wewenang Manajerial. 
-1. Surat pendelegasian wewenang 
-manajerial, jika ada pendelegasian wewenang manajerial. 
+2. SOP tentang Pendelegasian  Wewenang Manajerial. 
+1. Surat pendelegasian wewenang manajerial, jika ada pendelegasian wewenang manajerial. 
  
-
-
-
-
-```
-
-
-
-
-
 ### Kriteria 1.2.2 Kebijakan, pedoman/panduan, prosedur, dan kerangka acuan terkait pelaksanaan kegiatan, disusun, didokumentasikan, dan dikendalikan serta didasarkan pada ketentuan peraturan perundang-undangan, termasuk pengendalian dokumen bukti pelaksanaan kegiatan. 
 
-
-```
 POKOK PIKIRAN: 
 
 a) Dalam menyusun kebijakan, pedoman/panduan, prosedur, dan kerangka acuan didasarkan pada ketentuan peraturan perundang undangan yang berlaku dan/atau berbasis bukti ilmiah terkini. 
@@ -587,84 +339,56 @@ e) Pedoman tata naskah Puskesmas mengatur, antara lain:
 (7) pengaturan masa penyimpanan (retensi) dokumen yang kadaluarsa sesuai dengan ketentuan peraturan perundang-undangan, dengan tetap menjamin agar dokumen tersebut tidak disalahgunakan; dan 
 
 (8) penyediaan alur penyusunan dan pendistribusian dokumen sesuai dengan ketentuan peraturan perundang-undangan. 
+
 f) Penyusunan pedoman tata naskah Puskesmas dapat merujuk pada kebijakan masing-masing daerah dan/atau sesuai dengan ketentuan peraturan perundang-undangan terkait tata naskah dinas. 
+
 g) Seluruh pegawai harus menggunakan kebijakan, pedoman/ panduan, kerangka acuan, dan prosedur yang telah ditetapkan untuk  pelaksanaan  kegiatan baik KMP, UKM, UKP, laboratorium, dan kefarmasian. 
+
 h) Penyusunan kebijakan, pedoman/panduan, kerangka acuan, dan prosedur masing-masing pelayanan mengacu pada ketentuan peraturan perundang- undangan dan/atau pedoman yang dikeluarkan oleh organisasi profesi terkait. 
+
 i) Masing-masing pelayanan kesehatan perseorangan harus menyusun prosedur pelayanan kesehatan perorangan yang mengacu pada Pedoman Pelayanan Kedokteran dan Panduan Praktik Klinis. 
  	 
-
 Elemen Penilaian 
 
+#### a) Ditetapkan pedoman tata naskah Puskesmas (R).  
 
-```
-
-
-
-#### a) Ditetapkan pedoman tata naskah Puskesmas (R).  \
-
-
-
-```
 1. Pedoman Tata Naskah Puskesmas 
  
-```
+#### b) Ditetapkan kebijakan, pedoman/panduan, prosedur, dan kerangka acuan untuk KMP, penyelenggaraan UKM serta penyelenggaraan UKP, laboratorium, dan kefarmasian yang didasarkan pada ketentuan peraturan perundang- undangan dan/atau berbasis bukti ilmiah terkini (R, W).  
 
-
-
-#### b) Ditetapkan kebijakan, pedoman/panduan, prosedur, dan kerangka acuan untuk KMP, penyelenggaraan UKM serta penyelenggaraan UKP, laboratorium, dan kefarmasian yang didasarkan pada ketentuan peraturan perundang- undangan dan/atau berbasis bukti ilmiah terkini (R, W).  \
-
-
-
-```
 1. SK, pedoman/panduan,SOP,kerangka acuan kegiatan KMP. 
 
 2. SK, pedoman/panduan,SOP,kerangka acuan kegiatan penyelenggaraan UKM. 
 
 3. SK, pedoman/panduan, SOP, kerangka acuan kegiatan penyelenggaraan UKP, kefarmasian dan laboratorium 
  
- 
-KTU dan penanggung jawab upaya: 
- penggalian informasi terkait proses penyusunan dokumen regulasi. 
-```
-
-
+KTU dan penanggung jawab upaya:  penggalian informasi terkait proses penyusunan dokumen regulasi. 
 
 #### c) Dilakukan pengendalian, penataan, dan distribusi dokumen sesuai dengan prosedur yang telah ditetapkan (R, D, O, W). 
 
-
-```
 1. SOP tentang Pengendalian Dokumen. 
 
 2. SOP tentang Penataan Dokumen 
 
 3. SOP tentang Distribusi Dokumen. 
 
-
 Catatan: 
 yang dimaksud dengan dokumen adalah dokumen internal dan dokumen eksternal. 
 
 1. Bukti pengendalian dan distribusi dokumen: 
 
-bukti penomoran regulasi internal, 
+   - bukti penomoran regulasi internal, 
 
-rekapitulasi distribusi dokumen, 
+   - rekapitulasi distribusi dokumen, 
 
-bukti distribusi dokumen. 
+   - bukti distribusi dokumen. 
+
 Pengamatan surveior terhadap pengendalian, penataan, dan distribusi dokumen. 
-KTU dan petugas yang ditunjuk untuk pengendalian dokumen: 
- penggalian informasi terkait proses pengendalian, penataan, dan distribusi dokumen. 
 
- 
-```
-
-
-
-
+KTU dan petugas yang ditunjuk untuk pengendalian dokumen:  penggalian informasi terkait proses pengendalian, penataan, dan distribusi dokumen. 
 
 ### Kriteria 1.2.3 Jaringan pelayanan dan jejaring di wilayah kerja Puskesmas dikelola dan dioptimalkan untuk meningkatkan akses dan mutu pelayanan kepada masyarakat 
 
-
-```
 POKOK PIKIRAN: 
 
 a) Puskesmas perlu mengidentifikasi jaringan pelayanan dan jejaring yang ada di wilayah kerja Puskesmas untuk optimalisasi koordinasi dan/atau rujukan di bidang upaya kesehatan. 
@@ -679,76 +403,36 @@ e) Indikator kinerja pembinaan jaringan dan jejaring Puskesmas ditetapkan oleh k
  
 Elemen Penilaian 
 
-```
+#### a) Ditetapkan indikator kinerja pembinaan jaringan pelayanan dan jejaring Puskesmas (R).  
 
-
-
-#### a) Ditetapkan indikator kinerja pembinaan jaringan pelayanan dan jejaring Puskesmas (R).  \
-
-
-
-```
 1. SK tentang Indikator Kinerja 
 Pembinaan Jaringan Pelayanan dan Jejaring Puskesmas. 
  
-```
+#### b) Dilakukan identifikasi jaringan pelayanan dan jejaring di wilayah kerja Puskesmas untuk optimalisasi koordinasi dan/atau rujukan di bidang upaya kesehatan (D).  
 
+1. Daftar identifikasi jaringan pelayanan dan jejaring Puskesmas. 
 
+#### c) Disusun dan dilaksanakan program pembinaan terhadap jaringan pelayanan dan jejaring Puskesmas dalam rangka mencapai indikator kinerja pembinaan dengan jadwal dan penanggung jawab yang jelas (R, D, W).  
 
-#### b) Dilakukan identifikasi jaringan pelayanan dan jejaring di wilayah kerja Puskesmas untuk optimalisasi koordinasi dan/atau rujukan di bidang upaya kesehatan (D).  \
-  \
-
-
-
-```
-1. Daftar identifikasi jaringan pelayanan dan jejaring 
-Puskesmas. 
-
-
-
-```
-
-
-
-#### c) Disusun dan dilaksanakan program pembinaan terhadap jaringan pelayanan dan jejaring Puskesmas dalam rangka mencapai indikator kinerja pembinaan dengan jadwal dan penanggung jawab yang jelas (R, D, W).  \
-
-
-
-```
 1. Kerangka acuan kegiatan pembinaan terhadap jaringan pelayanan dan jejaring Puskesmas. 
+
 1. Jadwal pembinaan jaringan pelayanan dan jejaring Puskesmas. 
 
 2. Laporan pelaksanaan pembinaan terhadap jaringan pelayanan dan jejaring Puskesmas. 
 
-
 Catatan: 
 data dukung bukti pelaksanaan pembinaan disesuaikan dengan jenis kegiatan yang dilakukan, misalnya pembinaan dalam bentuk pertemuan minimal berupa daftar hadir dan notulen yang disertai dengan foto kegiatan. 
  
-PJ Jaringan Pelayanan dan Jejaring Puskesmas: 
- penggalian informasi terkait program, pelaksanaan, evaluasi, dan tindak lanjutnya terhadap pembinaan jaringan pelayanan dan jejaring Puskesmas. 
+PJ Jaringan Pelayanan dan Jejaring Puskesmas: penggalian informasi terkait program, pelaksanaan, evaluasi, dan tindak lanjutnya terhadap pembinaan jaringan pelayanan dan jejaring Puskesmas. 
  
-```
+#### d) Dilakukan evaluasi dan tindak lanjut terhadap pencapaian indikator kinerja pembinaan jaringan pelayanan dan jejaring Puskesmas (D).  
 
-
-
-#### d) Dilakukan evaluasi dan tindak lanjut terhadap pencapaian indikator kinerja pembinaan jaringan pelayanan dan jejaring Puskesmas (D).  \
-
-
-
-```
 1. Hasil evaluasi terhadap indikator kinerja pembinaan jaringan pelayanan dan jejaring Puskesmas. 
 
 2. Bukti hasil tindak lanjut.
-```
-
-
-
-
 
 ### Kriteria 1.2.4 Puskesmas menjamin ketersediaan data dan informasi melalui penyelenggaraan sistem informasi Puskesmas 
 
-
-```
 POKOK PIKIRAN: 
 
 a) Dalam upaya meningkatkan status kesehatan di wilayah kerjanya, Puskesmas menyediakan data dan informasi sebagai bahan pengambilan keputusan sesuai dengan kebutuhan masyarakat, maupun pengambilan keputusan pada tingkat kebijakan di dinas kesehatan daerah kabupaten/kota termasuk penyampaian informasi kepada masyarakat dan pihak terkait. 
@@ -770,79 +454,47 @@ pengawasan/pemantauan  dan evaluasi secara periodik
 
 
 Elemen Penilaian 
-```
 
+####  a) Dilaksanakan pengumpulan, penyimpanan, analisis data, dan pelaporan serta distribusi informasi sesuai dengan ketentuan peraturan perundang undangan terkait sistem informasi Puskesmas (R, D, W).  \
 
+1. SK tentang Pengumpulan, Penyimpanan, dan Analisis Data serta Pelaporan dan Distribusi Informasi. 
 
-####  \
-a) Dilaksanakan pengumpulan, penyimpanan, analisis data, dan pelaporan serta distribusi informasi sesuai dengan ketentuan peraturan perundang undangan terkait sistem informasi Puskesmas (R, D, W).  \
-
-
-
-```
-1.SK tentang Pengumpulan, Penyimpanan, dan Analisis Data serta Pelaporan dan Distribusi Informasi. 
-
-2. SOP tentang Pengumpulan dan 
-Penyimpanan Laporan. 
+2. SOP tentang Pengumpulan dan Penyimpanan Laporan. 
 
 3. SOP tentang Analisis Data. 
 
-4. SOP tentang Pelaporan dan 
-Distribusi Informasi. 
+4. SOP tentang Pelaporan dan Distribusi Informasi. 
 
 Catatan: 
 Jika menggunakan sistem informasi, maka SOP poin 2 dan poin 4 menyesuaikan. 
+
 1. Bukti pengumpulan dan penyimpanan laporan. 
 
 2. Bukti analisis data. 
 
 3. Bukti pelaporan dan distribusi informasi. 
 
-
 Catatan: 
-Jika menggunakan sistem informasi, maka bukti pelaksanaan poin 1 
-dan poin 3 menyesuaikan. 
+Jika menggunakan sistem informasi, maka bukti pelaksanaan poin 1 dan poin 3 menyesuaikan. 
  
-KTU, para PJ, para Koordinator 
-Pelayanan dan Pelaksana Kegiatan: 
-
-
-penggalian informasi terkait proses pengumpulan, penyimpanan, dan analisis data serta pelaporan dan distribusi informasi. 
-```
-
-
+KTU, para PJ, para Koordinator Pelayanan dan Pelaksana Kegiatan: penggalian informasi terkait proses pengumpulan, penyimpanan, dan analisis data serta pelaporan dan distribusi informasi. 
 
 #### b) Dilakukan evaluasi dan tindak lanjut terhadap penyelenggaraan sistem informasi Puskesmas secara periodik (D, W).
 
-
-```
 1. Bukti evaluasi Penyelenggaraan Sistem Informasi Puskesmas. 
 
 2. Bukti hasil tindak lanjut. 
  
-KTU dan petugas Sistem Informasi  Puskesmas: 
-penggalian informasi terkait proses dan hasil evaluasi serta tindak lanjut penyelenggaraan Sistem Informasi Puskesmas. 
-```
-
-
+KTU dan petugas Sistem Informasi  Puskesmas: penggalian informasi terkait proses dan hasil evaluasi serta tindak lanjut penyelenggaraan Sistem Informasi Puskesmas. 
 
 #### c) Terdapat informasi pencapaian kinerja Puskesmas melalui sistem informasi Puskesmas (D, O). 
 
-
-```
 1. Bukti pencapaian kinerja Puskesmas sesuai dengan sistem informasi yang digunakan. 
+
 Pengamatan surveior terhadap penyajian informasi pencapaian kinerja Puskesmas. 
-```
-
-
-
-### 
-
 
 ### Kriteria 1.2.5 Penyelenggaraan pelayanan UKM dan UKP dilaksanakan dengan pertimbangan etik dalam pengambilan keputusan pelayanan 
 
-
-```
 POKOK PIKIRAN: 
 
 a) Puskesmas menghadapi banyak tantangan dalam memberikan pelayanan kesehatan yang aman dan berkualitas. 
@@ -865,62 +517,33 @@ f) Jika diperlukan, kepala Puskesmas dapat membentuk dan menetapkan tim etik den
 
 g) Dukungan kepala dan/atau pegawai Puskesmas dalam penyelesaian dilema etik yang terjadi dapat berupa advokasi kepada tokoh 
 masyarakat/tokoh agama, pembinaan, berkoordinasi dengan dinas kesehatan daerah kabupaten/kota dan pihak terkait lainnya serta bentuk dukungan lainnya. 
+
 Elemen Penilaian 
-```
 
+####  a) Puskesmas mempunyai prosedur pelaporan dan penyelesaian bila terjadi dilema etik dalam pelayanan UKP dan pelayanan UKM (R). 
 
+1. SOP tentang Pelaporan dan Penyelesaian Dilema Etik. 
 
-####  \
-a) Puskesmas mempunyai prosedur pelaporan dan penyelesaian bila terjadi dilema etik dalam pelayanan UKP dan pelayanan UKM (R). \
+#### b) Dilaksanakan pelaporan apabila terjadi dilema etik dalam pelayanan UKP dan pelayanan UKM (D, W). 
 
-
-
-```
-1. SOP tentang Pelaporan dan 
-Penyelesaian Dilema Etik. 
-```
-
-
-
-#### b) Dilaksanakan pelaporan apabila terjadi dilema etik dalam pelayanan UKP dan pelayanan UKM (D, W). \
-  \
-
-
-
-```
 1. Bukti pelaporan dilema eik. 
  
-Kepala Puskesmas: 
-penggalian informasi terkait dilema etik yang pernah terjadi dan pelaksanaan pelaporannya. 
+Kepala Puskesmas: penggalian informasi terkait dilema etik yang pernah terjadi dan pelaksanaan pelaporannya. 
 
-
-c) Terdapat bukti bahwa pimpinan dan/atau pegawai Puskesmas mendukung penyelesaian dilema etik dalam pelayanan UKP dan pelayanan UKM dan telah dilaksanakan sesuai regulasi (D, W).
+#### c) Terdapat bukti bahwa pimpinan dan/atau pegawai Puskesmas mendukung penyelesaian dilema etik dalam pelayanan UKP dan pelayanan UKM dan telah dilaksanakan sesuai regulasi (D, W).
  
 1. Bukti dukungan kepala dan/atau pegawai Puskesmas dalam penanganan/ penyelesaian dilema etik.
  
-Kepala Puskesmas: 
-penggalian informasi terkait proses penanganan terhadap dilema etik yang pernah terjadi dan bentuk dukungan kepala dan/atau pegawai Puskesmas dalam penanganan/ penyelesaiannya. 
-```
-
-
-
-
+Kepala Puskesmas: penggalian informasi terkait proses penanganan terhadap dilema etik yang pernah terjadi dan bentuk dukungan kepala dan/atau pegawai Puskesmas dalam penanganan/ penyelesaiannya. 
 
 ## Standar 1.3 Manajemen sumber daya manusia. 
 
-
-```
 Manajemen sumber daya manusia Puskesmas dilakukan sesuai dengan ketentuan peraturan perundang-undangan. 
 
 Ketenagaan Puskesmas harus dikelola sesuai dengan ketentuan peraturan perundang-undangan. 
-```
-
-
 
 ### Kriteria 1.3.1 Tersedia sumber daya manusia (SDM) dengan jenis, jumlah, dan kompetensi sesuai kebutuhan pelayanan dan ketentuan peraturan perundang-undangan 
 
-
-```
 POKOK PIKIRAN: 
 
 a) Untuk memenuhi kebutuhan SDM di Puskesmas berdasarkan jumlah, jenis, dan kompetensi, perlu dilakukan analisis jabatan dan analisis beban kerja berdasarkan peraturan tentang perencanaan kebutuhan pegawai dan dapat mempertimbangkan rekomendasi dari organisasi profesi sebagai dasar pengajuan kebutuhan tenaga Puskesmas ke dinas kesehatan daerah kabupaten/kota dan/atau  pengadaan sendiri bagi Puskesmas BLUD. 
@@ -940,84 +563,40 @@ g) Puskesmas menetapkan mekanisme yang menjamin pegawai memiliki pendidikan, ket
 h) Agar mutu pelayanan kesehatan yang  berorientasi pada keselamatan pasien dan masyarakat di Puskesmas lebih terjamin dan terlindungi, perlu dipastikan bahwa setiap pelayanan kesehatan dilakukan oleh dokter, dokter gigi, dan tenaga kesehatan lain yang kompeten melalui proses kredensial. Pengusulan kredensial dan/atau rekredensial tenaga kesehatan serta tindak lanjutnya, termasuk penetapan penugasan klinis mengacu pada ketentuan peraturan perundang-undangan yang berlaku. 
 Elemen Penilaian 
 
-```
+#### a) Dilakukan analisis jabatan dan analisis beban kerja sesuai kebutuhan pelayanan dan ketentuan peraturan perundang- undangan (D, W).  
 
-
-
-#### a) Dilakukan analisis jabatan dan analisis beban kerja sesuai kebutuhan pelayanan dan ketentuan peraturan perundang- undangan (D, W).  \
-  \
-
-
-
-```
 1. Bukti analisis jabatan. 
 
 2. Bukti analisis beban kerja. 
 
 3. Bukti pelaksanaan analisis, minimal daftar hadir dan notulen yang diserta dengan foto kegiatan. 
  
-Kepala Puskesmas dan KTU: 
-penggalian informasi terkait proses analisis jabatan dan analisis beban kerja. 
-  
-```
-
-
+Kepala Puskesmas dan KTU: penggalian informasi terkait proses analisis jabatan dan analisis beban kerja. 
 
 #### b) Disusun peta jabatan, uraian jabatan dan kebutuhan tenaga berdasar hasil analisis jabatan dan hasil analisis beban kerja (D, W).
 
-
-```
 1. Dokumen peta jabatan, uraian jabatan, dan dokumen kebutuhan tenaga. 
  
-Kepala Puskesmas dan KTU: 
-
-
-penggalian informasi terkait proses penyusunan peta jabatan dan uraian jabatan serta kebutuhan tenaga. 
+Kepala Puskesmas dan KTU: penggalian informasi terkait proses penyusunan peta jabatan dan uraian jabatan serta kebutuhan tenaga. 
  
-```
+#### c) Dilakukan upaya untuk pemenuhan kebutuhan tenaga baik dari jenis, jumlah maupun kompetensi sesuai dengan peta jabatan dan hasil analisis beban kerja (D, W).  
 
-
-
-#### c) Dilakukan upaya untuk pemenuhan kebutuhan tenaga baik dari jenis, jumlah maupun kompetensi sesuai dengan peta jabatan dan hasil analisis beban kerja (D, W).  \
-  \
-
-
-
-```
 1. Bukti upaya pemenuhan tenaga. 
  
-Kepala Puskesmas dan KTU: 
- penggalian informasi terkait proses pemenuhan tenaga dan hasilnya. 
+Kepala Puskesmas dan KTU: penggalian informasi terkait proses pemenuhan tenaga dan hasilnya. 
  
-```
+####   d) Terdapat bukti Puskesmas mengusulkan kredensial dan/atau rekredensial tenaga kesehatan kepada tim kredensial dinas kesehatan daerah kabupaten/kota dan dilakukan tindak lanjut terhadap hasil kredensial dan/atau rekredensial sesuai ketentuan yang berlaku (D, W). 
 
-
-
-####   \
-d) Terdapat bukti Puskesmas mengusulkan kredensial dan/atau rekredensial tenaga kesehatan kepada tim kredensial dinas kesehatan daerah kabupaten/kota dan dilakukan tindak lanjut terhadap hasil kredensial dan/atau rekredensial sesuai ketentuan yang berlaku (D, W). \
-  \
-
-
-
-```
 1. Surat permohonan kredensial dan/atau rekredensial. 
 
 2. Surat penugasan klinis yang merujuk pada penetapan kewenangan klinis dari tim kredensial dinas kesehatan daerah kabupaten/kota 
 
 3. Bukti tindak lanjut terhadap hasil kredensial dan/atau rekredensial (sesuai petunjuk teknis kredensial tenaga kesehatan di puskesmas).
  
-Kepala Puskesmas: 
- penggalian informasi terkait proses, hasil, dan tindak lanjut kredensial dan/atau rekredensial tenaga kesehatan. 
-```
-
-
-
-
+Kepala Puskesmas: penggalian informasi terkait proses, hasil, dan tindak lanjut kredensial dan/atau rekredensial tenaga kesehatan. 
 
 ### Kriteria 1.3.2 Setiap pegawai Puskesmas mempunyai uraian tugas yang menjadi dasar dalam pelaksanaan kegiatan pelayanan maupun penilaian kinerja pegawai. 
 
-
-```
 POKOK PIKIRAN: 
 
 a) Kepala Puskesmas menetapkan uraian tugas setiap pegawai sebagai acuan dalam melaksanakan kegiatan pelayanan. Setiap pegawai wajib memahami uraian tugas masing-masing agar dapat menjalankan pekerjaan sesuai dengan tugas, tanggung jawab, dan wewenang yang diembannya. 
@@ -1057,7 +636,7 @@ k) Hasil penilaian kinerja ditindaklanjuti untuk perbaikan kinerja masing-masing
 
 l) Kinerja pegawai dapat dipengaruhi oleh kesejahteraan (well being) dan tingkat kepuasannya, misalnya kepuasan terhadap kepemimpinan organisasi, beban kerja, tim kerja, lingkungan kerja, kompensasi dan lain-lain. Oleh karena itu, perlu dilakukan penilaian tingkat kepuasan pegawai minimal setahun sekali. Hasil analisis terhadap tingkat kepuasan pegawai digunakan untuk melakukan upaya perbaikan. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -1065,9 +644,9 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tentang Penetapan Uraian Tugas Pegawai. 
-```
+
 
 
 
@@ -1075,9 +654,9 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tentang Penetapan Indikator Penilaian Kinerja Pegawai. 
-```
+
 
 
 
@@ -1085,14 +664,14 @@ Elemen Penilaian
 
 
 
-```
+
 1. SOP tentang Penilaian Kinerja Pegawai. 
 1. Hasil penilaian kinerja pegawai. 
 
 2. Bukti tindak lanjut terhadap hasil penilaian kinerja pegawai. 
  
 KTU: penggalian informasi terkait proses pelaksanaan, hasil dan tindak lanjut penilaian kinerja pegawai. 
-```
+
 
 
 
@@ -1100,11 +679,11 @@ KTU: penggalian informasi terkait proses pelaksanaan, hasil dan tindak lanjut pe
 
 
 
-```
+
 1) SK tentang Penetapan Indikator Kepuasan Pegawai. 
 
 2) SOP tentang Survei Kepuasan Pegawai. 
-```
+
 
 
 
@@ -1112,7 +691,7 @@ KTU: penggalian informasi terkait proses pelaksanaan, hasil dan tindak lanjut pe
 
 
 
-```
+
 Kerangka acuan kegiatan survei kepuasan pegawai. 
 1. Jadwal pelaksanaan survei kepuasan pegawai 
 
@@ -1124,14 +703,14 @@ Kerangka acuan kegiatan survei kepuasan pegawai.
  
 KTU: penggalian informasi terkait proses pengumpulan data, analisis hasil survei kepuasan pegawai, dan upaya perbaikannya. 
  
-```
+
 
 
 
 ### Kriteria 1.3.3 Setiap pegawai mendapatkan kesempatan untuk mengembangkan ilmu dan keterampilan yang diperlukan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a) Dalam upaya peningkatan kompetensi semua pegawai yang ada, Puskesmas perlu merencanakan dan memberi kesempatan bagi seluruh pegawai yang ada di Puskesmas untuk meningkatkan kompetensi melalui pendidikan dan/ atau pelatihan. Selain itu, peningkatan kompetensi pegawai dapat dilakukan dengan cara mengikuti workshop/lokakarya, seminar, simposium, dan on the job training (OJT), baik secara daring maupun luring. 
@@ -1145,7 +724,7 @@ d) Puskesmas memfasilitasi pemenuhan kompetensi pegawai karena adanya kesenjanga
 e) Puskesmas melakukan pendokumentasian hasil peningkatan kompetensi sesuai dengan prosedur yang telah ditetapkan. 
  
 Elemen Penilaian 
-```
+
 
 
 
@@ -1156,10 +735,10 @@ Elemen Penilaian
 
 
 
-```
 
 
-```
+
+
 
 
 
@@ -1167,11 +746,11 @@ Elemen Penilaian
 
 
 
-```
+
 1. RUK yang mencantumkan kegiatan peningkatan kompetensi pegawai. 
 Kepala Puskesmas, KTU: penggalian informasi terkait bentuk dukungan dalam peningkatan kompetensi pegawai. 
  
-```
+
 
 
 
@@ -1179,10 +758,10 @@ Kepala Puskesmas, KTU: penggalian informasi terkait bentuk dukungan dalam pening
 
 
 
-```
+
 1. SOP tentang Penerapan Hasil 
 Peningkatan Kompetensi Pegawai 
-```
+
 
 
 `1. Bukti pelaksanaan kegiatan peningkatan `kompetensi yang dilakukan oleh pegawai. 
@@ -1198,7 +777,7 @@ KTU dan pegawai yang mengikuti peningkatan kompetensi: penggalian informasi terk
 ### Kriteria 1.3.4 Setiap pegawai mempunyai dokumen kepegawaian yang lengkap dan mutakhir 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a) Puskesmas wajib menyediakan dokumen kepegawaian, baik dalam bentuk cetak maupun dalam  bentuk digital, untuk tiap pegawai yang bekerja di Puskesmas sebagai bukti bahwa pegawai yang bekerja memenuhi 
@@ -1230,7 +809,7 @@ d) Dokumen kepegawaian tiap pegawai berisi antara lain:
 (10) bukti pelaksanaan orientasi. 
  	 
 Elemen Penilaian 
-```
+
 
 
 
@@ -1238,7 +817,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tentang Kelengkapan Isi 
 Dokumen Kepegawaian. 
 
@@ -1250,7 +829,7 @@ Catatan: dokumen kepegawaian dapat dalam bentuk cetak dan/atau digital.
 Pengamatan surveior terhadap dokumen kepegawaian tiap pegawai serta kesesuaian kelengkapan dan kemutakhiran isinya. 
 KTU: penggalian informasi terkait proses pengumpulan dan pengelolaan dokumen kepegawaian. 
  
-```
+
 
 
 
@@ -1259,14 +838,14 @@ KTU: penggalian informasi terkait proses pengumpulan dan pengelolaan dokumen kep
 
 
 
-```
+
 1. Bukti evaluasi terhadap kelengkapan dan pemutakhiran data kepegawaian. 
 
 2. Bukti tindak lanjut terhadap hasil evaluasi kelengkapan dan pemutakhiran data kepegawaian. 
  
 KTU: penggalian informasi terkait proses dan hasil evaluasi kelengkapan dan pemutakhiran data kepegawaian serta tindak lanjutnya. 
  
-```
+
 
 
 
@@ -1275,7 +854,7 @@ KTU: penggalian informasi terkait proses dan hasil evaluasi kelengkapan dan pemu
 ### Kriteria 1.3.5 Pegawai baru dan pegawai alih tugas wajib mengikuti orientasi agar memahami dan mampu melaksanakan tugas pokok dan tanggung jawab yang diberikan kepadanya 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a) Setiap pegawai baru dan pegawai alih tugas baik yang diposisikan sebagai pimpinan Puskesmas, penanggung jawab upaya Puskesmas, koordinator pelayanan, maupun pelaksana kegiatan harus mengikuti orientasi. 
@@ -1296,7 +875,7 @@ g) Pada kegiatan orientasi khusus ini, pegawai baru dan pegawai alih tugas juga 
  	 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -1304,14 +883,14 @@ Elemen Penilaian
 
 
 
-```
+
 1. KAK kegiatan orientasi pegawai. 
 1. Buku Pelaksanaan kegiatan orientasi pegawai. 
  
 KTU dan Pegawai yang mengikuti orientasi: penggalian informasi terkait proses pelaksanaan kegiatan orientasi pegawai baru dan pegawai alih tugas. 
  
  
-```
+
 
 
 
@@ -1320,7 +899,7 @@ KTU dan Pegawai yang mengikuti orientasi: penggalian informasi terkait proses pe
 
 
 
-```
+
 1. Bukti evaluasi pelaksanaan kegiatan orientasi pegawai. 
 
 2. Bukti tindak lanjut terhadap hasil evaluasi pelaksanaan kegiatan orientasi pegawai. 
@@ -1328,14 +907,14 @@ KTU dan Pegawai yang mengikuti orientasi: penggalian informasi terkait proses pe
 KTU: penggalian informasi terkait hasil evaluasi pelaksanaan kegiatan orientasi pegawai baru dan pegawai alih tugas serta tindak lanjutnya. 
  
 
-```
+
 
 
 
 ### Kriteria 1.3.6 Puskesmas menyelenggarakan pelayanan Keselamatan dan Kesehatan Kerja (K3). 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Pegawai yang bekerja di Puskesmas mempunyai risiko terpapar infeksi yang dapat menimbulkan penyakit akibat kerja, terjadinya kecelakaan kerja terkait  dengan pekerjaan yang dilakukan dalam pelayanan baik langsung maupun tidak langsung.  
@@ -1365,7 +944,7 @@ g. Dalam menyelenggarakan program K3, kepala Puskesmas menunjuk petugas yang  be
 
 Jika Puskesmas tidak memiliki SDM yang memadai, petugas yang bertanggung jawab terhadap program K3 dapat dirangkap oleh petugas yang bertanggung jawab terhadap program lain, seperti manajemen fasilitas dan keselamatan (MFK), pencegahan dan pengendalian infeksi (PPI), keselamatan pasien (KP) 
 Elemen Penilaian 
-```
+
 
 
 
@@ -1373,7 +952,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tentang penetapan koordinator atau tim K3 yang terintegrasi dengan SK Penanggung 
 Jawab dan Koordinator Pelayanan pada Kriteria 1.2.1. 
 
@@ -1384,7 +963,7 @@ Pelayanan pada Kriteria 1.1.1.
  
 Koordinator atau Tim K3: penggalian informasi terkait pelaksanaan program-program K3 dan hasil evaluasinya. 
  
-```
+
 
 
 
@@ -1392,13 +971,13 @@ Koordinator atau Tim K3: penggalian informasi terkait pelaksanaan program-progra
 
 
 
-```
+
 1. RUK dan RPK yang mencantumkan kegiatan pemeriksaan kesehatan berkala bagi pegawai. 
 1. Bukti hasil pemeriksaan berkala kesehatan pegawai. 
  
 Koordinator atau Tim K3: penggalian informasi terkait proses pelaksanaan pemeriksaan berkala kesehatan pegawai. 
  
-```
+
 
 
 
@@ -1406,7 +985,7 @@ Koordinator atau Tim K3: penggalian informasi terkait proses pelaksanaan pemerik
 
 
 
-```
+
 1. RUK dan RPK yang mencantumkan 
 kegiatan imunisasi bagi pegwai 
 1. Dokumen analisis tingkat risiko pelayanan. 
@@ -1415,7 +994,7 @@ kegiatan imunisasi bagi pegwai
  
 Koordinator atau Tim K3: penggalian informasi terkait proses pelaksanaan imunisasi bagi pegawai. 
  
-```
+
 
 
 
@@ -1424,14 +1003,14 @@ Koordinator atau Tim K3: penggalian informasi terkait proses pelaksanaan imunisa
 
 
 
-```
+
 1. Bukti pelaksanaan konseling terhadap pegawai. 
 
 2. Bukti tindak lanjut hasil konseling terhadap pegawai. 
  
 Koordinator atau Tim K3: penggalian informasi terkait proses pelaksanaan konseling bagi pegawai dan tindak lanjutnya. 
  
-```
+
 
 
 
@@ -1439,23 +1018,15 @@ Koordinator atau Tim K3: penggalian informasi terkait proses pelaksanaan konseli
 
 ## Standar 1.4 Manajemen fasilitas dan keselamatan. 
 
-
-```
 Manajemen sarana (bangunan), prasarana, peralatan, keselamatan dan keamanan lingkungan Puskesmas dilaksanakan sesuai ketentuan peraturan perundang-undangan. 
 
 Sarana (bangunan), prasarana, peralatan, keselamatan dan keamanan lingkungan dikelola dalam Manajemen Fasilitas dan 
 Keselamatan (MFK) sesuai dengan ketentuan peraturan perundang-undangan dan dikaji dengan memperhatikan manajemen risiko 
-```
+
+### Kriteria 1.4.1. Disusun dan diterapkan program Manajemen Fasilitas dan Keselamatan (MFK) yang meliputi manajemen keselamatan dan keamanan fasilitas, manajemen bahan berbahaya beracun (B3) dan limbah B3, manajemen kedaruratan dan bencana, manajemen pengamanan kebakaran, manajemen alat kesehatan, manajemen sistem utilitas, dan Pendidikan MFK. 
 
 
 
-### 
-
-
-### Kriteria 1.4.1. `Disusun dan diterapkan program Manajemen Fasilitas dan Keselamatan (MFK) yang meliputi manajemen keselamatan dan keamanan fasilitas, manajemen bahan berbahaya beracun (B3) dan limbah B3, manajemen kedaruratan dan bencana, manajemen pengamanan kebakaran, manajemen alat kesehatan, manajemen sistem utilitas, dan Pendidikan MFK. `
-
-
-```
 POKOK PIKIRAN: 
 
 (a) Puskesmas sebagai fasilitas kesehatan tingkat pertama yang memberikan pelayanan kepada masyarakat mempunyai kewajiban untuk mematuhi ketentuan peraturan perundang-undangan yang terkait dengan bangunan, prasarana, peralatan dan menyediakan lingkungan yang aman bagi pengguna layanan, pengunjung, petugas, dan masyarakat  termasuk  pasien dengan keterbatasan fisik diberikan akses  untuk memperoleh pelayanan. 
@@ -1572,7 +1143,7 @@ daftar risiko (risk register) yang terintegrasi dengan daftar risiko (risk regis
 (i) Program MFK perlu dievaluasi minimal per triwulan untuk memastikan bahwa Puskesmas  telah  melakukan upaya penyediaan lingkungan yang aman bagi pengguna layanan, pengunjung, petugas, dan masyarakat sesuai dengan rencana. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -1580,13 +1151,13 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK penetapan penanggung jawab MFK yang terintegrasi dengan SK penanggung jawab pada kriteria 
 1.2.1 
 
 2. SK penetapan program MFK yang terintegrasi dengan SK Jenis-Jenis 
 Pelayanan pada Kriteria 1.1.1 
-```
+
 
 
 
@@ -1594,10 +1165,10 @@ Pelayanan pada Kriteria 1.1.1
 
 
 
-```
+
 Pengamatan surveior terhadap pengaturan ruang yang aman apakah mengakomodasi Pengguna layanan yang dengan keterbatasan fisik seperti menyediakan hendrel pegangan tangan pada kamar mandi, jalur kursi roda dll
 PJ mutu, koordinator MFK dan pasien: penggalian informasi tentang akses layanan yang mudah dan aman bagi pengguna yang keterbatasan fisik 
-```
+
 
 
 
@@ -1606,11 +1177,11 @@ PJ mutu, koordinator MFK dan pasien: penggalian informasi tentang akses layanan 
 
 
 
-```
+
 1. Bukti identifikasi terhadap area beresiko pada keselamatan dan keamanan fasilitas 
  
 PJ mutu, koordinator MFK: penggalian informasi terkait dasar penetapan area beresiko pada keselamatan dan keamanan fasilitas 
-```
+
 
 
 
@@ -1618,12 +1189,12 @@ PJ mutu, koordinator MFK: penggalian informasi terkait dasar penetapan area bere
 
 
 
-```
+
 1. Daftar risiko (risk register) 
 program MFK. 
 
 Catatan: terintegrasi dengan daftar risiko pada program manajemen risiko. 
-```
+
 
 
 
@@ -1631,14 +1202,14 @@ Catatan: terintegrasi dengan daftar risiko pada program manajemen risiko.
 
 
 
-```
+
 1. Bukti evaluasi dari pelaksanaan program MFK 
 
 2. Bukti hasil tindak lanjut dari pelaksanaan evaluasi program MFK. 
 
 Catatan: 
 Pemenuhan huruf d) meliputi angka (1) sampai dengan angka (7) sesuai pada POKOK PIKIRAN 
-```
+
 
 
 
@@ -1647,7 +1218,7 @@ Pemenuhan huruf d) meliputi angka (1) sampai dengan angka (7) sesuai pada POKOK 
 ### Kriteria 1.4.2 Puskesmas merencanakan dan melaksanakan manajemen keselamatan dan keamanan fasilitas. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a) Manajemen keselamatan dan keamanan fasilitas dirancang untuk mencegah terjadinya cedera pada pengguna layanan, pengunjung, petugas dan masyarakat, seperti tertusuk jarum,  tertimpa bangunan atau gedung roboh, dan tersengat listrik. 
@@ -1671,7 +1242,7 @@ g) Dilakukan inspeksi fasilitas untuk menjamin keamanan dan keselamatan.
 h) Apabila terdapat renovasi maka dipastikan tidak mengganggu pelayanan dan mencegah penyebaran infeksi. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -1679,12 +1250,12 @@ Elemen Penilaian
 
 
 
-```
+
 1. SOP identifikasi pengunjung, petugas dan pekerja alih daya 
  
 Pengamatan surveior terkait identifikasi kepada pengunjung, petugas dan pekerja alih daya sesuai dengan regulasi yang ditetapkan 
 Puskesmas Petugas, pengunjung dan pekerja alih daya: penggalian informasi terkait pelaksanaan identifikasi pengunjung, petugas dan pekerja alih daya
-```
+
 
 
 
@@ -1692,7 +1263,7 @@ Puskesmas Petugas, pengunjung dan pekerja alih daya: penggalian informasi terkai
 
 
 
-```
+
 1. SOP inspeksi fasilitasfasilitas 
 1. Bukti hasil inspeksi fasilitas sesuai dengan regulasi yang ditetapkan di Puskesmas 
 Pengamatan surveyor terkait hasil pemeliharaan fasilitas termasuk penyediaan mendukung keamanan dan fasilitas seperti penyediaan closed circuit television (CCTV), alarm, alat pemadam api ringan (APAR), jalur evakuasi, titik kumpul, rambu-rambu mengenai keselamatan dan tanda-tanda pintu darurat. 
@@ -1700,7 +1271,7 @@ Pengamatan surveyor terkait hasil pemeliharaan fasilitas termasuk penyediaan men
 Koordinator MFK: Penggalian informasi terkait pelaksanaan pemeliharaan fasilitas yang ada di 
 Puskesmas 
  
-```
+
 
 
 
@@ -1708,7 +1279,7 @@ Puskesmas
 
 
 
-```
+
 Bukti hasil simulasi terhadap kode darurat (kode merah dan kode biru) minimal melampirkan daftar hadir dan foto2 kegiatan simulasi. 
 
 Catatan: 
@@ -1719,7 +1290,7 @@ Petugas Puskesmas: penggalian
 informasi terkait dengan pelaksanaan kode darurat yang ditetapkan oleh Puskesmas 
 Surveyor meminta petugas untuk melakukan simulasi kode darurat (kode merah dan kode biru) yang ditetapkan oleh Puskesmas 
  
-```
+
 
 
 
@@ -1727,12 +1298,12 @@ Surveyor meminta petugas untuk melakukan simulasi kode darurat (kode merah dan k
 
 
 
-```
+
 Dokumen ICRA bangunan (jika ada renovasi bangunan) yang dilakukan oleh Tim PPI bekerja sama dengan Tim MFK serta dengan multidisplin lainnya 
 Pengamatan surveior terhadap: Hasil pelaksanaan ICRA bangunan (jika ada renovasi bangunan) 
 Koordinator PPI dan Koordinator MFK:penggalian informasi terkait dengan penyusunan ICRA bangunan (jika dilakukan renovasi bangunan) 
  
-```
+
 
 
 
@@ -1741,7 +1312,7 @@ Koordinator PPI dan Koordinator MFK:penggalian informasi terkait dengan penyusun
 ### Kriteria 1.4.3 Inventarisasi, pengelolaan, penyimpanan, dan penggunaan bahan berbahaya beracun (B3), pengendalian dan pembuangan limbah B3 dilakukan berdasarkan perencanaan dan ketentuan peraturan perundang-undangan 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Bahan berbahaya beracun (B3) dan limbah B3 perlu diidentifikasi dan dikendalikan secara aman. 
@@ -1756,7 +1327,7 @@ e. Dalam pengelolaan limbah B3, Puskesmas dapat bekerja sama dengan pihak ketiga
 
 f. Tersedia instalasi pengolahan air limbah (IPAL) sesuai dengan ketentuan peraturan perundang-undangan. 
 Elemen Penilaian: 
-```
+
 
 
 
@@ -1764,9 +1335,9 @@ Elemen Penilaian:
 
 
 
-```
+
 1. Daftar inventarisasi B3 dan limbah B3 
-```
+
 
 
 
@@ -1774,13 +1345,13 @@ Elemen Penilaian:
 
 
 
-```
+
 1. SOP Pengelolaan Limbah B3 di 
 Puskesmas yang meliputi (huruf (a) sampai dengan huruf (f) sesuai pada POKOK PIKIRAN angka (2) kriteria 1.4.1)
 1. Bukti pelaksanaan program manajemen B3 dan limbah B3 
  
 Petugas yang bertanggung jawab terhadap pengelolaan B3 dan limbah B3: penggalian informasi terkait proses pengelolaan B3 dan limbah B3 
-```
+
 
 
 
@@ -1788,10 +1359,10 @@ Petugas yang bertanggung jawab terhadap pengelolaan B3 dan limbah B3: penggalian
 
 
 
-```
+
 1. Izin IPAL 
 Pengamatan surveior terhadap penyediaan IPAL sesuai dengan surat izin 
-```
+
 
 
 
@@ -1803,14 +1374,14 @@ Pengamatan surveior terhadap penyediaan IPAL sesuai dengan surat izin
 2. Bukti tindak lanjut dari hasil pelaporan dan analisis.
 
 
-```
+
 Bukti hasil pelaporan dan hasil analisis dari penanganan paparan/pajanan 
 
 ketersedian spill kit untuk penanganan tumpahan limbah 
 B3 
 
 Petugas kebersihan/ cleaning service, koordinator PPI, petugas kesling dan petugas di tempat terjadinya tumpahan: penggalian informasi terkait penanganan tumpahan B3 
-```
+
 
 
 
@@ -1819,7 +1390,7 @@ Petugas kebersihan/ cleaning service, koordinator PPI, petugas kesling dan petug
 ### Kriteria 1.4.4 Puskesmas menyusun, memelihara, melaksanakan, dan mengevaluasi manajemen kedaruratan dan bencana. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Potensi terjadinya bencana di daerah berbeda, yaitu antara daerah yang satu dan yang lain. 
@@ -1827,7 +1398,7 @@ a. Potensi terjadinya bencana di daerah berbeda, yaitu antara daerah yang satu d
 b. Puskesmas sebagai fasilitas kesehatan tingkat pertama (FKTP) ikut berperan aktif dalam upaya mitigasi dan penanggulangan bila terjadi bencana, baik internal maupun eksternal. 
 
 c. Strategi untuk menghadapi bencana perlu disusun sesuai dengan potensi bencana yang mungkin terjadi berdasarkan hasil penilaian kerentanan bahaya (HVA). 
-```
+
 
 
 d. kesiapan menghadapi bencana disusun dan disimulasikan setiap tahun secara internal atau melibatkan komunitas secara luas, terutama ditujukan untuk menilai kesiapan system pada huruf (b) sampai huruf (b) sampai dengan huruf (f) yang telah diuraikan dalam pokok pikiran d) bagian 3) kriteria 1.4.1.
@@ -1839,11 +1410,11 @@ f, Debriefing adalah sebuah reviu yang dilakukan setelah simulasi bersama pesert
 g. Hasil dari kegiatan debriefing didokumentasikan.
 
 
-```
+
 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -1857,13 +1428,13 @@ Elemen Penilaian
 
 
 
-```
+
 1. Bukti pelaksanaan program manajemen kedaruratan dan bencana yang meliputi huruf (a) sampai dengan huruf (g) sesuai pada POKOK 
 PIKIRAN angka 3) pada kriteria 1.4.1 
  
 Petugas Puskesmas, pasien dan pengunjung: penggalian informasi terhadap penerapan manajemen kedaruratan dan bencana 
  
-```
+
 
 
 
@@ -1872,9 +1443,9 @@ Petugas Puskesmas, pasien dan pengunjung: penggalian informasi terhadap penerapa
 
 
 
-```
+
 1. Bukti pelaksanaan simulasi (minimal melampirkan daftar hadir dan foto kegiatan simulasi dan laporan) 
-```
+
 
 
 `2. Bukti hasil evaluasi tahunan  \
@@ -1882,21 +1453,21 @@ Petugas Puskesmas, pasien dan pengunjung: penggalian informasi terhadap penerapa
 `3. Bukti pelaksanaan debriefing setiap selesai simulasi (minimal melampirkan daftar hadir, foto kegiatan dan laporan)
 
 
-```
+
 Petugas Puskesmas:  penggalian informasi kepada pelaksanaan simulasi, evaluasi dan debriefing setiap selesai simulasi
-```
+
 
 
 
 #### d) Dilakukan perbaikan terhadap manajemen kedaruratan dan bencana sesuai hasil simulasi dan evaluasi tahunan. 
 
 
-```
+
 (D). 
 1. Bukti rencana perbaikan program manajemen kedaruratan dan bencana sesuai hasil simulasi 
 
 2. Bukti hasil evaluasi tahunan 
-```
+
 
 
 
@@ -1905,7 +1476,7 @@ Petugas Puskesmas:  penggalian informasi kepada pelaksanaan simulasi, evaluasi d
 ### Kriteria 1.4.5 Puskesmas menyusun, memelihara, melaksanakan, dan melakukan evaluasi manajemen pengamanan kebakaran termasuk sarana evakuasi. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Setiap fasilitas kesehatan termasuk Puskesmas mempunyai risiko terhadap terjadinya kebakaran. 
@@ -1928,7 +1499,7 @@ Larangan merokok wajib dipatuhi oleh petugas, pengguna layanan, dan pengunjung.
 Pelaksanaan larangan ini harus dipantau. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -1936,14 +1507,14 @@ Elemen Penilaian
 
 
 
-```
+
 1. Bukti pelaksanaan program manajemen pengamanan sesuai huruf (a) sampai dengan huruf (d) pada angka (4) sesuai POKOK PIKIRAN 
 kriteria 1.4.1
 
 Pengamatan surveior terhadap penerapan pengamanan yang ditetapkan oleh Puskesmas seperti penerapan resiko kebakaran, penyediaan proteksi kebakaran baik aktif mau pasif, dan himbauan dilarang merokok 
 Petugas Puskesmas:  penggalian informasi terkait dengan penerapan manajemen risiko kebakaran 
  
-```
+
 
 
 
@@ -1951,14 +1522,14 @@ Petugas Puskesmas:  penggalian informasi terkait dengan penerapan manajemen risi
 
 
 
-```
+
 1. Bukti pelaksanaan dan hasil inspeksi/pengujian. 
 
 2. Bukti pemeliharaan alat deteksi dini jalur evakuasi, serta keberfungsian alat pemadam api 
 Bukti pelaksanaan dan hasil inspeksi/alat deteksi dini, jalur evakuasi, serta keberfungsian alat pemadam api 
  
  
-```
+
 
 
 
@@ -1966,26 +1537,26 @@ Bukti pelaksanaan dan hasil inspeksi/alat deteksi dini, jalur evakuasi, serta ke
 
 
 
-```
+
 1. Bukti pelaksanaan simulasi minimal menyertakan notulen dan foto- foto kegiatan simulasi 
 
 2. Bukti evaluasi tahunan terhadap program manajemen pengamanan kebakaran 
  
 Petugas Puskesmas, pengunjung: penggalian informasi terhadap sistem pengamanan kebakaran 
 Petugas Puskesmas melakukan simulasi pengamanan kebakaran 
-```
+
 
 
 
 #### d) Ditetapkan kebijakan larangan  merokok bagi petugas, pengguna layanan, dan pengunjung di area 
 
 
-```
+
 Puskesmas (R, O, W). 
 SK tentang larangan merokok  bagi petugas, pengguna layanan, dan pengunjung di area Puskesmas 
  
 Pengamatan terhadap  penerapan kebijakan larangan merokok di Puskesmas Kepada petugas dan pengunjung : penggalian informasi terkait kebijakan larangan merokok 
-```
+
 
 
 
@@ -1994,7 +1565,7 @@ Pengamatan terhadap  penerapan kebijakan larangan merokok di Puskesmas Kepada pe
 ### Kriteria 1.4.6 Puskesmas menyusun dan melaksanakan pengelolaan program untuk memastikan semua peralatan kesehatan berfungsi dan mencegah terjadinya ketidaktersediaan dan kegagalan fungsi alat Kesehatan 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a) Manajemen alat kesehatan ditujukan untuk: 
@@ -2026,7 +1597,7 @@ fungsi alat.
 g) Pelaksanaan kalibrasi dilakukan oleh pihak yang kompeten sesuai dengan ketentuan peraturan perundang-undangan. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -2034,9 +1605,9 @@ Elemen Penilaian
 
 
 
-```
+
 Bukti kesesuaian inventarisasi alkes dengan ASPAK. 
-```
+
 
 
 
@@ -2044,19 +1615,19 @@ Bukti kesesuaian inventarisasi alkes dengan ASPAK.
 
 
 
-```
+
 1. Bukti pemenuhan kompetensi staf dalam mengoperasikan alat kesehatan tertentu (contoh pengajuan pelatihan mengoperasional- kan alat ke dinas kesehatan) 
  
 Petugas yang bertanggungjawab dalam mengoperasikan alat:  
 penggalian informasi tentang mengoperasikan alat kesehatan tertentu 
-```
+
 
 
 
 #### c) Dilakukan pemeliharaan dan kalibrasi terhadap alat kesehatan secara periodik (R, D, O, W) 
 
 
-```
+
 
 1. SOP pemeliharaan alat kesehatan 
 1. Jadwal pemeliharaan alat 
@@ -2073,7 +1644,7 @@ Jika pelaksanaan kalibrasi dilakukan oleh Dinkes Kab/Kota, maka Puskesmas cukup 
 
 Pengamatan surveior terhadap alat kesehatan yang dilakukan pemeliharaan dan kalibrasi 
 Petugas yang bertanggung jawab terhadap pemeliharaan dan kalibrasi alat kesehatan: penggalian informasi terkait pemeliharaan dan kalibrasi alat kesehatan 
-```
+
 
 
 
@@ -2082,7 +1653,7 @@ Petugas yang bertanggung jawab terhadap pemeliharaan dan kalibrasi alat kesehata
 ### Kriteria 1.4.7 Puskesmas menyusun dan melaksanakan pengelolaan untuk memastikan semua sistem utilitas berfungsi dan mencegah terjadinya ketidaktersediaan dan kegagalan fungsi sistem utilitas 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Sistem utilitas meliputi air, listrik, gas medik, dan sistem penunjang lainnya seperti genset, panel listrik, perpipaan air, dan lainnya. 
@@ -2108,7 +1679,7 @@ g. Sistem air, listrik, gas medik, dan sistem penunjang lainnya, seperti genset,
 h. Air bersih perlu dilakukan pemeriksaan seperti, uji kualitas air secara periodik sesuai dengan ketentuan peraturan perundang-undangan. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -2116,9 +1687,9 @@ Elemen Penilaian
 
 
 
-```
+
 1. Daftar inventarisasi sistem utilitas 
-```
+
 
 
 
@@ -2126,10 +1697,10 @@ Elemen Penilaian
 
 
 
-```
+
 1. SOP pelaksanaan manajemen sistem utilitas dan sistem penunjang lainnya. 
 1. Bukti pelaksanaan program manajemen utilitas dan sistem penunjang lainnya
-```
+
 
 
 
@@ -2138,9 +1709,9 @@ c) Sumber air. Listrik dan gas medik beserta cadangannya tersedia selama 7 hari 
 
 
 
-```
+
 Pengamatan surveior terhadap ketersediaan sumber air, listrik, dan gas medik beserta cadangannya tersedia selama 7 hari 24 jam untuk pelayanan di Puskesmas 
-```
+
 
 
 
@@ -2149,7 +1720,7 @@ Pengamatan surveior terhadap ketersediaan sumber air, listrik, dan gas medik bes
 ### Kriteria 1.4.8 Puskesmas menyusun dan melaksanakan pendidikan manajemen fasilitas dan keselamatan (MFK) bagi petugas 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Dalam rangka meningkatkan pemahaman, kemampuan, dan keterampilan dalam pelaksanaan manajemen fasilitas dan keselamatan (MFK) perlu dilakukan pendidikan petugas agar dapat menjalankan peran mereka dalam menyediakan lingkungan yang aman bagi pasien, petugas, dan masyarakat. 
@@ -2159,7 +1730,7 @@ b. Pendidikan petugas dapat  berupa  edukasi,  pelatihan, dan in house training/
 c. Pendidikan petugas sebagaimana dimaksud tertuang dalam rencana pendidikan manajamen fasilitas dan keselamatan. 
  
 Elemen Penilaian 
-```
+
 
 
 
@@ -2167,10 +1738,10 @@ Elemen Penilaian
 
 
 
-```
+
 1. Usulan peningkatan kompetensi tenaga Puskesmas terkait MFK yang teringrasi dengan Kriteria 
 1.3.3 
-```
+
 
 
 
@@ -2178,7 +1749,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. Bukti pelaksanaan pemenuhan program pendidikan manajemen 
 fasilitas dan keselamatan bagi petugas 
  
@@ -2186,15 +1757,15 @@ Kepala Puskesmas, KTU, Petugas yang mendapatkan pendidikan manajemen fasilitas d
 c) Dilakukan evaluasi dan tindak lanjut perbaikan pelaksanaan pemenuhan pendidikan manajemen fasilitas dan keselamatan bagi petugas (D, W).
 1. Bukti evaluasi program pendidikan manajemen 
 fasilitas dan keselamatan bagi petugas Puskesmas
-```
+
 
 
 2. Bukti tindak lanjut perbaikan berdasarkan hasil evaluasi
 
 
-```
+
 Kepala Puskemas, KTU, petugas yang mendapatkan pendidikan MFK: penggalian informasi terkait evaluasi dan tindaklanjut program pendidikan manajemen fasilitas dan keselamatan bagi petugas Puskesmas 
-```
+
 
 
 
@@ -2202,17 +1773,12 @@ Kepala Puskemas, KTU, petugas yang mendapatkan pendidikan MFK: penggalian inform
 
 ## Standar 1.5 Manajemen keuangan. 
 
-
-```
 Puskesmas melaksanakan manajemen keuangan 
-```
-
-
 
 ### Kriteria 1.5.1 Kepala Puskesmas dan penanggung jawab keuangan melaksanakan manajemen keuangan sesuai dengan ketentuan peraturan perundang-undangan 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a) Anggaran yang tersedia di Puskesmas harus dikelola secara transparan, akuntabel, efektif, dan efisien sesuai dengan prinsip-prinsip manajemen keuangan. 
@@ -2222,7 +1788,7 @@ b) Agar pengelolaan anggaran dapat dilakukan secara transparan, akuntabel, efekt
 b) Puskesmas yang menerapkan pola pengelolaan keuangan BLUD harus mengikuti ketentuan peraturan perundang- undangan dalam manajemen keuangan BLUD. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -2230,18 +1796,18 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK Penetapan Pengelola Keuangan. 
-```
+
 
 
 `2. `SK Pengelolaan Keuangan.
 
 
-```
+
 3. SOP Pengelolaan Keuangan. 
  
-```
+
 
 
 
@@ -2249,19 +1815,19 @@ Elemen Penilaian
 
 
 
-```
+
 1. Laporan keuangan bulanan/ triwulanan/ semesteran/ tahunan. 
 Pengamatan surveior terhadap kesesuaian pengelolaan keuangan yang dilaksanakan oleh pengelola keuangan dengan SK dan SOP. 
 1. Pengelola Keuangan:  penggalian informasi terkait proses pengelolaan keuangan, 
-```
+
 
 
 `2. Kepala Puskesmas:` 
 
 
-```
+
 penggalian informasi terkait pelaksanaan pengelolaan keuangan oleh pengelola keuangan. 
-```
+
 
 
 
@@ -2273,7 +1839,7 @@ penggalian informasi terkait pelaksanaan pengelolaan keuangan oleh pengelola keu
 ### Kriteria 1.6.1 Dilakukan pengawasan, pengendalian, dan penilaian kinerja dengan menggunakan indikator kinerja yang ditetapkan sesuai dengan jenis pelayanan yang disediakan dan kebijakan pemerintah. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Pengawasan, pengendalian, dan penilaian terhadap kinerja Puskesmas dilakukan dengan menggunakan indikator kinerja yang jelas untuk memudahkan dalam melakukan perbaikan kinerja penyelenggaraan pelayanan dan perencanaan pada periode berikutnya. 
@@ -2298,7 +1864,7 @@ g. Dilakukan pengukuran dan analisis terhadap capaian indikator kinerja dengan m
 h. Hasil pengawasan, pengendalian, dan penilaian terhadap kinerja Puskesmas diumpanbalikkan kepada lintas program dan lintas sektor untuk mendapatkan masukan dalam perbaikan kinerja penyelenggaraan pelayanan dan perencanaan tahunan dan perencanaan lima tahunan. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -2306,9 +1872,9 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK indikator kinerja Puskesmas sesuai dengan jenis-jenis pelayanan yang disediakan dan kebijakan pemerintah pusat dan daerah 
-```
+
 
 
 
@@ -2316,7 +1882,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tentang pengawasan, pengendalian dan penilaian kinerja 
 
 2. SOP Pemantauan dan evaluasi 
@@ -2341,7 +1907,7 @@ PJ Pelayanan, PJ Mutu: penggalian informasi terkait pelaksanaan pengawasan, peng
 d) Bukti audit internal, 
 
 e) Bukti pertemuan tinjauan manajemen. 
-```
+
 
 
 
@@ -2349,7 +1915,7 @@ e) Bukti pertemuan tinjauan manajemen.
 
 
 
-```
+
 1. Bukti hasil evaluasi 
 
 2. Bukti tindak lanjut terkait hasil pengawasan, pengendalian, dan penilaian kinerja secara periodik, 
@@ -2357,7 +1923,7 @@ e) Bukti pertemuan tinjauan manajemen.
 3. Bukti hasil kaji banding dan tindaklanjut yang dilakukan 
  
 Kepala Puskesmas, KTU, PJ Pelayanan, PJ Mutu dan tim manajemen Puskesmas: penggalian informasi tentang pelaksanaan evaluasi dan tindak lanjut terhadap hasil pengawasan, pengendalian, dan penilaian kinerja terhadap target yang ditetapkan dan hasil kaji banding dengan Puskesmas lain 
-```
+
 
 
 
@@ -2365,10 +1931,10 @@ Kepala Puskesmas, KTU, PJ Pelayanan, PJ Mutu dan tim manajemen Puskesmas: pengga
 
 
 
-```
+
 1. Bukti hasil analisis terkait hasil pengawasan, pengendalian, dan penilaian kinerja secara periodik untuk digunakan dalam perencanaan masing-masing pelayanan dan perencanaan Puskesmas 
 Kepala Puskesmas, KTU, PJ Pelayanan, PJ Mutu dan tim manajemen Puskesmas: penggalian informasi tentang pelaksanaan analisis kegiatan pengawasan, pengendalian dan penilaian kinerja untuk perencanaan kegiatan masing- masing pelayanan dan perencanaan Puskesmas berikutnya 
-```
+
 
 
 
@@ -2378,10 +1944,10 @@ Kepala Puskesmas, KTU, PJ Pelayanan, PJ Mutu dan tim manajemen Puskesmas: pengga
 `1. `Bukti perbaikan kinerja dari hasil pengawasan dan pengendalian yang dituangkan ke dalam RPK
 
 
-```
+
 2. Bukti revisi perencanaan kegiatan bulanan (revisi RPK bulanan) 
 Kepala Puskesmas, KTU, PJ Pelayanan, PJ Mutu dan tim manajemen Puskesmas: penggalian informasi terkait dengan dasar perbaikan kinerja pelaksanaan kegiatan dan revisi perencanaan kegiatan bulanan berdasarkan hasil pengawasan dan pengendalian 
-```
+
 
 
 
@@ -2389,9 +1955,9 @@ Kepala Puskesmas, KTU, PJ Pelayanan, PJ Mutu dan tim manajemen Puskesmas: pengga
 
 
 
-```
+
 1. Dokumen PKP 
-```
+
 
 
 
@@ -2400,7 +1966,7 @@ Kepala Puskesmas, KTU, PJ Pelayanan, PJ Mutu dan tim manajemen Puskesmas: pengga
 ### Kriteria 1.6.2 Lokakarya mini lintas program dan lokakarya mini lintas sektor dilakukan sesuai dengan kebijakan dan prosedur 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Proses maupun hasil pelaksanaan upaya Puskesmas perlu dikomunikasikan oleh kepala Puskesmas dan penanggung jawab upaya kepada lintas program dan lintas sektor terkait agar ada kesamaan persepsi untuk efektivitas pelaksanaan upaya Puskesmas. 
@@ -2422,7 +1988,7 @@ b) Lokakarya mini triwulanan digunakan untuk
 (3) meningkatkan motivasi dan rasa kebersamaan dalam melaksanakan pembangunan masyarakat kecamatan. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -2432,14 +1998,14 @@ Elemen Penilaian
 1. Jadwal Lokmin bulanan dan triwulanan 
 
 
-```
+
 2. notulen Lokmin bulanan dan triwulanan yang disertai foto kegiatan 
 
 3. Undangan Lokmin bulanan dan triwulanan 
 
 4. Daftar Hadir Lokmin bulanan dan triwulanan 
 Kepala Puskesmas, KTU dan penanggung jawab Upaya Puskesmas: penggalian informasi tentang pelaksanaan Lokmin secara priodik 
-```
+
 
 
 
@@ -2447,12 +2013,12 @@ Kepala Puskesmas, KTU dan penanggung jawab Upaya Puskesmas: penggalian informasi
 
 
 
-```
+
 1. notulen lokmin yang berisi 
 pembahasan permasalahan, hambatan dalam pelaksanaan kegiatan, dan informasi tentang pembahasan permasalahan dan hambatan pelaksanaan kegiatan
  
 Kepala Puskesmas, KTU dan penanggung jawab Upaya Puskesmas: penggalian rekomendasi tindak lanjut 
-```
+
 
 
 
@@ -2460,12 +2026,12 @@ Kepala Puskesmas, KTU dan penanggung jawab Upaya Puskesmas: penggalian rekomenda
 
 
 
-```
+
 1. Bukti tindak lanjut perbaikan pelaksana kegiatan berdasarkan rekomendasi hasil lokmin bulanan dan triwulanan 
  
 Kepala Puskesmas, KTU dan penanggung jawab Upaya Puskesmas: 
 penggalian informasi tentang tindak lanjut hasil rekomendasi lokmin 
-```
+
 
 
 
@@ -2474,7 +2040,7 @@ penggalian informasi tentang tindak lanjut hasil rekomendasi lokmin
 ### Kriteria 1.6.3 Kepala Puskesmas dan penanggung jawab melakukan pengawasan, pengendalian kinerja, dan kegiatan perbaikan kinerja melalui audit internal dan pertemuan tinjauan manajemen yang terencana sesuai dengan masalah kesehatan prioritas, masalah kinerja, risiko, maupun rencana pengembangan pelayanan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Kinerja Puskesmas yang dilakukan perlu dipantau tingkat ketercapaian target yang ditetapkan. 
@@ -2490,7 +2056,7 @@ e. Kepala Puskesmas dan penanggung jawab  mutu  secara periodik melakukan pertem
 f. Pertemuan tinjauan manajemen dipimpin oleh penanggung jawab mutu 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -2498,10 +2064,10 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tim audit Internal beserta uraian tugas dan tanggung jawab yang dapat terintegrasi dengan SK 
 penanggungjawab upaya pelayanan di Puskesmas pada kriteria 1.2.1 
-```
+
 
 
 
@@ -2509,17 +2075,17 @@ penanggungjawab upaya pelayanan di Puskesmas pada kriteria 1.2.1
 
 
 
-```
+
 1. KAK audit internal 
-```
+
 
 
 `1. Rencana audit internal (audit plan), `audit internal,
 
 
-```
+
 2. Bukti pelaksanaan 
-```
+
 
 
 3. Instrumen audit internal 
@@ -2531,11 +2097,11 @@ Catatan:
 Penyusunan rencana audit sampai dengan pelaksanaan audit, dilakukan secara priodik.
 
 
-```
+
  
 PJ Mutu, Koordinator Audit Internal dan auditor internal: penggalian informasi tentang pelaksanaan audit internal 
  
-```
+
 
 
 
@@ -2543,13 +2109,13 @@ PJ Mutu, Koordinator Audit Internal dan auditor internal: penggalian informasi t
 
 
 
-```
+
 1. Laporan hasil audit internal 
 
 2. Bukti umpan balik hasil audit internal kepada Kepala Puskesmas, tim mutu Puskesmas, pihak yang diaudit dan unit terkait 
  
 PJ Mutu, Koordinator Audit Internal dan auditor internal: penggalian informasi tentang laporan dan umpan balik hasil audit internal 
-```
+
 
 
 
@@ -2557,10 +2123,10 @@ PJ Mutu, Koordinator Audit Internal dan auditor internal: penggalian informasi t
 
 
 
-```
+
 Bukti Pelaksanaan tindak lanjut dan rekomendasi hasil audit internal 
 PJ Mutu, Koordinator Audit Internal, auditor internal dan pihak yang diaudit: penggalian informasi tentang tindak lanjut hasil audit 
-```
+
 
 
 
@@ -2568,13 +2134,13 @@ PJ Mutu, Koordinator Audit Internal, auditor internal dan pihak yang diaudit: pe
 
 
 
-```
+
 1. Jadwal pertemuan tinjauan manajemen 
 
 2. Undangan pertemuan tinjauan manajemen 
 
 3. notulen hasil pertemuan tinjauan manajemen yang disertai dengan foto kegiatan
-```
+
 
 
 4. Daftar hadir peserta pertemuan tinjauan manajemen
@@ -2587,11 +2153,11 @@ PJ Mutu, Koordinator Audit Internal, auditor internal dan pihak yang diaudit: pe
 
 
 
-```
+
 1. Bukti pelaksanaan tindak lanjut rekomendasi hasil pertemuan tinjauan manajemen 
  
 Kepala Puskesmas, PJ Mutu, tim mutu Puskesmas, dan petugas Puskesmas: penggalian informasi tentang tindak lanjut rekomendasi pertemuan tinjauan manajemen 
-```
+
 
 
 
@@ -2599,21 +2165,14 @@ Kepala Puskesmas, PJ Mutu, tim mutu Puskesmas, dan petugas Puskesmas: penggalian
 
 ## Standar 1.7 Pembinaan Puskesmas oleh dinas kesehatan daerah kabupaten/kota.
 
-
-```
-
-
 Puskesmas harus mendapatkan pembinaan dan pengawasan dari dinas kesehatan daerah kabupaten/kota mulai dari tahap perencanaan, pelaksanaan sampai dengan evaluasi sesuai dengan ketentuan peraturan perundang-undangan. 
 
 Dinas kesehatan daerah kabupaten/kota berperan dalam upaya perbaikan kinerja termasuk peningkatan mutu pelayanan kesehatan Puskesmas
-```
-
-
 
 ### Kriteria 1.7.1 Puskesmas harus mendapatkan pembinaan dan pengawasan terpadu dari dinas kesehatan daerah kabupaten/kota dalam rangka perbaikan kinerja, termasuk peningkatan mutu pelayanan di Puskesmas
 
 
-```
+
 
 
 POKOK PIKIRAN: 
@@ -2631,7 +2190,7 @@ e. Pembinaan oleh TPCB meliputi pembinaan dalam rangka pencapaian target PIS PK,
 f. Dalam melaksanakan tugasnya, TPCB mengacu pada pedoman, termasuk pendampingan penyusunan perencanaan perbaikan strategis (PPS), pemantauan pengukuran dan pelaporan INM serta pemantauan pelaporan IKP. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -2639,9 +2198,9 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK Kepala Dinas Kesehatan tentang organisasi Puskesmas yang dilengkapi dengan kejelasan tugas, wewenang, dan tanggung jawab serta tata hubungan kerja dan persyaratan jabatan 
-```
+
 
 
 
@@ -2649,13 +2208,13 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK TPCB beserta uraian tugas tim TPCB
  
 1. Jadwal program pembinaan TPCB 
  
 TPCB dinas kesehatan Kab/Kota: penggalian informasi tentang TPCB dan jadwal pembinaan 
-```
+
 
 
 
@@ -2663,7 +2222,7 @@ TPCB dinas kesehatan Kab/Kota: penggalian informasi tentang TPCB dan jadwal pemb
 
 
 
-```
+
 1. Hasil Self Assesment (SA) 
 Puskesmas 
 
@@ -2674,7 +2233,7 @@ Puskesmas
 4. Dokumen pelaporan hasil pembinaan TPCB, termasuk laporan pembinaan teknis bila anggota TPCB ada yang melakukan pembinaan teknis
  
 TPCB dinas kesehatan Kab/Kota: penggalian informasi tentang pelaksanaan pembinaan oleh TPCB 
-```
+
 
 
 
@@ -2682,20 +2241,20 @@ TPCB dinas kesehatan Kab/Kota: penggalian informasi tentang pelaksanaan pembinaa
 
 
 
-```
+
 1. Bukti penyampaian laporan hasil pembinaan oleh TPCB kepada 
 Kepala Dinas Kesehatan Kab/Kota, termasuk laporan oleh tim teknis jika ada pembinaan teknis berdasarkan hasil pembinaan TPCB. 
-```
+
 
 
 `2. Bukti umpan balik laporan hasil pembinaan kepada `Puskesmas yang disampaikan secara resmi.
 
 
-```
+
 Tim TPCB dinas kesehatan 
 Kab/Kota: penggalian informasi tentang laporan pembinaan oleh TPCB kepada Kepala Dinas 
 Kesehatan Kab/Kota, termasuk jika ada pembinaan teknis serta umpan balik hasil pembinaan kepada Puskesmas 
-```
+
 
 
 
@@ -2705,7 +2264,7 @@ Kesehatan Kab/Kota, termasuk jika ada pembinaan teknis serta umpan balik hasil p
 
 
 
-```
+
 1. RUK Puskesmas yang mengacu pada rencana lima tahunan Puskesmas 
 
 2. RPK Puskesmas 
@@ -2714,7 +2273,7 @@ Puskesmas dan rencana pelaksanaan kegiatan minimal melampirkan:
 
 Surat tugas TPCB untuk pendampingan penyusunan RUK, RPK 
 Puskesmas 
-```
+
 
 
 notulen` dengan menyertakan foto kegiatan `pendampingan penyusunan 
@@ -2727,9 +2286,9 @@ Daftar hadir` \
 `
 
 
-```
+
 TPCB Dinas Kesehatan Kab/Kota, Kepala Puskesmas, KTU dan tim manajemen Puskesmas: penggalian informasi tentang pendampingan penyusunan RUK dan RPK Puskesmas 
-```
+
 
 
 
@@ -2737,14 +2296,14 @@ TPCB Dinas Kesehatan Kab/Kota, Kepala Puskesmas, KTU dan tim manajemen Puskesmas
 
 
 
-```
+
 1. Bukti pelaksanaan tindak lanjut hasil lokmin dan pertemuan tinjauan manajemen Puskesmas oleh TPCB yang disampaikan secara resmi. 
  
 TPCB dinas kesehatan Kab/Kota, 
 Kab/Kota, Kepala Puskesmas, KTU dan PJ Mutu: penggalian informasi tentang tindak lanjut yang dilakukan oleh TPCB berdasarkan hasil lokmin dan pertemuan tinjauan manajemen Puskesmas 
  
  
-```
+
 
 
 
@@ -2755,11 +2314,11 @@ Kab/Kota, Kepala Puskesmas, KTU dan PJ Mutu: penggalian informasi tentang tindak
 1. Bukti verifikasi evaluasi kinerja Puskesmas
 
 
-```
+
 2. Bukti umpan balik pemantauan dan evaluasi kinerja Puskesmas 
  
 TPCB dinas kesehatan Kab/Kota, Kepala Puskesmas, KTU dan PJ pelayanan: penggalian informasi tentang pelaksanaan verifikasi dan umpan balik evaluasi kinerja Puskesmas 
-```
+
 
 
 
@@ -2769,11 +2328,11 @@ TPCB dinas kesehatan Kab/Kota, Kepala Puskesmas, KTU dan PJ pelayanan: penggalia
 `1. `Bukti Puskesmas menerima dan menindaklanjuti hasil umpan balik hasil pembinaan
 
 
-```
+
 2. Bukti Puskesmas menerima dan menindaklanjuti hasil umpan balik hasil evaluasi kinerja
  
 Kepala Puskesmas, KTU dan PJ pelayanan, petugas Puskesmas: penggalian informasi tentang pelaksanaan tindaklanjut hasil pembinaan dan evaluasi kinerja yang disampaikan oleh TPCB dinas kesehatan kab/kota. 
-```
+
 
 
 
@@ -2786,7 +2345,7 @@ Kepala Puskesmas, KTU dan PJ pelayanan, petugas Puskesmas: penggalian informasi 
 ## Standar 2.1 Perencanaan terpadu pelayanan UKM.
 
 
-```
+
 
 
 Perencanaan pelayanan UKM Puskesmas disusun 
@@ -2808,7 +2367,7 @@ data hasil penilaian kinerja (capaian indikator kinerja) Puskesmas
 termasuk memperhatikan hasil pelaksanaan Program Indonesia Sehat dengan Pendekatan Keluarga (PIS PK) 
 
 dan capaian target Standar Pelayanan Minimal (SPM) daerah Kabupaten/Kota 
-```
+
 
 
 
@@ -2818,7 +2377,7 @@ dan capaian target Standar Pelayanan Minimal (SPM) daerah Kabupaten/Kota
 ### Kriteria 2.1.1 Perencanaan pelayanan UKM Puskesmas disusun secara terpadu berbasis wilayah kerja Puskesmas dengan melibatkan lintas program dan lintas sektor sesuai dengan analisis kebutuhan dan harapan masyarakat, data hasil penilaian kinerja (capaian indikator kinerja) Puskesmas termasuk memperhatikan hasil pelaksanaan Program Indonesia Sehat dengan Pendekatan Keluarga (PIS-PK) dan capaian target standar pelayanan minimal (SPM) daerah kabupaten/kota 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Identifikasi kebutuhan dan harapan masyarakat terhadap kegiatan UKM dapat dilakukan dengan survei mawas diri dan musyawarah masyarakat  desa  maupun melalui pertemuan-pertemuan konsultatif lainnya dengan masyarakat, seperti jajak pendapat, temu muka, survei mawas diri, survei kepuasan masyarakat, dan pertemuan dengan media lainnya. 
@@ -2836,7 +2395,7 @@ e. Kegiatan-kegiatan dalam setiap pelayanan UKM di Puskesmas disusun oleh pelaks
 f. falam standar ini, kata "pelayanan" digunakan untuk menggantikan kata "program". Contoh: Program Promosi kesehatan menjadi Pelayanan Promosi kesehatan. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -2844,7 +2403,7 @@ Elemen Penilaian
 `
 
 
-```
+
 1. SK tentang identifikasi 
 kebutuhan dan harapan masyarakat, kelompok masyarakat, keluarga dan individu yang merupakan sasaran pelayanan UKM 
 
@@ -2853,7 +2412,7 @@ kebutuhan dan harapan masyarakat, kelompok masyarakat, keluarga dan individu yan
 kebutuhan dan harapan masyarakat, kelompok masyarakat, keluarga dan individu yang merupakan sasaran pelayanan UKM, sesuai dengan yang ditetapkan oleh Puskesmas. 
 
 
-```
+
 
 
 `2. Data dukung identifikasi disesuaikan dengan metode yang dipilih untuk `melakukan 
@@ -2878,9 +2437,9 @@ foto kegiatan` \
 `
 
 
-```
+
 Kepala Puskesmas, PJ UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM: Penggalian informasi terkait identifikasi kebutuhan dan harapan masyarakat, kelompok masyarakat, keluarga dan individu yang merupakan sasaran pelayanan UKM 
-```
+
 
 
 
@@ -2888,7 +2447,7 @@ Kepala Puskesmas, PJ UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM:
 
 
 
-```
+
 1. Bukti analisis hasil identifikasi 
 
 2. Rencana kegiatan berdasarkan hasil analisis 
@@ -2898,20 +2457,20 @@ Kepala Puskesmas, PJ UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM:
 Undangan 
 
 Daftar hadir 
-```
+
 
 
 notulen` yang diserta dengan `
 
 
-```
+
 foto kegiatan 
 
 Catatan: Pemenuhan angka 1 dan 2 dapat dikerjakan dalam 1 form 
  
 Kepala Puskesmas, PJ UKM, Koordinator Pelayanan UKM, dan pelaksana pelayanan UKM 
 serta lintas sektor: Penggalian informasi terkait proses analisis yang sudah dilakukan terhadap hasil identifikasi kebutuhan dan harapan masyarakat yang sudah diperoleh
-```
+
 
 
 
@@ -2919,13 +2478,13 @@ serta lintas sektor: Penggalian informasi terkait proses analisis yang sudah dil
 
 
 
-```
+
 SK Indikator Kinerja pelayanan UKM yang merupakan bagian dari SK Indikator Kinerja Puskesmas (lihat kriteria 1.6.1) 
 
 1. Capaian kinerja pelayanan UKM yang sudah dilengkapi dengan analisis, dengan memperhatikan hasil PIS PK. Pelaksanaan analisis agar mengacu pada pedoman manajemen Puskesmas. 
 
 2. Rencana kegiatan berdasarkan hasil analisis. 
-```
+
 
 
 `3. Bukti keterlibatan lintas program & lintas sektor, `minimal melampirkan:  Undangan 
@@ -2947,14 +2506,14 @@ Kepala` `Puskesmas, PJ UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UK
 #### d) Tersedia rencana usulan kegiatan (RUK) UKM yang disusun secara terpadu dan berbasis wilayah kerja Puskesmas berdasarkan hasil analisis kebutuhan dan harapan masyarakat, hasil pembahasan analisis data capaian kinerja pelayanan UKM, dengan memperhatikan hasil pelaksanaan kegiatan PIS PK (D, W)
 
 
-```
+
 RUK yang menunjukkan hasil rumusan dari EP b dan EP c 
 
 Kepala Puskesmas, PJ UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM: Penggalian informasi terkait hasil RUK yang disusun 
  
  
  	 
-```
+
 
 
 
@@ -2963,7 +2522,7 @@ Kepala Puskesmas, PJ UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM:
 ### Kriteria 2.1.2 Perencanaan pelayanan UKM Puskesmas memuat kegiatan pemberdayaan masyarakat untuk mengatasi permasalahan kesehatan dan meningkatkan perilaku hidup bersih dan sehat yang proses kegiatan pemberdayaan masyarakat tersebut dilakukan oleh masyarakat sendiri dengan difasilitasi oleh Puskesmas 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Dalam upaya meningkatkan derajat kesehatan di wilayah kerja, setiap pelaksana kegiatan, koordinator pelayanan, dan penanggung jawab UKM Puskesmas wajib memfasilitasi kegiatan yang berwawasan kesehatan melalui pemberdayaan masyarakat. 
@@ -3057,7 +2616,7 @@ i. Kegiatan fasilitasi yang dimaksud dimulai dari perencanaan, pelaksanaan, perb
 
 j. Pemberdayaan Masyarakat dalam bidang kesehatan tergambar dalam rencana usulan kegiatan (RUK) dan rencana pelaksanaan kegiatan (RPK) setiap koordinator pelayanan dan pelaksana kegiatan UKM puskesmas. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -3065,9 +2624,9 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK Kepala Puskesmas tentang fasilitasi pemberdayaan masyarakat 
-```
+
 
 
 `2. SOP tentang `fasilitasi pemberdayaan masyarakat dalam kegiatan Puskesmas.
@@ -3082,9 +2641,9 @@ Elemen Penilaian
 Catatan: Bukti kesepakatan disesuaikan dengan kegiatan yang dilakukan saat menyusun RUK & RPK.
 
 
-```
+
 Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM, serta masyarakat: Penggalian informasi   terkait isi RUK  & RPK yang memuat kegiatan fasilitasi pemberdayaan masyarakat bersumber  dari swadaya masyarakat 
-```
+
 
 
 
@@ -3094,14 +2653,14 @@ Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM,
 1. Bukti pelaksanaan keterlibatan masyarakat: 
 
 
-```
+
 2. RPK yang memuat kegiatan pemberdayaan masyarakat. 
 
 3. Bukti keterlibatan masyarakat dalam kegiatan pemberdayaan sesuai angka 1 mulai dari perencanaan, pelaksanaan, perbaikan dan evaluasi 
 
 
 Catatan: 
-```
+
 
 
 `Bukti keterlibatan `masyarakat disesuaikan dengan kegiatan yang dilakukan. 
@@ -3112,9 +2671,9 @@ Misal, kegiatan dilakukan dalam bentuk pertemuan minimal melampirkan daftar hadi
 Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM, dan pelaksana pelayanan  UKM serta masyarakat: `
 
 
-```
+
 Penggalian informasi terkait keterlibatan masyarakat dalam kegiatan pemberdayaan masyarakat mulai dari perencanaan, pelaksanaan, perbaikkan  dan evaluasi. 
-```
+
 
 
 
@@ -3122,9 +2681,9 @@ Penggalian informasi terkait keterlibatan masyarakat dalam kegiatan pemberdayaan
 `
 
 
-```
+
 1. Bukti hasil evaluasi kegiatan pemberdayaan masyarakat. Untuk mengevaluasi dapat dilakukan dengan melihat KAK Pemberdayaan Masyarakat dan disandingkan dengan hasil kegiatan.
-```
+
 
 
 2. Bukti hasil tindaklanjut dari pelaksanaan evaluasi. 
@@ -3138,7 +2697,7 @@ Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM, dan pelaksana pelayanan UKM
 ### Kriteria 2.1.3 Rencana Pelaksanaan Kegiatan (RPK) Pelayanan UKM terintegrasi lintas program dan mengacu pada Rencana Usulan Kegiatan (RUK) Puskesmas. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Perencanaan pelayanan UKM Puskesmas disusun secara terintegrasi lintas program agar efektif dan efisien serta melalui tahapan perencanaan Puskesmas. 
@@ -3152,7 +2711,7 @@ d. RPK pelayanan UKM dimungkinkan untuk diubah/disesuaikan dengan kebutuhan berd
 e. RPK pelayanan UKM dirinci dalam RPK untuk masing- masing pelayanan UKM dan disusun Kerangka Acuan Kegiatan (KAK). 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -3160,10 +2719,10 @@ Elemen Penilaian
 
 
 
-```
+
 RPK pelayanan UKM yang terintegrasi dalam RPK 
 Puskesmas. 
-```
+
 
 
 
@@ -3171,9 +2730,9 @@ Puskesmas.
 
 
 
-```
+
 RPKB masing-masing pelayanan UKM 
-```
+
 
 
 
@@ -3181,9 +2740,9 @@ RPKB masing-masing pelayanan UKM
 
 
 
-```
+
 KAK sesuai dengan kegiatan di dalam RPK pelayanan UKM 
-```
+
 
 
 
@@ -3191,14 +2750,14 @@ KAK sesuai dengan kegiatan di dalam RPK pelayanan UKM
 
 
 
-```
+
 RPK Perubahan jika ada perubahan yang disertai dengan dasar dilakukan perubahan. 
 
 
 Contoh dasar dilakukan perubahan: Pada tahun 2020 terjadi pandemic covid-19 dan Puskesmas diminta untuk menyusun kegiatan terkait dengan Covid-19, akan tetapi kegiatan tersebut belum teranggarkan. Sebagai dasar melakukan perubahan, Puskesmas menyertakan surat misal dari Dinas Kesehatan tentang kegiatan covid-19 yang harus dianggarkan oleh Puskesmas sebagai dasar dilakukan perubahan RPK.
  
 Kepala Puskesmas, PJ UKM, Koordinator dan pelaksana: Penggalian informasi terkait proses penyusunan perubahan RPK 
-```
+
 
 
 
@@ -3207,13 +2766,13 @@ Kepala Puskesmas, PJ UKM, Koordinator dan pelaksana: Penggalian informasi terkai
 ## Standar 2.2 Kemudahan akses sasaran dan masyarakat terhadap pelayanan UKM. 
 
 
-```
+
 
 
 Penanggung jawab UKM, koordinator pelayanan dan pelaksana kegiatan UKM memastikan kemudahan akses sasaran dan masyarakat terhadap pelaksanaan pelayanan UKM. 
 
 Pelayanan UKM Puskesmas mudah diakses oleh sasaran dan masyarakat, untuk mendapatkan informasi kegiatan serta penyampaian umpan balik dan keluhan. 
-```
+
 
 
 
@@ -3222,7 +2781,7 @@ Pelayanan UKM Puskesmas mudah diakses oleh sasaran dan masyarakat, untuk mendapa
 ### Kriteria 2.2.1 Penjadwalan pelaksanaan pelayanan UKM Puskesmas disepakati bersama dengan memperhatikan masukan sasaran, masyarakat, kelompok masyarakat, lintas program dan lintas sektor yang dilaksanakan sesuai dengan rencana. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Keberhasilan pelaksanaan kegiatan UKM, Puskesmas tergantung pada peran aktif masyarakat, kelompok masyarakat, keluarga, dan individu yang menjadi sasaran. 
@@ -3246,7 +2805,7 @@ Contoh: lembar balik, model, LCD, film dan sebagainya.
 
 f. Bilamana dilakukan perubahan jadwal, informasi tentang waktu dan tempat pelaksanaan kegiatan UKM harus disepakati dan diinformasikan dengan jelas dan tempat kegiatan mudah diakses oleh sasaran kegiatan UKM, masyarakat dan kelompok masyarak kelompok masyarakat, lintas program dan lintas sektor yang dilaksanakan sesuai dengan rencana. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -3254,7 +2813,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. Bukti ketersediaan jadwal dan informasi pelayanan UKM Puskesmas
 
 
@@ -3263,17 +2822,17 @@ Elemen Penilaian
 Jika kegiatan dilakukan dalam bentuk pertemuan, maka bukti kegiatan minimal melampirkan daftar hadir dan notulen yang diserta dengan foto kegiatan.
 Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM serta lintas sektor: 
 Penggalian informasi terkait penyusunan jadwal kegiatan UKM 
-```
+
 
 
 
 #### b) Jadwal pelaksanaan kegiatan UKM diinformasikan kepada sasaran, masyarakat, kelompok masyarakat, lintas program, dan lintas sektor melalui media komunikasi yang sudah ditetapkan (D, W). 
 
 
-```
+
 Bukti dilakukan penyampaian informasi jadwal pelaksanaan kegiatan UKM sesuai dengan regulasi yang ditetapkan oleh Puskesmas. 
 Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM serta lintas sektor: penggalian informasi terkait penyampaian informasi kegiatan UKM yang dilakukan oleh Puskesmas 
-```
+
 
 
 
@@ -3281,11 +2840,11 @@ Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM 
 
 
 
-```
+
 Bukti penyampaian informasi perubahan jadwal bilamana terjadi perubahan jadwal pelaksanaan kegiatan, sesuai dengan ketentuan yang ditetapkan oleh Puskesmas, bisa melalui papan informasi, leaflet, dll 
  
 Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM, serta lintas sektor: penggalian informasi terkait penyampaian informasi perubahan jadwal kegiatan UKM 
-```
+
 
 
 
@@ -3294,7 +2853,7 @@ Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM,
 ### Kriteria 2.2.2 Penanggung jawab UKM, koordinator pelayanan dan pelaksana kegiatan UKM memastikan akses sasaran dan masyarakat untuk menyampaikan umpan balik dan keluhan 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a) Untuk meningkatkan pelayanan kepada masyarakat dan sasaran kegiatan diperlukan umpan balik dan masukan dari masyarakat dan sasaran  kegiatan.  Hal ini berguna untuk penyesuaian dan perbaikan- perbaikan dalam pelaksanaan kegiatan UKM Puskesmas. 
@@ -3312,26 +2871,26 @@ f) Umpan balik dan keluhan ditindak lanjuti dengan pembahasan atau pertemuan kon
 g) Kepala Puskesmas, penanggung jawab UKM, koordinator pelayanan dan pelaksana kegiatan UKM membahas umpan balik dan keluhan sebagai bahan untuk melakukan perbaikan dalam perencanaan dan pelaksanaan kegiatan UKM. 
 
 Elemen Penilaian 
-```
+
 
 
 
 #### a) Dilakukan identifikasi terhadap umpan balik yang diperoleh dari masyarakat, kelompok masyarakat dan sasaran. (D,W) 
 
 
-```
+
 
 Bukti hasil identifikasi umpan balik sesuai dengan metode umpan balik yang ditetapkan oleh Puskesmas.
  
 Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM: penggalian informasi terkait identifikasi umpan balik yang dilakukan Puskesmas. 
-```
+
 
 
 
 #### b) Hasil identifikasi umpan balik dianalisis dan disusun rencana tindaklanjut untuk pengembangan dan perbaikan pelayanan. (D,W) 
 
 
-```
+
 1. Bukti hasil analisis berdasarkan identifikasi pada 
 EP "a" 
 
@@ -3347,7 +2906,7 @@ identifikasi penyusunan analisis s.d rencana tindaklanjut yang akan dilakukan.
 
 
 Hasil evaluasi terhadap pelaksanaan rencana tindaklanjut 
-```
+
 
 
 
@@ -3355,7 +2914,7 @@ Hasil evaluasi terhadap pelaksanaan rencana tindaklanjut
 
 
 
-```
+
 1. Bukti hasil tindaklanjut umpan balik dan keluhan 
 
 2. Bukti hasil evaluasi dari tindaklanjut. 
@@ -3375,7 +2934,7 @@ Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM:
 
 
 
-```
+
 
 
 
@@ -3384,20 +2943,20 @@ Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM:
 ## Standar 2.3. Penggerakan dan pelaksanaan pelayanan UKM. 
 
 
-```
+
 Penggerakan dan pelaksanaan pelayanan UKM dilakukan dan dikoordinasikan dengan melibatkan lintas program dan lintas sektor terkait. 
 
 Penggerakan dan Pelaksanaan Pelayanan UKM dilakukan sesuai dengan kebijakan, pedoman/ panduan, prosedur, dan kerangka acuan yang disusun dan dikoordinasikan melalui forum lokakarya mini bulanan dan triwulanan 
 
 
-```
+
 
 
 
 ### Kriteria 2.3.1 Dilakukan komunikasi dan koordinasi dalam penyelenggaraan pelayanan UKM Puskesmas 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Keberhasilan pelaksanaan pelayanan UKM hanya dapat dicapai jika dilakukan komunikasi dan koordinasi baik lintas program maupun lintas sektor terkait mulai dari proses perencanaan, pelaksanaan, perbaikan dan evaluasi pelaksanaan kegiatan UKM. 
@@ -3409,7 +2968,7 @@ c. Kebijakan, dan prosedur komunikasi dan koordinasi dalam penyelenggaraan pelay
 d. Evaluasi dan tindak lanjut terhadap pelaksanaan komunikasi dan koordinasi dilaksanakan sesuai dengan ketentuan yang ditetapkan 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -3418,10 +2977,10 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK Media komunikasi dan koordinasi di Puskesmas (lihat Bab I) 
 2. SOP Komunikasi dan koordinasi 
-```
+
 
 
 
@@ -3438,32 +2997,32 @@ Kepala Puskesmas, Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM,
 ## Standar 2.4 Pembinaan berjenjang pelayanan UKM. 
 
 
-```
+
 Pelayanan UKM dilaksanakan dengan metode pembinaan secara berjenjang agar efisien dan efektif dalam mencapai tujuan yang ditetapkan. 
 
 Pelayanan UKM dilaksanakan dengan metode pembinaan secara berjenjang untuk mengidentifikasi masalah dan hambatan, menganalisis masalah, merencanakan tindak lanjut sampai dengan evaluasi 
-```
+
 
 
 
 ### Kriteria 2.4.1 Penanggung jawab UKM, koordinator pelayanan dan pelaksana kegiatan UKM Puskesmas bertanggung jawab terhadap pencapaian tujuan, pencapaian kinerja, pelaksanaan kegiatan UKM, dan penggunaan sumber daya 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Penanggung jawab UKM dan koordinator pelayanan kegiatan UKM Puskesmas mempunyai kewajiban untuk memberikan arahan dan dukungan bagi pelaksana kegiatan dalam melaksanakan tugas dan tanggung jawab. Arahan dapat dilakukan baik dalam bentuk pembinaan, pendampingan, pertemuan- pertemuan, maupun konsultasi dalam pelaksanaan kegiatan UKM secara berjenjang sesuai dengan ketentuan yang berlaku. 
 
 b. Pembinaan penanggung jawab UKM Puskesmas kepada koordinator pelayanan dan pelaksana kegiatan UKM meliputi pemahaman pelaksanaan kegiatan, termasuk pembinaan terhadap masalah dan hambatan yang ditemui dalam pelaksanaan kegiatan UKM mulai dari identifikasi, analisis sampai dengan upaya penyelesaian masalah dalam pelaksanaan kegiatan UKM. 
-```
+
 
 
 c.` Penanggung jawab UKM, koordinator dan pelaksana kegiatan UKM melakukan tindak lanjut dan evaluasi terhadap hasil analisis masalah dan hambatan dalam pelaksanaan pelayanan UKM. `
 
 
-```
+
 Elemen Penilaian 
-```
+
 
 
 
@@ -3471,12 +3030,12 @@ Elemen Penilaian
 
 
 
-```
+
 1. Jadwal pembinaan 
 
 2. Bukti hasil pembinaan yang dilaksanakan, minimal melampirkan notulen atau catatan hasil pembinaan.
 Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM: Penggalian informasi terkait pelaksanaan pembinaan yang dilakukan 
-```
+
 
 
 
@@ -3484,13 +3043,13 @@ Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM: Penggalian inform
 
 
 
-```
+
 1. Hasil identifikasi masalah dan hambatan dalam pelaksanaan kegiatan UKM 
 
 2. Hasil analisis terhadap identifikasi masalah dan hambatan pelaksanaan kegiatan UKM yang telah dilaksanakan. 
 
 3. Rencana tindaklanjut dari hasil analisis
-```
+
 
 
 Catatan: 
@@ -3498,10 +3057,10 @@ Catatan:
 Pemenuhan poin 1, 2 dan 3 dapat dituliskan di dalam 1 form yang sama (tidak harus dibuatkan terpisah) 
 
 
-```
+
  
 Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM: Penggalian informasi terkait identifikasi dan analisa terhadap masalah dan hambatan pelaksanaan kegiatan UKM 
-```
+
 
 
 
@@ -3509,11 +3068,11 @@ Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM: Penggalian inform
 
 
 
-```
+
 Bukti pelaksanaan tindaklnajut berdasarkan rencana tindak lanjut yang telah dituliskan pada angka 3 EP "b" 
  
 Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM: Penggalian informasi terkait tindaklanjut yang dilakukan berdasarkan rencana tindaklanjut dari masalah dan hambatan yang ditemukan. 
-```
+
 
 
 
@@ -3521,28 +3080,28 @@ Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM: Penggalian inform
 
 
 
-```
+
 1. Bukti hasil pelaksanaan evaluasi terhadap pelaksanaan di EP c 
 
 2. Bukti tindaklanjut atas hasil evaluasi yang telah dilakukan. 
 Pj UKM, Koordinator Pelayanan UKM dan pelaksana pelayanan UKM: Penggalian informasi terkait dengan pelaksanaan evaluasi atas EP "c" dan tindaklanjut terhadap hasil evaluasi 
-```
+
 
 
 
 ## Standar 2.5 Penguatan pelayanan UKM dengan PIS PK. 
 
 
-```
+
 Pelaksanaan pelayanan UKM diperkuat dengan PIS PK dalam upaya mewujudkan keluarga sehat dan masyarakat sehat melalui pengorganisasian masyarakat dengan terbentuknya upaya-upaya kesehatan bersumber daya masyarakat (UKBM) dan tatanan- tatanan sehat yang merupakan bentuk implementasi Gerakan Masyarakat Hidup Sehat (Germas) 
-```
+
 
 
 
 ### Kriteria 2.5.1 Penanggung jawab UKM, koordinator pelayanan, dan pelaksana kegiatan UKM bersama dengan tim pembina keluarga melaksanakan pemetaan dan intervensi kesehatan berdasarkan permasalahan keluarga sesuai dengan jadwal yang sudah disepakati 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Kegiatan kunjungan keluarga yang dilaksanakan oleh tim pembina keluarga digunakan untuk  menyampaikan komunikasi informasi dan edukasi kepada keluarga sebagai intervensi awal dan didokumentasikan. 
@@ -3562,7 +3121,7 @@ g. Tim Pembina keluarga adalah tenaga kesehatan Puskesmas yang dibentuk oleh kep
 h. Kegiatan UKM melalui PIS-PK sebagai bentuk intervensi dilaksanakan sesuai dengan jadwal yang disepakati dengan masyarakat yang menjadi sasaran 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -3570,9 +3129,9 @@ Elemen Penilaian
 
 
 
-```
+
 SK tim pembina keluarga dan tim pengelola data PIS-PK yang dilengkapi dengan uraian tugas yang jelas 
-```
+
 
 
 
@@ -3582,13 +3141,13 @@ SK tim pembina keluarga dan tim pengelola data PIS-PK yang dilengkapi dengan ura
 1. Jadwal kegiatan 
 
 
-```
+
 2. Surat Tugas 
 
 3. Laporan hasil kegiatan disertai dengan foto pelaksanaan kegiatan
  
 Kepala Puskesmas, Pj UKM, Tim Pembina Keluarga:  Penggalian informasi terkait pelaksanaan kunjungan awal dan intervensi awal 
-```
+
 
 
 
@@ -3596,9 +3155,9 @@ Kepala Puskesmas, Pj UKM, Tim Pembina Keluarga:  Penggalian informasi terkait pe
 
 
 
-```
+
 1. Hasil IKS 
-```
+
 
 
 
@@ -3608,9 +3167,9 @@ Kepala Puskesmas, Pj UKM, Tim Pembina Keluarga:  Penggalian informasi terkait pe
 1. Jadwal kegiatan 
 
 
-```
+
 2. Daftar Hadir 
-```
+
 
 
 ` \
@@ -3620,10 +3179,10 @@ Kepala Puskesmas, Pj UKM, Tim Pembina Keluarga:  Penggalian informasi terkait pe
 `
 
 
-```
+
 Kepala Puskesmas, Pj UKM, Tim Pembina Keluarga, Koordinator pelayanan, pelaksana dan PJ Mutu: 
 Penggalian informasi terkait pelaksanaan kegiatan pertemuan sampai dengan analisa yang dihasilkan. 
-```
+
 
 
 
@@ -3636,9 +3195,9 @@ Penggalian informasi terkait pelaksanaan kegiatan pertemuan sampai dengan analis
 `
 
 
-```
+
 Kepala Puskesmas, Pj UKM, Tim Pembina Keluarga, Koordinator pelayanan, pelaksana: Penggalian informasi terkait dengan penyusunan intervensi lanjut 
-```
+
 
 
 
@@ -3646,19 +3205,19 @@ Kepala Puskesmas, Pj UKM, Tim Pembina Keluarga, Koordinator pelayanan, pelaksana
 
 
 
-```
+
 Bukti dilakukan koordinasi pelaksanaan intervensi lanjut dengan pihak terkait sesuai dengan media koordinasi yang ditetapkan oleh Puskesmas. 
  
 Pj UKM: Penggalian informasi terkait dengan koordinasi pelaksanaan intervensi lanjut yang dilakukan 
  
-```
+
 
 
 
 ### Kriteria 2.5.2 Intervensi lanjut ditujukan pada wilayah kerja Puskesmas berdasarkan permasalahan yang sudah dipetakan dan dilaksanakan terintegrasi dengan pelayanan UKM Puskesmas 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Untuk melaksanakan intervensi lanjut tingkat wilayah diperlukan penyusunan rencana berdasarkan pemetaan wilayah kerja Puskesmas, baik yang spesifik terhadap RT, RW, desa/kelurahan ataupun yang  secara wilayah kerja Puskesmas. 
@@ -3682,7 +3241,7 @@ h. Dalam perbaikan dan evaluasi, dilaksanakan proses verifikasi yang bertujuan u
 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -3690,7 +3249,7 @@ Elemen Penilaian
 a) Tim pembina keluarga bersama dengan penanggung jawab UKM melakukan analisis IKS awal dan pemetaan masalah di tiap tingkatan wilayah, sebagai dasar dalam menyusun rencana intervensi lanjut secara terintegrasi lintas program dan dapat melibatkan lintas sektor terkait `(D, W)`
 
 
-```
+
 Bukti analisis IKS awal dan pemetaan masalah di tiap tingkatan wilayah 
  
 Tim pembina keluarga 
@@ -3705,14 +3264,14 @@ Penggalian informasi terkait analisis IKS awal dan pemetaan masalah di tingkatan
 
 
 10 
-```
+
 
 
 
 #### b) Rencana intervensi lanjut dikomunikasikan dan dikoordinasikan dalam lokakarya mini bulanan dan lokakarya triwulanan Puskesmas.(D, W).
 
 
-```
+
 1. Rencana 
  
 Tim pembina 
@@ -3734,7 +3293,7 @@ Penggalian informasi terkait komunikasi dan koordinasi rencana intervensi lanjut
 
 
 10 
-```
+
 
 
 
@@ -3742,7 +3301,7 @@ Penggalian informasi terkait komunikasi dan koordinasi rencana intervensi lanjut
 
 
 
-```
+
  
 Bukti pelaksanaan rencana intervensi lanjut 
  
@@ -3758,7 +3317,7 @@ Penggalian informasi terkait pelaksanaan rencana intervensi lanjut
 
 
 10 
-```
+
 
 
 
@@ -3766,7 +3325,7 @@ Penggalian informasi terkait pelaksanaan rencana intervensi lanjut
  `
 
 
-```
+
 
 Bukti koordinasi perbaikkan dari intervensi lanjut yang dilakukan 
  
@@ -3783,7 +3342,7 @@ Penggalian informasi terkait pelaksanaan koordinasi perbaikkan dari rencana inte
 
 
 10 
-```
+
 
 
 
@@ -3791,7 +3350,7 @@ Penggalian informasi terkait pelaksanaan koordinasi perbaikkan dari rencana inte
 
 
 
-```
+
  
 1. Bukti hasil evaluasi perbaikkan pada setiap tahapan PIS .
  
@@ -3816,7 +3375,7 @@ pelaksanaan evaluasi dan tindaklanjut pada setiap tahapan
 PIS PK 
  
  
-```
+
 
 
 
@@ -3825,7 +3384,7 @@ f) Koordinator pelayanan dan pelaksana kegiatan UKM melaksanakan intervensi lanj
  
 
 
-```
+
 
 1. Bukti pelaksanaan intervensi lanjut 
 
@@ -3856,14 +3415,14 @@ dilakukan
 c. 
 
 
-```
+
 
 
 
 ### Kriteria 2.5.3 Pelaksanaan Gerakan Masyarakat Hidup Sehat (Germas) sebagai bagian dari intervensi lanjut dalam bentuk peran serta masyarakat terhadap masalah-masalah kesehatan 
 
 
-```
+
 POKOK PIKIRAN 
 
 a. Gerakan masyarakat hidup sehat (Germas) adalah suatu tindakan sistematis dan terencana yang dilakukan secara bersama-sama oleh seluruh komponen bangsa dengan kesadaran, kemauan, dan kemampuan berperilaku sehat untuk meningkatkan kualitas hidup. 
@@ -3890,7 +3449,7 @@ f. Kegiatan-kegiatan tersebut direncanakan dengan kejelasan jenis kegiatan, indi
 
 g. Pelaksanaan kegiatan GERMAS melalui pemberdayaan masyarakat, keluarga dan individu diharapkan berdampak pada semakin membaiknya IKS tingkat keluarga dan wilayah dan terbentuknya UKBM 
 Elemen Penilaian 
-```
+
 
 
 
@@ -3898,7 +3457,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. Sasaran Germas yang dapat diuraikan dalam dokumen RUK/RPK 
 2. KAK kegiatan Germas. 
  
@@ -3912,7 +3471,7 @@ Elemen Penilaian
 
 
 10 
-```
+
 
 
 
@@ -3920,7 +3479,7 @@ Elemen Penilaian
 
 
 
-```
+
  
 1. Jadwal kegiatan germas 
 
@@ -3943,14 +3502,14 @@ Penggalian informasi terkait perencanaan pembinaan Germas.
  
 
 
-```
+
 
 
 
 #### c) Dilakukan upaya pelaksanaan pembinaan Germas yang melibatkan lintas program dan lintas sektor terkait untuk mewujudkan perubahan perilaku  sasaran Germas (D, W). 
 
 
-```
+
  
  
 Bukti pelaksanaan pembinaan minimal melampirkan: 
@@ -3974,7 +3533,7 @@ serta lintas sektor. Penggalian informasi terkait dengan pelaksanaan pembinaan G
 
 
 10 
-```
+
 
 
 
@@ -3982,7 +3541,7 @@ serta lintas sektor. Penggalian informasi terkait dengan pelaksanaan pembinaan G
  
 
 
-```
+
 
 1. Jadwal kegiatan pemberdayaan masyarakat 
 2. Laporan hasil kegiatan pemberdayaan masyarakat, keluarga dan individu dalam mewujudkan gerakan masyarakat hidup sehat (disertai dengan foto bukti pelaksanaan kegiatan). 
@@ -4001,7 +3560,7 @@ Penggalian informasi terkait kegiatan pemberdayaan masyarakat yang diupayakan be
 
 
 10 
-```
+
 
 
 
@@ -4009,7 +3568,7 @@ Penggalian informasi terkait kegiatan pemberdayaan masyarakat yang diupayakan be
 
 
 
-```
+
  
 1. Bukti hasil evaluasi pelaksanaan pembinaan germas 
 2. Bukti hasil tindak lanjut terhadap hasil evaluasi 
@@ -4031,19 +3590,19 @@ Penggalian informasi terkait pelaksanaan evaluasi pembinaan Germas
  	 
 
 
-```
+
 
 
 
 ## Standar 2.6 Penyelenggaraan UKM esensial. 
 
 
-```
+
 Upaya Kesehatan Masyarakat esensial dilaksanakan dengan mengutamakan upaya promotif dan preventif di wilayah kerja Puskesmas. 
  
 
 
-```
+
 
 
 
@@ -4052,7 +3611,7 @@ Upaya Kesehatan Masyarakat esensial dilaksanakan dengan mengutamakan upaya promo
 ### Kriteria 2.6.1 Cakupan dan Pelaksanaan UKM Esensial Promosi Kesehatan 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Cakupan UKM Esensial Promosi Kesehatan diukur dengan 3 (tiga) indikator kinerja utama pelayanan, yaitu: 
@@ -4110,7 +3669,7 @@ g. Dilakukan pemantauan dan analisis serta  tindak  lanjut terhadap capaian indi
 h. Pencatatan dan pelaporan UKM Esensial Promosi Kesehatan, baik secara manual maupun elektronik, dilakukan secara lengkap, akurat, tepat waktu dan sesuai prosedur. Pelaporan kepada kepala puskesmas dan Dinas Kesehatan Daerah Kabupaten/Kota dan/atau pihak lainnya mengacu kepada ketentuan peraturan perundang-undangan yang berlaku. Pelaporan kepada kepala puskesmas dapat dilakukan secara tertulis atau penyampaian secara langsung melalui pertemuan-pertemuan seperti lokakarya mini bulanan, pertemuan tinjauan manajemen, dan forum lainnya. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -4119,14 +3678,14 @@ a) Tercapainya indikator kinerja pelayanan UKM Esensial Promosi Kesehatan sesuai
  
 
 
-```
+
 
 SK Kepala Puskesmas tentang Indikator dan target Kinerja Pelayanan UKM Promosi Kesehatan sebagai bagian dari indikator kinerja Puskesmas
 1. Bukti pencapaian target indikator kinerja promosi kesehatan 
  
 2. Analisis pencapaian target indikator kinerja promosi kesehatan 
  
-```
+
 
 
 
@@ -4136,21 +3695,21 @@ b) Dilaksanakan upaya-upaya promotif dan preventif untuk mencapai kinerja pelaya
 
 
 
-```
+
 1. RPK tahunan dan RPK Bulanan. 
 
 2. KAK pelayanan UKM esensial promosi kesehatan. 
 
 3. SK tentang pelayanan UKM di Puskesmas
-```
+
 
 
 4. SOP sesuai dengan pelayanan UKM kesehatan promosi kesehatan
 
 
-```
+
 Bukti pelaksanaan pelayanan UKM esensial promosi kesehatan sesuai dengan POKOK PIKIRAN minimal. Bukti pelaksanaan disesuaikan dengan jenis kegiatan.
-```
+
 
 
 Misal, apabila kegiatan dalam bentuk pertemuan, minimal melampirkan 
@@ -4163,9 +3722,9 @@ Misal, apabila kegiatan dalam bentuk pertemuan, minimal melampirkan
 `
 
 
-```
+
 PJ UKM, Koordinator Promosi Kesehatan dan pelaksana promkes : Penggalian informasi pelayanan promosi kesehatan
-```
+
 
 
 
@@ -4173,13 +3732,13 @@ PJ UKM, Koordinator Promosi Kesehatan dan pelaksana promkes : Penggalian informa
 
 
 
-```
+
 1. Jadwal pemantauan 
 
 2. Hasil pemantauan capaian indikator promosi kesehatan yang disertai dengan analisis 
  
 PJ UKM, Koordinator Promosi Kesehatan dan pelaksana promkes : Penggalian informasi upaya pemantauan dan penilaian pelayanan promosi kesehatan 
-```
+
 
 
 
@@ -4191,9 +3750,9 @@ PJ UKM, Koordinator Promosi Kesehatan dan pelaksana promkes : Penggalian informa
 2. Bukti hasil tindaklanjut yang disusun di nomer 1
 
 
-```
+
 PJ UKM, Koordinator Promosi Kesehatan dan pelaksana promosi kesehatan : Penggalian informasi upaya menyusun rencana tindak lanjut promosi kesehatan yang dilakukan 
-```
+
 
 
 
@@ -4201,12 +3760,12 @@ PJ UKM, Koordinator Promosi Kesehatan dan pelaksana promosi kesehatan : Penggali
 
 
 
-```
+
 SOP Pencatatan dan Pelaporan (lihat bab I) 
 1. Bukti pencatatan indikator kinerja pelayanan UKM promosi kesehatan. 
 
 2. Bukti pelaporan capaian indikator pelayanan UKM promosi kesehatan 
-```
+
 
 
 3. Bukti pelaporan indikator kinerja promosi kesehatan yang terintegrasi dengan pelaporan kinerja Puskesmas kepada Dinas Kesehatan. 
@@ -4227,7 +3786,7 @@ Kepala Puskesmas, PJ UKM, Koordinator promosi kesehatan dan pelaksana : `P`engga
 ### Kriteria 2.6.2 Cakupan dan pelaksanaan UKM Esensial Penyehatan Lingkungan 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Cakupan UKM Esensial Penyehatan Lingkungan diukur dengan 3 (tiga) indikator kinerja utama pelayanan, sebagai berikut. 
@@ -4256,7 +3815,7 @@ Pelaporan kepada kepala puskesmas dan Dinas Kesehatan Daerah Kabupaten/Kota dan/
 
 Pelaporan kepada kepala puskesmas dapat dilakukan secara tertulis atau penyampaian secara langsung melalui pertemuan-pertemuan seperti lokakarya mini bulanan, pertemuan tinjauan manajemen, dan forum lainnya. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -4279,7 +3838,7 @@ PJ UKM, Koordinator  dan pelaksana  penyehatan lingkungan: Penggalian informasi 
 
 
 
-```
+
 1. RPK tahunan dan RPK Bulanan 
 
 
@@ -4306,17 +3865,17 @@ UKM pelayanan penyehatan lingkungan
 
 
 
-```
+
 
 
 
 #### c) Dilakukan pemantauan secara periodik dan berkesinambungan terhadap capaian indikator dan upaya yang telah dilakukan (D, W). 
 
 
-```
 
 
-```
+
+
 
 
 Jadwal pemantauan  
@@ -4347,10 +3906,10 @@ PJ UKM, Koordinator Promosi Kesehatan dan pelaksana promkes :  Penggalian inform
 
 
 
-```
+
 SOP Pencatatan dan Pelaporan (lihat bab I) 
 1. Bukti pencatatan indikator kinerja pelayanan UKM penyehatan lingkungan 
-```
+
 
 
 `2. Bukti pelaporan capaian indikator pelayanan UKM penyehatan lingkungan kepada `Kepala Puskesmas sesuai mekanisme yang telah ditetapkan. 
@@ -4383,17 +3942,17 @@ Kepala Puskesmas, PJ UKM, Koordinator dan pelaksana penyehatan lingkungan : Peng
  `
 
 
-```
 
 
-```
+
+
 
 
 
 ### Kriteria 2.6.3 Cakupan dan pelaksanaan UKM Esensial Kesehatan Keluarga 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Cakupan UKM Esensial Kesehatan Keluarga diukur dengan 6 (enam) indikator kinerja utama pelayanan, sebagai berikut. 
@@ -4460,13 +4019,13 @@ c) tersedia layanan konseling bagi remaja
 
 d) minimal membina satu Posyandu remaja 
 h. Penjaringan kesehatan meliputi: 
-```
+
 
 
 1. `skrining kesehatan dilakukan pada peserta didik kelas 1, 7 dan 10 , yaitu: `
 
 
-```
+
 a) penilaian status gizi 
 
 b) penilaian tanda-tanda vital 
@@ -4547,7 +4106,7 @@ Pelaporan kepada kepala puskesmas dan dinas kesehatan daerah kabupaten/kota/prov
 Pelaporan kepada kepala puskesmas dapat dilakukan secara tertulis atau penyampaian secara langsung melalui pertemuan-pertemuan seperti lokakarya mini bulanan, pertemuan tinjauan manajemen, dan forum lainnya. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -4555,13 +4114,13 @@ Elemen Penilaian
 `
 
 
-```
+
 SK Kepala Puskesmas tentang Indikator dan target Kinerja Pelayanan  UKM kesehatan keluarga sebagai bagian dari indikator 	kinerja Puskesmas 
 1. Bukti pencapaian target indikator kinerja kesehatan keluarga 
 
 2. Analisis pencapaian  target indikator kinerja kesehatan keluarga 
  
-```
+
 
 
 
@@ -4601,7 +4160,7 @@ c) Dilakukan pemantauan secara periodik dan berkesinambungan terhadap capaian in
 
 
 
-```
+
  
 1. Jadwal pemantauan 
 
@@ -4610,7 +4169,7 @@ c) Dilakukan pemantauan secara periodik dan berkesinambungan terhadap capaian in
  
 PJ UKM, Koordinator dan pelaksana kesehatan keluarga : Penggalian informasi upaya pemantauan dan penilaian pelayanan  
  
-```
+
 
 
 
@@ -4621,14 +4180,14 @@ PJ UKM, Koordinator dan pelaksana kesehatan keluarga : Penggalian informasi upay
 1. `Rencana tindak lanjut pelayanan kesehatan keluarga sesuai hasil pemantauan dapat berupa RUK atau RPK perubahan atau RPK bulanan 
 
 
-```
+
 
 
 2. Bukti hasil tindaklanjut 
  
 PJ UKM, Koordinator dan pelaksana kesehatan keluarga: Penggalian informasi  upaya menyusun rencana  tindak lanjut kesehatan keluarga   yang dilakukan 
  
-```
+
 
 
 
@@ -4637,9 +4196,9 @@ e) Dilaksanakan pencatatan, dan dilakukan pelaporan kepada kepala puskesmas dan 
 
 
 
-```
+
 SOP Pencatatan dan Pelaporan (lihat bab I) 
-```
+
 
 
 `1. `Bukti pencatatan indikator kinerja pelayanan UKM kesehatan keluarga
@@ -4663,18 +4222,18 @@ Jenis pelaporan elektronik mengikuti pemberlakukan saat dilaksanakan survei  \
 
 
 
-```
+
 Kepala Puskesmas, PJ UKM, Koordinator dan pelaksana kesehatan keluarga: Penggalian informasi terkait pencatatan  dan pelaporan kesehatan keluarga 
 
 
-```
+
 
 
 
 ### Kriteria 2.6.4 Cakupan dan pelaksanaan UKM Esensial Gizi 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Cakupan UKM Esensial Gizi diukur dengan 3 (tiga) indikator kinerja utama pelayanan, sebagai berikut. 
@@ -4741,7 +4300,7 @@ Pelaporan kepada kepala puskesmas dan Dinas Kesehatan Daerah Kabupaten/Kota dan/
 
 Pelaporan kepada kepala puskesmas dapat dilakukan secara tertulis atau penyampaian secara langsung melalui pertemuan-pertemuan seperti lokakarya mini bulanan, pertemuan tinjauan manajemen, dan forum lainnya. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -4749,19 +4308,19 @@ Elemen Penilaian
 
 
 
-```
+
 SK Kepala Puskesmas tentang Indikator dan target Kinerja Pelayanan UKM gizi sebagai bagian dari indikator kinerja
-```
+
 
 
 `1. Bukti pencapaian target indikator kinerja gizi `Puskesmas
 
 
-```
+
 
 
 2. Analisis pencapaian target indikator kinerja gizi 
-```
+
 
 
 
@@ -4769,7 +4328,7 @@ SK Kepala Puskesmas tentang Indikator dan target Kinerja Pelayanan UKM gizi seba
 
 
 
-```
+
 1. RPK tahunan dan RPK Bulanan 
 
 
@@ -4789,7 +4348,7 @@ Misal, apabila kegiatan dalam bentuk pertemuan, minimal melampirkan
 1. Undangan 
 
 2. notulen dan/ atau laporan yang disertai dengan foto kegiataN
-```
+
 
 
 3. Daftar hadir  \
@@ -4804,10 +4363,10 @@ PJ UKM, Koordinator dan pelaksana gizi : penggalian informasi pelayanan gizi  \
 1`. `Jadwal pemantauan 
 
 
-```
+
 2. Hasil pemantauan capaian indikator gizi yang disertai dengan analisis
 PJ UKM, Koordinator dan pelaksana gizi : penggalian informasi upaya pemantauan dan penilaian pelayanan gizi 
-```
+
 
 
 
@@ -4816,11 +4375,11 @@ PJ UKM, Koordinator dan pelaksana gizi : penggalian informasi upaya pemantauan d
 1. Rencana tindak lanjut pelayanan gizi sesuai hasil pemantauan dapat berupa RUK atau RPK perubahan atau RPK bulanan
 
 
-```
+
 2. Bukti hasil tindaklanjut
  
 PJ UKM, Koordinator dan pelaksana gizi : penggalian informasi upaya menyusun rencana tindak lanjut yang dilakukan 
-```
+
 
 
 
@@ -4828,14 +4387,14 @@ PJ UKM, Koordinator dan pelaksana gizi : penggalian informasi upaya menyusun ren
 `
 
 
-```
+
 SOP Pencatatan dan Pelaporan (lihat bab I) 
 1. Bukti pencatatan indikator kinerja pelayanan UKM 
 Gizi 
 
 2. Bukti pelaporan capaian indikator pelayanan UKM 
 Gizi kepada Kepala Puskesmas sesuai mekanisme yang telah ditetapkan. 
-```
+
 
 
 `3. Bukti pelaporan indikator kinerja Gizi yang terintegrasi dengan pelaporan kinerja Puskesmas` kepada Dinas Kesehatan. 
@@ -4858,7 +4417,6 @@ Kepala Puskesmas, PJ UKM, Koordinator gizi dan pelaksana : Penggalian informasi 
 `
 
 
-```
 
 
 
@@ -4869,14 +4427,15 @@ Kepala Puskesmas, PJ UKM, Koordinator gizi dan pelaksana : Penggalian informasi 
 
 
 
-```
+
+
 
 
 
 ### Kriteria 2.6.5 Cakupan dan Pelaksanaan UKM Esensial Pencegahan dan Pengendalian Penyakit. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Cakupan UKM Esensial Pencegahan dan Pengendalian Penyakit diukur dengan 3 (tiga) indikator kinerja 
@@ -4891,7 +4450,7 @@ e. Dilakukan pemantauan dan analisis serta  tindak  lanjut terhadap capaian indi
 f. Pencatatan dan pelaporan UKM Esensial Pencegahan dan Pengendalian Penyakit, baik secara manual maupun elektronik, dilakukan secara lengkap, akurat dan tepat waktu. Pelaporan kepada kepala puskesmas dan Dinas Kesehatan Daerah Kabupaten/Kota dan/atau pihak lainnya mengacu kepada ketentuan peraturan perundang-undangan yang berlaku. Pelaporan kepada kepala puskesmas dapat dilakukan secara tertulis atau penyampaian secara langsung melalui pertemuan-pertemuan seperti lokakarya mini bulanan, pertemuan tinjauan manajemen, dan forum lainnya. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -4899,17 +4458,17 @@ Elemen Penilaian
 
 
 
-```
+
 SK Kepala Puskesmas tentang Indikator dan target Kinerja Pelayanan UKM Pencegahan dan Pengendalian Penyakit sebagai bagian dari indikator kinerja Puskesmas 
-```
+
 
 
 `1. `Bukti pencapaian target indikator kinerja Pencegahan dan Pengendalian Penyakit
 
 
-```
+
 2. Analisis pencapaian target indikator kinerja Pencegahan dan Pengendalian Penyakit 
-```
+
 
 
 
@@ -4917,13 +4476,13 @@ SK Kepala Puskesmas tentang Indikator dan target Kinerja Pelayanan UKM Pencegaha
 
 
 
-```
+
 1. RPK tahunan dan RPK Bulanan 
 
 
 2. KAK pelayanan UKM Pencegahan dan Pengendalian 
 Penyakit 
-```
+
 
 
 3. SK tentang pelayanan UKM di Puskesmas 
@@ -4933,10 +4492,10 @@ Penyakit
 4. SOP sesuai dengan pelayanan UKM Pencegahan dan Pengendalian Penyakit 
 
 
-```
+
 Bukti pelaksanaan pelayanan UKM esensial pencegahan dan pengendalian penyakit sesuai dengan POKOK 
 PIKIRAN minimal. 
-```
+
 
 
 `Bukti pelaksanaan `disesuaikan dengan jenis kegiatan. 
@@ -4960,7 +4519,7 @@ c) Dilakukan pemantauan secara periodik dan berkesinambungan terhadap capaian in
  
 
 
-```
+
 
 1. Jadwal pemantauan 
 
@@ -4968,7 +4527,7 @@ c) Dilakukan pemantauan secara periodik dan berkesinambungan terhadap capaian in
  
 PJ UKM, Koordinator dan pelaksana Pencegahan dan Pengendalian Penyakit : Penggalian informasi upaya pemantauan dan penilaian pelayanan Pencegahan dan Pengendalian Penyakit 
  
-```
+
 
 
 
@@ -4977,7 +4536,7 @@ d) Disusun rencana tindak lanjut dan dilakukan tindaklanjut berdasarkan hasil pe
 
 
 
-```
+
  
 1. Rencana tindak lanjut pelayanan Pencegahan dan 
 Pengendalian Penyakit sesuai hasil pemantauan dapat berupa RUK atau RPK perubahan atau 
@@ -4987,16 +4546,16 @@ RPK bulanan
  
 PJ UKM, Koordinator dan pelaksana Pencegahan dan Pengendalian Penyakit : Penggalian informasi upaya menyusun rencana tindak lanjut Pencegahan dan Pengendalian Penyakit yang dilakukan 
  
-```
+
 
 
 
 #### e) Dilaksanakan pencatatan, dan dilakukan pelaporan kepada kepala puskesmas dan dinas kesehatan daerah kabupaten/kota sesuai dengan prosedur yang telah ditetapkan (R, D, O, W)
 
 
-```
+
 SOP Pencatatan dan Pelaporan (lihat bab I) 
-```
+
 
 
 `1. Bukti pencatatan indikator kinerja `pelayanan UKM pencegahan dan pengendalian penyakit 
@@ -5037,13 +4596,13 @@ Jenis pelaporan elektronik mengikuti pemberlakukan saat dilaksanakan survei.  \
 `
 
 
-```
+
 Pengamatan tentang pencatatan dan pelaporan
 Kepala Puskesmas, PJ UKM, Koordinator dan pelaksana pencegahan dan pengendalian penyakit: Penggalian informasi terkait pencatatan dan pelaporan Pencegahan dan Pengendalian Penyakit 
  
 
 
-```
+
 
 
 
@@ -5052,20 +4611,20 @@ Kepala Puskesmas, PJ UKM, Koordinator dan pelaksana pencegahan dan pengendalian 
 ## Standar 2.7 Penyelenggaraan UKM pengembangan. 
 
 
-```
+
 Upaya Kesehatan Masyarakat (UKM) pengembangan dilaksanakan dengan mengutamakan upaya promotif dan preventif di wilayah kerja Puskesmas. 
 
 
 Puskesmas melaksanakan Upaya Kesehatan Masyarakat (UKM) Pengembangan untuk mencapai tujuan pembangunan kesehatan di wilayah kerjanya 
 	
-```
+
 
 
 
 ### Kriteria 2.7.1 Cakupan dan pelaksanaan UKM Pengembangan dilakukan untuk mencapai tujuan pembangunan kesehatan di wilayah kerjanya 
 
 
-```
+
 POKOK PIKIRAN 
 
 a. Puskesmas melaksanakan upaya kesehatan  masyarakat pengembangan berdasarkan permasalahan yang ada di wilayah kerja. 
@@ -5086,7 +4645,7 @@ Pelaporan kepada kepala puskesmas dapat dilakukan secara tertulis atau penyampai
  
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -5094,10 +4653,10 @@ Elemen Penilaian
 
 
 
-```
+
 SK Jenis Pelayanan UKM pengembangan yang terintegrasi dengan SK Jenis pelayanan yang telah ditetapkan  oleh Puskesmas 
 Hasil analisis penetapan UKM Pengembangan 
-```
+
 
 
 
@@ -5105,10 +4664,10 @@ Hasil analisis penetapan UKM Pengembangan
 
 
 
-```
+
 SK Kepala Puskesmas tentang Indikator dan target Kinerja UKM pengembangan yang terintegrasi dengan indikator kinerja Puskesmas 
 Bukti capaian kinerja UKM pengembangan 
-```
+
 
 
 
@@ -5116,7 +4675,7 @@ Bukti capaian kinerja UKM pengembangan
 
 
 
-```
+
 1. RPK tahunan dan RPK Bulanan 
 
 
@@ -5129,7 +4688,7 @@ Bukti pelaksanaan pelayanan UKM pengembangan sesuai kebijakan Puskesmas minimal.
 Bukti pelaksanaan disesuaikan dengan jenis kegiatan. 
 
 Misal, apabila kegiatan dalam bentuk pertemuan, minimal melampirkan. 
-```
+
 
 
 1. Undangan 
@@ -5142,9 +4701,9 @@ Misal, apabila kegiatan dalam bentuk pertemuan, minimal melampirkan.
 PJ UKM, Koordinator dan pelaksana UKM `
 
 
-```
+
 Pengembangan : Penggalian informasi upaya promotof dan preventif UKM pengembangan 
-```
+
 
 
 
@@ -5154,12 +4713,12 @@ Pengembangan : Penggalian informasi upaya promotof dan preventif UKM pengembanga
 1`. Bukti pemantauan UKM pengembangan `
 
 
-```
+
 2. Bukti penilaian serta rencana tindak lanjut UKM pengembangan 
 Pengamatan terhadap upaya pemantauan capaian indikator 
 PJ UKM, Koordinator dan pelaksana UKM pengembangan: Penggalian informasi upaya pemantauan dan penilaian UKM pengembangan 
  
-```
+
 
 
 
@@ -5167,11 +4726,11 @@ PJ UKM, Koordinator dan pelaksana UKM pengembangan: Penggalian informasi upaya p
 
 
 
-```
+
 Rencana tindak lanjut UKM pengembangan berdasarkan hasil pemantauan 
  
 PJ UKM, Koordinator dan pelaksana UKM pengembangan: penggalian informasi terhadap proses penyusunan rencana tindak lanjut 
-```
+
 
 
 
@@ -5179,14 +4738,14 @@ PJ UKM, Koordinator dan pelaksana UKM pengembangan: penggalian informasi terhada
 
 
 
-```
+
 SOP Pencatatan dan Pelaporan (lihat bab I) 
 1. Bukti pencatatan indikator kinerja pelayanan UKM pengembangan. 
 
 2. Bukti pelaporan capaian indikator pelayanan UKM pengembangan Kepala Puskesmas sesuai mekanisme yang telah ditetapkan. 
 
 3. Bukti pelaporan indikator kinerja UKM pengembangan yang terintegrasi dengan pelaporan kinerja Puskesmas kepada Dinas Kesehatan.
-```
+
 
 
 Catatan: 
@@ -5194,21 +4753,21 @@ Catatan:
 Sistem pelaporan eletronik mengikuti dengan jenis pelayanan UKM pengembangan yang ditetapkan oleh Puskesmas, (ika ada sistem pelaporan elektonik yang ditetapkan oleh Kemenkes maka pastikan Puskesmas sudah melaksanakan)
 
 
-```
+
  
 Kepala Puskesmas, PJ UKM, Koordinator dan pelaksana 
 UKM pengembangan: Penggalian informasi pencatatan dan pelaporan UKM Pengembangan 
 
 
 
-```
+
 
 
 
 ## Standar 2.8 Pengawasan, pengendalian, dan penilaian kinerja pelayanan UKM. 
 
 
-```
+
 
 Pengawasan, Pengendalian dan Penilaian Kinerja pelayanan UKM Puskesmas dilakukan dengan menggunakan indikator kinerja pelayanan UKM. 
 
@@ -5216,14 +4775,14 @@ Pengawasan, Pengendalian dan Penilaian Kinerja pelayanan UKM Puskesmas dilakukan
 Pengawasan, pengendalian dan penilaian kinerja dilakukan untuk menilai efektivitas dan efisiensi penyelenggaraan pelayanan, kesesuaian dengan rencana, dan pemenuhan terhadap kebutuhan dan harapan masyarakat. 
 
 Pengawasan, pengendalian, penilaian kinerja pelayanan UKM dilaksanakan dalam bentuk pemantauan dan supervisi pelaksanaan kegiatan pelayanan UKM dengan menggunakan indikator kinerja pelayanan UKM 
-```
+
 
 
 
 ### Kriteria 2.8.1 Kepala Puskesmas dan penanggung jawab UKM Puskesmas melakukan supervisi untuk pengawasan pelaksanaan pelayanan UKM Puskesmas yang dapat dilakukan secara terjadwal atau sewaktu-waktu. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a) Pengawasan yang dilakukan mencakup aspek administratif, sumber daya, pencapaian kinerja program, dan teknis pelayanan. 
@@ -5252,7 +4811,7 @@ h) 	Tahapan pelaksanaan supervisi adalah sebagai berikut:
 
 4. Jika ditemukan ketidaksesuaian atau hambatan dalam pelaksanaan kegiatan pelayanan UKM, maka dilakukan pembahasan dan tindak lanjut perbaikan. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -5260,10 +4819,10 @@ Elemen Penilaian
 `
 
 
-```
+
 Kerangka acuan kegiatan supervisi 
 Jadwal kegiatan supervisi 
-```
+
 
 
 
@@ -5271,11 +4830,11 @@ Jadwal kegiatan supervisi
 
 
 
-```
+
 Bukti penyampaian informasi KAK dan jadwal supervisi kepada koordinator pelayanan dan pelaksana, sesuai dengan media informasi yang ditetapkan
  
 Koordinator dan pelaksana UKM: Penggalian informasi mengenai pelaksanaan supervisi 
-```
+
 
 
 
@@ -5283,14 +4842,14 @@ Koordinator dan pelaksana UKM: Penggalian informasi mengenai pelaksanaan supervi
 
 
 
-```
+
  
 Hasil analisis mandiri dari koordinator dan pelaksana pelayanan UKM sebelum 
 disupervisi 
  
 koordinator dan pelaksana UKM: Penggalian informasi terkait pelaksanaan analisis mandiri kegiatan UKM 
  
-```
+
 
 
 
@@ -5298,14 +4857,14 @@ koordinator dan pelaksana UKM: Penggalian informasi terkait pelaksanaan analisis
 
 
 
-```
+
  
 Bukti pelaksanaan supervisi minimal terdiri dari : 
 1. surat tugas 
 2. laporan supervisi beserta dokumentasi 
  
 Kepala Puskesmas dan PJ UKM: Penggalian informasi terkait pelaksanaan supervisi 
-```
+
 
 
 
@@ -5322,21 +4881,21 @@ Kapus, PJ UKM, Koordinator dan pelaksana Penggalian informasi terkait penyampaia
 
 
 
-```
+
  
 Bukti hasil tindak lanjut sesuai EP 'e" 
  
 Koordinator pelayanan dan pelaksana Penggalian informasi tentang tindak lanjut hasil supervisi berupa upaya perbaikan 
  
 
-```
+
 
 
 
 ### Kriteria 2.8.2 Penanggung jawab UKM wajib melakukan pemantauan dalam upaya pelaksanaan kegiatan UKM sesuai dengan jadwal yang sudah disusun agar dapat mengambil langkah tindak lanjut untuk perbaikan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Permasalahan atau ketidaksesuaian yang dihadapi dalam pelaksanaan kegiatan UKM terkait dengan waktu, tempat, akses sasaran, pelaksana dan metode serta teknologi yang digunakan dalam pelaksanaan kegiatan dapat menyebabkan terjadinya perubahan jadwal pelaksanaan kegiatan UKM. 
@@ -5358,7 +4917,7 @@ Perubahan rencana kegiatan memperhatikan usulan-usulan dari pelaksana, lintas pr
 h. Perubahan terhadap rencana tahunan  harus  dilakukan dengan alasan yang tepat sebagai upaya pencapaian optimal 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -5366,7 +4925,7 @@ Elemen Penilaian
 
 
 
-```
+
  
 1. Jadwal pemantauan 
 2. Bukti Pemantauan pelaksanaan kegiatan sesuai kerangka acuan 
@@ -5374,7 +4933,7 @@ Elemen Penilaian
  
 PJ UKM, koordinator pelayanan dan pelaksana : Penggalian informasi terkait pemantauan pelaksanaan kegiatan sesuai kerangka acuan dan jadwal 
  
-```
+
 
 
 
@@ -5384,9 +4943,9 @@ PJ UKM, koordinator pelayanan dan pelaksana : Penggalian informasi terkait peman
 `1. `Jadwal lokakarya mini bulanan dan lokakarya mini triwulanan. 
 
 
-```
+
 2. Bukti pembahasan terhadap hasil pemantauan dan hasil capaian (lihat bab 1): 
-```
+
 
 
 `Lokakarya mini bulanan minimal terdiri dari :  \
@@ -5412,13 +4971,13 @@ Kepala Puskesmas, PJ UKM, koordinator pelayanan dan pelaksana:  Penggalian infor
 
 
 
-```
+
 Bukti tindak lanjut perbaikan sesuai hasil pemantauan 
  
 PJ UKM, koordinator, pelaksana. Penggalian informasi terkait pelaksanaan tindak lanjut berdasarkan hasil pemantauan 
  
  
-```
+
 
 
 
@@ -5427,10 +4986,10 @@ d) Kepala Puskesmas dan penanggung jawab UKM bersama lintas program dan lintas s
 
 
 
-```
+
  
 1. Bukti penyesuaian rencana kegiatan berdasarkan hasil pemantauan yang dituangkan ke dalam dokumen perencanaan seperti RUK atau RPK Perubahan atau RPKB. 
-```
+
 
 
 `2. Bukti pelaksanaan kegiatan sesuai dengan jenis kegiatan yang dilakukan, misal jika dalam bentuk pertemuan, minimal `menyertakan: 
@@ -5445,10 +5004,10 @@ d) Kepala Puskesmas dan penanggung jawab UKM bersama lintas program dan lintas s
 Kepala puskesmas dan PJ UKM, Lintas Program, Lintas `
 
 
-```
+
 Sektor: Penggalian informasi terkait penyesuaian rencana 
  
-```
+
 
 
 
@@ -5456,21 +5015,21 @@ Sektor: Penggalian informasi terkait penyesuaian rencana
 
 
 
-```
+
  
 Bukti penyampaian informasi penyesuaian rencana kegiatan sesuai mekanisme penyampaian informasi yang ditetapkan. 
  
 PJ UKM , koordinator pelayanan, pelaksana kegiatan, sasaran, LP dan LS: Penggalian informasi terkait informasi penyesuaian rencana kegiatan 
  
  	
-```
+
 
 
 
 ### Kriteria 2.8.3 Kepala Puskesmas dan penanggung jawab UKM melakukan upaya perbaikan terhadap hasil penilaian capaian kinerja pelayanan UKM. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Adanya ketetapan tentang indikator dan target kinerja pelayanan UKM Puskesmas yang disusun berdasarkan standar pelayanan minimal,kebijakan/pedoman dari Kementerian Kesehatan, kebijakan/pedoman dari dinas kesehatan daerah  provinsi, dan kebijakan/pedoman dari dinas kesehatan daerah kabupaten/kota. 
@@ -5479,7 +5038,7 @@ b. Kegiatan pengumpulan hasil data capaian kinerja pelayanan UKM yang tercantum 
 
 c. Penanggung jawab UKM dan koordinator pelayanan dan pelaksana kegiatan UKM melakukan analisis terhadap capaian kinerja berdasarkan  indikator kinerja pelayanan UKM yang telah dikumpulkan untuk melihat pencapaian kinerja sesuai dengan target yang telah ditetapkan. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -5487,9 +5046,9 @@ Elemen Penilaian
 
 
 
-```
+
 SK Indikator kinerja pelayanan UKM yang terintegrasi dengan SK indikator kinerja Puskesmas (lihat di bab I) 
-```
+
 
 
 
@@ -5497,7 +5056,7 @@ SK Indikator kinerja pelayanan UKM yang terintegrasi dengan SK indikator kinerja
 `
 
 
-```
+
 1. SK pencatatan dan pelaporan 
 
 
@@ -5505,17 +5064,17 @@ SK Indikator kinerja pelayanan UKM yang terintegrasi dengan SK indikator kinerja
 Bukti pengumpulan data capaian indikator kinerja pelayanan UKM sesuai periode sesuai dengan regulasi yang ditetapkan di Puskesmas. 
  
 Koordinator pelayanan dan pelaksana: Penggalian informasi kegiatan mengumpulkan data capaian indikator kinerja pelayanan UKM sesuai periode 
-```
+
 
 
 
 #### c) Penanggung jawab UKM dan Koordinator pelayanan serta pelaksana kegiatan melakukan pembahasan terhadap capaian  kinerja bersama dengan lintas program. (D,W) 
 
 
-```
+
 Bukti pembahasan capaian kinerja dengan lintas program minimal terdiri dari : 
 1. Daftar hadir 
-```
+
 
 
 `2. `notulen` yang diserta dengan foto kegiatan  \
@@ -5554,7 +5113,7 @@ Bukti hasil tindak lanjut terhadap umpan balik hasil kinerja dari Dinas Kesehata
 ### Kriteria 2.8.4 Penilaian kinerja terhadap penyelenggaraan pelayanan UKM dilaksanakan secara periodik untuk menunjukan akuntabilitas dalam pengelolaan pelayanan UKM. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Kepala Puskesmas, penanggung jawab UKM, koordinator pelayanan dan pelaksana kegiatan UKM bertanggung jawab dalam membudayakan perbaikan kinerja secara berkesinambungan, konsisten dengan visi, misi dan tujuan Puskesmas. 
@@ -5568,7 +5127,7 @@ d. Penilaian kinerja dimaksudkan untuk menunjukkan akuntabilitas dalam pengelola
 e. Penilaian tersebut dilakukan dalam rapat kepala Puskesmas bersama dengan penanggung jawab UKM Puskesmas, koordinator pelayanan dan pelaksana kegiatan UKM. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -5576,7 +5135,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tentang penilaian kinerja 
 
 
@@ -5586,7 +5145,7 @@ Bukti pembahasan penilaian kinerja minimal terdiri dari :
  notulen yang diserta dengan foto kegiatan 
  
 Kapus, PJ UKM, koordinator dan pelaksana: Penggalian informasi terkait pembahasan kinerja 
-```
+
 
 
 
@@ -5594,12 +5153,12 @@ Kapus, PJ UKM, koordinator dan pelaksana: Penggalian informasi terkait pembahasa
 
 
 
-```
+
 Bukti rencana tindak lanjut berdasarkan hasil pembahasan capaian kinerja pelayanan UKM 
  
 Kapus, PJ UKM, koordinator dan pelaksana: Penggalian informasi terkait penyusunan rencana tindak lanjut untuk indikator yang tidak tercapai 
  
-```
+
 
 
 
@@ -5607,9 +5166,9 @@ Kapus, PJ UKM, koordinator dan pelaksana: Penggalian informasi terkait penyusuna
 
 
 
-```
+
 Bukti pelaporan kinerja ke Dinas Kesehatan Kab/ Kota 
-```
+
 
 
 
@@ -5617,9 +5176,9 @@ Bukti pelaporan kinerja ke Dinas Kesehatan Kab/ Kota
 
 
 
-```
+
 Buki umpan balik dari Dinkes Kab/ Kota atas laporan kinerja Puskesmas
-```
+
 
 
 
@@ -5627,36 +5186,27 @@ Buki umpan balik dari Dinkes Kab/ Kota atas laporan kinerja Puskesmas
 
 
 
-```
+
 Bukti hasil tindak lanjut umpan balik dari Dinas Kesehatan Daerah Kab/Kota 
  
  
 
 
 
-```
+
 
 
 
 # BAB III PENYELENGGARAAN UPAYA KESEHATAN PERSEORANGAN (UKP), LABORATORIUM DAN KEFARMASIAN  \
 
-
-
 ## Standar 3.1 Penyelenggaraan pelayanan klinis 
 
 Penyelenggaraan pelayanan klinis mulai dari proses penerimaan pasien sampai dengan pemulangan dilaksanakan dengan memperhatikan kebutuhan pasien dan mutu pelayanan. 
 
-
-```
 Proses penerimaan sampai dengan pemulangan pasien, dilaksanakan dengan memenuhi kebutuhan pasien dan mutu pelayanan yang didukung oleh sarana, prasarana dan lingkungan. 
-```
-
-
 
 ### Kriteria 3.1.1 Penyelenggaraan pelayanan klinis mulai dari penerimaan pasien dilaksanakan dengan efektif dan efisien sesuai dengan kebutuhan pasien, serta mempertimbangkan hak dan kewajiban pasien. 
 
-
-```
 POKOK PIKIRAN: 
 
 a. Puskesmas wajib meminta persetujuan umum (general consent) dari pengguna layanan atau keluarganya terdekat, persetujuan terhadap tindakan yang berisiko rendah, prosedur diagnostik, pengobatan medis lainnya, batas yang telah ditetapkan, dan persetujuan lainnya, termasuk peraturan tata tertib dan penjelasan tentang hak dan kewajiban pengguna layanan. 
@@ -5708,7 +5258,7 @@ Untuk itu perlu dilakukan identifikasi pasien dengan risiko, kendala dan kebutuh
 o. Untuk mencegah terjadinya transmisi infeksi diterapkan protokol kesehatan yang meliputi: penggunaan alat pelindung diri, jaga jarak  antara orang yang satu dan yang lain, dan pengaturan agar tidak terjadi kerumuan orang, mulai dari pendaftaran dan di semua area pelayanan. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -5716,11 +5266,11 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK Kepala Puskesmas tentang Kebijakan identifikasi dan pemenuhan kebutuhan pasien dengan risiko, kendala, dan kebutuhan khusus. 
 
 2. SOP Identifikasi dan pemenuhan Kebutuhan Pasien dengan resiko, kendala, dan kebutuhan Khusus. 
-```
+
 
 
 
@@ -5728,7 +5278,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tentang Pelayanan Klinis (mulai dari pendaftaran sampai dengan pemulangan dan rujukan) 
 
 2. SK tentang kewajiban menginformasikan hak dan kewajiban serta memperhatikan keselamatan pasien 
@@ -5741,7 +5291,7 @@ Pengamatan surveior terhadap:
 
 
 
-```
+
 
 
 
@@ -5751,11 +5301,11 @@ Pengamatan surveior terhadap:
 `
 
 
-```
+
 Pj UKP, Petugas pendaftaran dan pasien: Penggalian informasi tentang 
 
 
-```
+
 
 
 
@@ -5767,14 +5317,14 @@ Pj UKP, Petugas pendaftaran dan pasien: Penggalian informasi tentang
 `
 
 
-```
+
 Simulasi terhadap petugas tentang 
 
 
 1. pelayanan yang memperhatikan hak dan kewajiban pasien, 
 
 2. proses identifikasi pasien termasuk penanganan jika ditemukan kendala dalam pelayanan (misal kendala bahasa) 
-```
+
 
 
 
@@ -5782,12 +5332,12 @@ Simulasi terhadap petugas tentang
 
 
 
-```
+
 Pengamatan surveior terhadap: Informasi tentang jenis pelayanan dan tarif, jadwal pelayanan, Informasi kerjasama rujukan, informasi ketersediaan tempat tidur untuk Puskesmas rawat inap.
 Pasien: Penggalian informasi terkait kemudahan informasi pelayanan di Puskesmas (wawancara) 
 
 
-```
+
 
 
 
@@ -5795,33 +5345,33 @@ Pasien: Penggalian informasi terkait kemudahan informasi pelayanan di Puskesmas 
 `
 
 
-```
+
 Dokumen General Concent Pasien 
 
 
 Penggalian informasi tentang pemberian informasi persetujuan pasien sebelum dilakukan pelayanan 
  
-```
+
 
 
 
 ## Standar 3.2 Pengkajian, rencana asuhan, dan pemberian asuhan. 
 
 
-```
+
 Pengkajian, rencana asuhan, dan pemberian asuhan dilaksanakan secara paripurna. 
 
 Kajian pasien dilakukan secara paripurna untuk mendukung rencana dan pelaksanaan pelayanan oleh petugas kesehatan profesional dan/atau tim kesehatan antarprofesi yang digunakan untuk menyusun keputusan layanan klinis. 
 
 Pelaksanaan asuhan dan pendidikan pasien/keluarga dilaksanakan sesuai dengan rencana yang disusun, dipandu oleh kebijakan dan prosedur, dan sesuai dengan peraturan yang berlaku. 
-```
+
 
 
 
 ### Kriteria 3.2.1 Penapisan (skrining) dan proses kajian awal dilakukan secara paripurna, mencakup berbagai kebutuhan dan harapan pasien/keluarga, serta dengan mencegah penularan infeksi. 
 
 
-```
+
 Asuhan pasien dilaksanakan berdasarkan rencana asuhan medis, keperawatan, dan asuhan klinis yang lain dengan memperhatikan kebutuhan pasien dan berpedoman pada panduan praktik klinis. 
 
 POKOK PIKIRAN: 
@@ -5898,16 +5448,16 @@ r. Untuk meningkatkan luaran klinis yang optimal perlu ada kerja sama antara pet
 
 Pasien/keluarga pasien perlu mendapatkan penyuluhan kesehatan  dan  edukasi yang terkait dengan penyakit dan kebutuhan klinis pasien menggunakan pendekatan komunikasi interpersonal antara pasien dan petugas kesehatan serta menggunakan bahasa yang mudah  dipahami agar mereka dapat berperan aktif dalam proses asuhan dan memahami konsekuensi asuhan yang diberikan. 
 Elemen Penilaian 
-```
+
 
 
 
 #### a) Dilakukan skrining dan pengkajian awal secara paripurna oleh tenaga yang kompeten untuk mengidentifikasi kebutuhan pelayanan sesuai dengan panduan praktik klinis, termasuk penangan nyeri dan dicatat dalam rekam medis (R, D, O, W).
 
 
-```
+
 1. SK pelayanan klinis tentang pengkajian, rencana asuhan, pemberian asuhan dan pendidikan pasien/keluarga 
-```
+
 
 
 `2. SOP pengkajian awal klinis (screening) yang meliputi: kajian `medis, kajian penunjang medis, dan kajian keperawatan 
@@ -5936,7 +5486,7 @@ Dokter, Perawat, Bidan: `Penggalian informasi terkait skrining dan pengkajian aw
 #### b) Dalam keadaan tertentu jika tidak tersedia tenaga medis, dapat dilakukan pelimpahan wewenang tertulis kepada perawat dan/atau bidan yang telah mengikuti pelatihan, untuk melakukan kajian awal medis dan pemberian asuhan medis sesuai dengan kewenangan delegatif yang diberikan (R, D).
 
 
-```
+
 
 1. SK pelimpahan wewenang 
 
@@ -5946,7 +5496,7 @@ Dokter, Perawat, Bidan: `Penggalian informasi terkait skrining dan pengkajian aw
 
 2. Telaah RM : Bukti dilakukan kajian awal medis dan pemberian asuhan medis sesuai dengan kewenangan 
 delegatif yang diberikan. 
-```
+
 
 
 
@@ -5954,7 +5504,7 @@ delegatif yang diberikan.
 
 
 
-```
+
 1. Telaah Rekam Medis 
 
 
@@ -5970,7 +5520,7 @@ A : Assesment
 P : Planning 
  
 Dokter, perawat, bidan, petugas gizi dan farmasi tentang asuhan kolaboratif: Penggalian informasi terkait rencana asuhan 
-```
+
 
 
 
@@ -5978,14 +5528,14 @@ Dokter, perawat, bidan, petugas gizi dan farmasi tentang asuhan kolaboratif: Pen
 
 
 
-```
+
 Catatan Perkembangan Pasien Terintegrasi/CPPT 
  
 Dokter, perawat, bidan, petugas gizi dan farmasi tentang asuhan kolaboratif 
 
 
 Penggalian informasi tentang asuhan secara kolaboratif 
-```
+
 
 
 
@@ -5993,20 +5543,20 @@ Penggalian informasi tentang asuhan secara kolaboratif
 
 
 
-```
+
 1. Bukti dilakukan pemberian penyuluhan/pendi dikan kesehatan kepada pasien/keluarga
 
 
 2. Evaluasi pemahaman pasien dan keluarga
-```
+
 
 
 3. Tindaklanjut sesuai hasil evaluasi
 
 
-```
+
 Pengamatan surveior: Pelaksanaan penyuluhan/pendidikan kesehatan bagi pasien dan keluarga 
-```
+
 
 
 
@@ -6014,11 +5564,11 @@ Pengamatan surveior: Pelaksanaan penyuluhan/pendidikan kesehatan bagi pasien dan
 
 
 
-```
+
 Dokumen Informed Concent 
  
  
-```
+
 
 
 
@@ -6027,18 +5577,18 @@ Dokumen Informed Concent
 ## Standar 3.3 Pelayanan gawat darurat 
 
 
-```
+
 Pelayanan gawat darurat dilaksanakan dengan segera sebagai prioritas pelayanan. 
 
 Tersedia pelayanan gawat darurat yang dilakukan sesuai dengan kebutuhan darurat, mendesak atau segera 
-```
+
 
 
 
 ### Kriteria 3.3.1 Prosedur penanganan pasien gawat darurat disusun berdasar panduan praktik klinis untuk penanganan pasien gawat darurat dengan referensi yang dapat dipertanggungjawabkan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Pasien gawat darurat diidentifikasi dengan proses triase mengacu pada pedoman tata laksana triase sesuai ketentuan peraturan perundang-undangan. 
@@ -6059,7 +5609,7 @@ c. Pasien harus distabilkan terlebih dahulu sebelum dirujuk yaitu bila tidak ter
 
 d. Dalam penanganan pasien dengan kebutuhan darurat, mendesak, atau segera, termasuk melakukan deteksi dini tanda tanda dan gejala penyakit menular misalnya infeksi melalui udara/airborne. 
 Elemen penilaian: 
-```
+
 
 
 
@@ -6075,7 +5625,7 @@ Elemen penilaian:
 `4. `SOP triase,
 
 
-```
+
 5. SOP Penanganan gawat darurat 
 Telaah Rekam Medis 
 Pengamatan surveior terhadap pelaksanaan pelayanan klinis dan triase Petugas di pelayanan kegawatdaruratan 
@@ -6084,7 +5634,7 @@ Pengamatan surveior terhadap pelaksanaan pelayanan klinis dan triase Petugas di 
 Penggalian informasi terkait pelaksanaan prosedur triage 
 Simulasi pelaksanaan triage 
  
-```
+
 
 
 
@@ -6094,13 +5644,13 @@ Simulasi pelaksanaan triage
 `1. `SK tentang pelayanan rujukan 
 
 
-```
+
 
 
 2. SOP Rujukan
 
 1. Telaah rekam medis pelaksanaan stabilisasi, 
-```
+
 
 
 2. Bukti pelaksanaan rujukan yang berisikan komunikasi dan SBAR sebelum rujukan, observasi selama rujukan,
@@ -6111,7 +5661,7 @@ Simulasi pelaksanaan triage
 pasien rujukan (pelaksanaan stabilisasi dan komunikasi sebelum rujukan)
 
 
-```
+
 Pengamatan surveior terhadap proses penanganan 
  
  
@@ -6127,7 +5677,7 @@ Pengamatan surveior terhadap proses penanganan
 
 
 
-```
+
 
 
 
@@ -6136,18 +5686,18 @@ Pengamatan surveior terhadap proses penanganan
 ## Standar 3.4 Pelayanan anestesi lokal dan tindakan. 
 
 
-```
+
 Pelayanan anastesi lokal dan tindakan di Puskesmas dilaksanakan dengan sesuai standar. 
 
 Tersedia pelayanan anestesi lokal dan tindakan untuk memenuhi kebutuhan pasien 
-```
+
 
 
 
 ### Kriteria 3.4.1 Pelayanan anestesi lokal di Puskesmas dilaksanakan sesuai dengan standar dan peraturan perundang-undangan.
 
 
-```
+
 
 
 POKOK PIKIRAN: 
@@ -6179,7 +5729,7 @@ b. Kebijakan dan prosedur memuat:
 10. bantuan hidup dasar. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -6187,7 +5737,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tentang pelayanan anastesi 
 
 
@@ -6195,7 +5745,7 @@ Elemen Penilaian
 Telaah rekam medis pasien dengan anastesi 
 Pengamatan surveior terhadap proses pelayanan anastesi oleh tenaga kesehatan (menyesuaikan kondisi di Puskesmas) 
 Dokter,dokter gigi, perawat, bidan, dan tenaga kesehatan: Penggalian informasi tentang pelaksanaan anestesi lokal di puskesmas 
-```
+
 
 
 
@@ -6215,17 +5765,17 @@ T`elaah rekam medis  \
 ## Standar 3.5 Pelayanan gizi. 
 
 
-```
+
 Pelayanan Gizi dilakukan sesuai dengan kebutuhan pasien dan ketentuan peraturan perundang-undangan. 
 Pelayanan Gizi diberikan sesuai dengan status gizi pasien secara reguler, sesuai dengan rencana asuhan, umur, budaya, dan bila pasien berperan serta dalam perencanaan dan seleksi makanan 
-```
+
 
 
 
 ### Kriteria 3.5.1 Pelayanan Gizi dilakukan sesuai dengan status gizi pasien dan konsisten dengan asuhan klinis yang tersedia secara reguler. 
 
 
-```
+
 POKOK PIKIRAN 
 
 a. Terapi gizi adalah pelayanan gizi yang diberikan kepada pasien berdasarkan pengkajian gizi, yang meliputi terapi diet, konseling gizi, dan pemberian makanan khusus dalam rangka penyembuhan pasien. 
@@ -6253,7 +5803,7 @@ h. Pelayanan Gizi kepada pasien rawat  inap  harus  dicatat dan didokumentasikan
 i. Keluarga pasien dapat berpartisipasi dalam menyediakan makanan bila makanan sesuai dan konsisten dengan kajian kebutuhan pasien  dan rencana asuhan dengan sepengetahuan dari petugas kesehatan yang berkompeten dan makanan disimpan dalam kondisi yang baik untuk mencegah kontaminasi. 
  
 Elemen Penilaian 
-```
+
 
 
 
@@ -6263,23 +5813,23 @@ Elemen Penilaian
 `1. `SOP Konseling Gizi
 
 
-```
+
 
 
 2. SOP Kajian Kebutuhan Pasien 
-```
+
 
 
 `1. `Hasil konseling gizi kepada pasien
 
 
-```
+
 
 
 2. Hasil kajian kebutuhan gizi pada pasien
 Petugas gizi: Penggalian informasi tentang rencana asuhan gizi 
  
-```
+
 
 
 
@@ -6289,24 +5839,24 @@ Petugas gizi: Penggalian informasi tentang rencana asuhan gizi
 `1. `SOP Penyiapan makanan
 
 
-```
+
 
 
 2. SOP Penyimpanan makanan 
-```
+
 
 
 `1. `Form penyimpanan makanan
 
 
-```
+
 2. Catatan Pemisahan makanan yang cepat membusuk
 Pengamatan surveior terhadap cara penyimpanan makanan Petugas gizi 
 
 
 Penggalian informasi tentang cara penyimpanan makanan 
  
-```
+
 
 
 
@@ -6314,7 +5864,7 @@ Penggalian informasi tentang cara penyimpanan makanan
 `
 
 
-```
+
 1. SOP Distribusi makanan 
 
 
@@ -6328,7 +5878,7 @@ Penggalian informasi tentang cara penyimpanan makanan
 3. Jadwal pemberian makan pada pasien 
 Pengamatan surveior terhadap proses distribusi dan pemberian makanan kepada pasien 
 Petugas gizi: Penggalian informasi tentang distribusi dan pemberian makanan kepada pasien 
-```
+
 
 
 
@@ -6344,12 +5894,12 @@ Bukti dilakukan pemberian edukasi gizi kepada pasien dan / atau keluarga pasien 
 
 
 
-```
+
 CPPT ( Catatan Perkembangan Pasien Terintegrasi) dalam rekam medis 
  
 Petugas gizi: Penggalian informasi tentang pelaksanaan kolaboratif dalam merencanakan, memberikan dan memantau pelayanan gizi 
  
-```
+
 
 
 
@@ -6357,32 +5907,32 @@ Petugas gizi: Penggalian informasi tentang pelaksanaan kolaboratif dalam merenca
 
 
 
-```
+
 CPPT ( Catatan Perkembangan Pasien Terintegrasi) dalam rekam medis 
 
 
 
-```
+
 
 
 
 ## Standar 3.6 Pemulangan dan tindak lanjut pasien. 
 
 
-```
+
 Pemulangan dan tindak lanjut pasien dilakukan sesuai dengan prosedur yang ditetapkan. 
 
 Pemulangan dan tindak lanjut pasien dilakukan dengan prosedur yang tepat. 
 
 Jika pasien memerlukan rujukan ke fasilitas kesehatan yang lain, rujukan dilakukan sesuai dengan kebutuhan dan kondisi pasien ke sarana pelayanan lain diatur dengan kebijakan dan prosedur yang jelas 
-```
+
 
 
 
 ### Kriteria 3.6.1 Pemulangan dan tindak lanjut pasien yang bertujuan untuk kelangsungan layanan dipandu oleh prosedur baku. 
 
 
-```
+
 POKOK PIKIRAN 
 
 a. Untuk menjamin kesinambungan pelayanan, perlu ditetapkan kebijakan dan prosedur pemulangan pasien dan tindak lanjut. 
@@ -6427,7 +5977,7 @@ g. Resume medis yang diberikan kepada pasien saat pulang dari rawat inap terdiri
 4. terapi, tindakan dan / atau anjuran. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -6435,14 +5985,14 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK pelayanan klinis tentang kriteria pemulangan pasien gawat darurat, pasien dengan persalinan dan bayi 
 
 
 2. SOP pemulangan dan tindak lanjut pasien, 
 Rekam medis pasien/ CPPT, resume medis pasien pulang/ dirujuk, dan catatan 
 Tindak lanjut 
-```
+
 
 
 
@@ -6450,7 +6000,7 @@ Tindak lanjut
 
 
 
-```
+
 Rekam Medis 
 
 
@@ -6458,7 +6008,7 @@ Telaah catatan dalam resume medis yang diberikan kepada pasien, didalam rekam me
 Pengamatan surveior terhadap pemberian resume medis oleh tenaga medis pada saat pelaksanaan pemulangan pasien/rujukan 
 Dokter, Perawat, Bidan: Penggalian informasi tentang pemberian resume medis pemulangan pasien/rujukan 
  	 
-```
+
 
 
 
@@ -6467,18 +6017,18 @@ Dokter, Perawat, Bidan: Penggalian informasi tentang pemberian resume medis pemu
 ## Standar 3.7 Pelayanan Rujukan. 
 
 
-```
+
 Pelayanan rujukan dilakukan sesuai dengan ketentuan kebijakan dan prosedur. 
 
 Pelayanan rujukan dilaksanakan apabila pasien memerlukan penanganan yang bukan merupakan kompetensi dari fasilitas kesehatan tingkat pertama 
-```
+
 
 
 
 ### Kriteria 3.7.1 Pelaksanaan pelayanan rujukan dilakukan sesuai dengan ketentuan kebijakan dan prosedur yang telah ditetapkan dan mengacu pada ketentuan peraturan perundang-undangan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Untuk menjamin kesinambungan pelayanan, pada pasien yang dirujuk balik dari FKRTL dilaksanakan tindak lanjut sesuai dengan umpan balik rujukan dan hasilnya dicatat dalam rekam medis. 
@@ -6489,7 +6039,7 @@ c. Dalam pelaksanaan rujuk balik harus dilakukan pemantauan (monitoring) dan dok
  	 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -6497,7 +6047,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. Surat Persetujuan rujukan 
 2. Informed consent. 
  
@@ -6505,19 +6055,19 @@ Pasien/keluarga pasien: Penggalian informasi tentang pelayanan rujukan dan perse
 
 
 Catatan: Jika ada kasus rujukan 
-```
+
 
 
 
 #### b) Dilakukan komunikasi dengan fasilitas kesehatan yang menjadi tujuan rujukan dan dilakukan tindakan stabilisasi terlebih dahulu kepada pasien sebelum dirujuk sesuai kondisi pasien, indikasi medis dan kemampuan dan wewenang yang dimiliki agar keselamatan pasien selama pelaksanaan rujukan dapat terjamin (D, W).
 
 
-```
+
  
 1. Bukti komunikasi efektif (SBAR dan TBAK) dengan fasilitas kesehatan rujukan 
 
 
-```
+
 
 
 `2. Telaah Rekam `medis (catatan stabilisasi pasien sebelum dirujuk ke FKTRL), 
@@ -6530,11 +6080,11 @@ Catatan: Jika ada kasus rujukan
 Petugas yang memberikan rujukan`: `Penggalian informasi tentang pelaksanaan komunikasi dengan fasilitas kesehatan yang menjadi tujuan rujukan dan pelaksanaan monitoring/stabilisasi pasien `
 
 
-```
+
 
 
 Catatan: Jika ada kasus rujukan 
-```
+
 
 
 
@@ -6542,11 +6092,11 @@ Catatan: Jika ada kasus rujukan
 
 
 
-```
+
 1. Resume pasien, 
 
 
-```
+
 
 
 `2. Bukti serah terima pasien yang dilengkapi dengan SBAR, stempel FKTRL serta nama petugas yang menerima rujukan.  \
@@ -6563,10 +6113,10 @@ Catatan: Jika ada kasus rujukan
  
 
 
-```
 
 
-```
+
+
 
 
 
@@ -6575,7 +6125,7 @@ Catatan: Jika ada kasus rujukan
 ### Kriteria 3.7.2 Dilakukan tindak lanjut terhadap rujukan balik dari FKRTL. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Untuk menjamin kesinambungan pelayanan, pada pasien yang dirujuk balik dari FKRTL dilaksanakan tindak lanjut sesuai dengan umpan balik rujukan dan hasilnya dicatat dalam rekam medis. 
@@ -6585,7 +6135,7 @@ b. Jika Puskesmas menerima umpan balik rujukan  pasien dari fasilitas kesehatan 
 c. Dalam pelaksanaan rujuk balik harus dilakukan pemantauan (monitoring) dan dokumentasi pelaksanaan rujuk balik. 
 . 
 Elemen Penilaian 
-```
+
 
 
 
@@ -6593,7 +6143,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tentang rujuk balik 
 
 
@@ -6610,7 +6160,7 @@ Pengamatan surveior terhadap pelaksanaan pengkajian ulang kondisi pasien program
  
  
  
-```
+
 
 
 
@@ -6618,11 +6168,11 @@ Pengamatan surveior terhadap pelaksanaan pengkajian ulang kondisi pasien program
 
 
 
-```
+
 Telaah rekam medis/CPPT tentang tindak lanjut rekomendasi umpan balik rujukan 
 Pengamatan surveior terhadap pelaksanaan tindak lanjut terhadap rekomendasi umpan balik rujukan 
 Dokter/dokter gigi penanggung jawab (DPJP): Penggalian informasi tentang tindak lanjut terhadap rekomendasi umpan balik rujukan 
-```
+
 
 
 
@@ -6630,14 +6180,14 @@ Dokter/dokter gigi penanggung jawab (DPJP): Penggalian informasi tentang tindak 
 
 
 
-```
+
 Hasil pelaksanaan monitoring proses rujukan balik dalam CPPT 
  
  
  
  
  
-```
+
 
 
 
@@ -6646,11 +6196,11 @@ Hasil pelaksanaan monitoring proses rujukan balik dalam CPPT
 ## Standar 3.8 Penyelenggaraan rekam medis. 
 
 
-```
+
 Rekam Medis diselenggarakan sesuai dengan ketentuan kebijakan dan prosedur. 
 
 Puskesmas wajib menyelenggarakan rekam medis yang berisi data dan informasi asuhan pasien yang dibutuhkan untuk pelayanan pasien dan rekam medis itu dapat diakses oleh petugas kesehatan pemberian asuhan, manajemen, dan pihak di luar organisasi yang diberi hak akses terhadap rekam medis untuk kepentingan pasien, asuransi, dan kepentingan lain yang sesuai dengan peraturan perundang-undangan 
-```
+
 
 
 
@@ -6660,7 +6210,7 @@ Puskesmas wajib menyelenggarakan rekam medis yang berisi data dan informasi asuh
 ### Kriteria 3.8.1 Tata kelola penyelenggaraan rekam medis dilakukan sesuai dengan ketentuan peraturan perundang-undangan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a) Rekam medis merupakan sumber informasi utama mengenai proses asuhan dan perkembangan pasien sehingga menjadi media komunikasi yang penting. 
@@ -6828,7 +6378,7 @@ s) Kebijakan tentang penyimpanan (retensi) rekam medis konsisten dengan kerahasi
 Berkas rekam medis, data dan informasi dapat dimusnahkan setelah melampui periode waktu penyimpanan sesuai dengan peraturan perundang-undangan, kecuali ringkasan pulang dan persetujuan tindakan medik. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -6837,9 +6387,9 @@ Elemen Penilaian
 M`eliputi kegiatan. `
 
 
-```
+
 (1) 	registrasi pasien; 
-```
+
 
 
 (2) pendistribusian rekam medis; 
@@ -6867,7 +6417,7 @@ dilakukan sesuai dengan kebijakan dan prosedur yang ditetapkan (R, D, O, W)  \
 ---
 
 
-```
+
 1. SK penyelenggaraan rekam medis 
 
 
@@ -6887,7 +6437,7 @@ Rekam Medis
 1. Kelengkapan rekam medis 
 
 2. Singkatan yang boleh dan tidak boleh dipakai dalam rekam medis 
-```
+
 
 
 `3. Penulisan Riwayat alergi pasien pada rekam `medis
@@ -6898,9 +6448,9 @@ Berita acara pemusnahan rekam medis, sesuai ketentuan peraturan perundang-undang
 ---
 
 
-```
+
 Pengamatan surveior terhadap penyelenggaraan rekam medis di Puskesmas 
-```
+
 
 
  
@@ -6909,14 +6459,14 @@ Pengamatan surveior terhadap penyelenggaraan rekam medis di Puskesmas
 ---
 
 
-```
+
 
 Petugas rekam medik: Penggalian informasi tentang penyelenggaraan, pendistribusian, pengolahan data dan pengkodean dan penyimpanan serta pemusnahan rekam medis 
  
 
 
 ---
-```
+
 
 
 
@@ -6929,7 +6479,7 @@ Petugas rekam medik: Penggalian informasi tentang penyelenggaraan, pendistribusi
 `
 
 
-```
+
 Telaah rekam medis 
 Pengamatan surveior terhadap pengisian rekam medis 
 Dokter, Dokter Gigi dan/ atau tenaga kesehatan: Penggalian informasi tentang pengisian rekam medis 
@@ -6943,7 +6493,7 @@ Dokter, Dokter Gigi dan/ atau tenaga kesehatan: Penggalian informasi tentang pen
  
  
  	 
-```
+
 
 
 
@@ -6952,18 +6502,18 @@ Dokter, Dokter Gigi dan/ atau tenaga kesehatan: Penggalian informasi tentang pen
 ## Standar 3.9 Penyelenggaraan pelayanan laboratorium. 
 
 
-```
+
 Penyelenggaraan pelayanan laboratorium dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan. 
 
 Pelayanan laboratorium dilaksanakan sesuai dengan kebijakan dan prosedur yang ditetapkan 
-```
+
 
 
 
 ### Kriteria 3.9.1 Pelayanan laboratorium dikelola sesuai dengan kebijakan dan prosedur yang ditetapkan 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Puskesmas menetapkan jenis pelayanan laboratorium yang tersedia di Puskesmas. 
@@ -7026,7 +6576,7 @@ p. Ada prosedur rujukan spesimen dan pasien, jika pemeriksaan laboratorium tidak
  	 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -7034,7 +6584,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK jenis pelayanan laboratorium 
 
 2. SK tentang rentang nilai normal laboratorium 
@@ -7042,7 +6592,7 @@ Elemen Penilaian
 3. SK tentang nilai kritis laboratorium 
 
 SOP - SOP terkait pelayanan laboratorium dan pengelolaan limbah 
-```
+
 
 
 
@@ -7050,7 +6600,7 @@ SOP - SOP terkait pelayanan laboratorium dan pengelolaan limbah
 
 
 
-```
+
 1. SOP pelabelan reagen esensial dan bahan lain 
 
 
@@ -7067,7 +6617,7 @@ SOP - SOP terkait pelayanan laboratorium dan pengelolaan limbah
 3. Bukti perhitungan kebutuhan reagensia termasuk buffer stock, 
 
 4. Bukti pemesanan reagensia, 
-```
+
 
 
 `5. Check list monev `ketersediaan reagensia 
@@ -7078,17 +6628,17 @@ Petugas Laboratorium`: `Penggalian informasi tentang Pengelolaan reagen, pelabel
 `
 
 
-```
 
 
-```
+
+
 
 
 
 #### c) Penyelenggaraan pelayanan laboratorium, yang meliputi (1) sampai dengan (9), dilaksanakan sesuai dengan kebijakan dan prosedur yang ditetapkan (R, D, O, W). 
 
 
-```
+
 
 1. SOP jika terjadi tumpahan reagen dan pajanan petugas, 
 
@@ -7100,7 +6650,7 @@ Bukti pelaksanaan pelayanan laboratorium meliputi angka 1 s.d. 9 sesuai POKOK PI
 Pengamatan surveior terhadap pelaksanaan pelayanan laboratorium meliputi angka 1 s.d.9 sesuai POKOK PIKIRAN 
 
 Petugas Laboratorium: Penggalian informasi tentang pelaksanaan pelayanan laboratorium meliputi angka 1 s.d.9 sesuai POKOK PIKIRAN 
-```
+
 
 
 
@@ -7108,9 +6658,9 @@ Petugas Laboratorium: Penggalian informasi tentang pelaksanaan pelayanan laborat
 
 
 
-```
+
 1. SK tentang pelaksanaan PMI dan PME 
-```
+
 
 
 2. SOP Pemantapan Mutu Internal 
@@ -7119,9 +6669,9 @@ Petugas Laboratorium: Penggalian informasi tentang pelaksanaan pelayanan laborat
 
 
 
-```
+
 1. Bukti pelaksanaan PMI dan PME 
-```
+
 
 
 2. Bukti pelaksanaan perbaikan bila terjadi 
@@ -7129,10 +6679,10 @@ Petugas Laboratorium: Penggalian informasi tentang pelaksanaan pelayanan laborat
 penyimpangan 
 
 
-```
+
 Pengamatan surveior tentang pelaksanaan PMI dan bukti dilakukan PME
 Petugas Laboratorium: Penggalian informasi tentang pelaksanaan PMI dan hasil PME 
-```
+
 
 
 
@@ -7140,7 +6690,7 @@ Petugas Laboratorium: Penggalian informasi tentang pelaksanaan PMI dan hasil PME
 
 
 
-```
+
 1. Bukti hasil evaluasi terhadap waktu pelaporan hasil pemeriksaan laboratorium 
 
 
@@ -7151,25 +6701,25 @@ Petugas Laboratorium Penggalian informasi tentang pelaksanaan evaluasi dan tinda
  
 
 
-```
+
 
 
 
 ## Standar 3.10 Penyelenggaraan pelayanan kefarmasian. 
 
 
-```
+
 Penyelenggaraan pelayanan kefarmasian dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan. 
 
 Pelayanan kefarmasian dilaksanakan sesuai dengan kebijakan dan prosedur yang ditetapkan 
-```
+
 
 
 
 ### Kriteria 3.10.1 Pelayanan kefarmasian dikelola sesuai dengan kebijakan dan prosedur yang ditetapkan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Pelayanan kefarmasian harus tersedia di Puskesmas. 
@@ -7313,7 +6863,7 @@ Komunikasi dilakukan dengan pasien dan/atau keluarga pasien atau perawat mengena
 Apoteker bertanggung jawab terhadap informasi obat yang diberikan. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -7323,12 +6873,12 @@ Elemen Penilaian
 `1. `Formularium Obat Puskesmas
 
 
-```
+
 
 
 2. Bukti Penyusunan Formularium Obat 
  
-```
+
 
 
 
@@ -7336,11 +6886,11 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tentang pelayanan kefarmasian 
 
 
-```
+
 
 
 `2. SOP tentang `pengelolaan sediaan farmasi dan bahan habis pakai 
@@ -7354,11 +6904,11 @@ Elemen Penilaian
 4. Bukti penyimpanan obat FIFO, FEFO
 
 
-```
+
 Pengamatan surveior terhadap pengelolaan sediaan farmasi 
 Petugas Farmasi: Penggalian informasi tentang farmasi dan 
 
-```
+
 
 
 
@@ -7366,30 +6916,30 @@ Petugas Farmasi: Penggalian informasi tentang farmasi dan
 
 
 
-```
+
 1. SOP rekonsiliasi obat 
 
 
 2. SOP pelayanan farmasi klinik 
-```
+
 
 
 `1. `Bukti rekonsiliasi obat
 
 
-```
 
 
-```
+
+
 
 
 `2. `Bukti asuhan farmasi dalam CPPT rekam medis  \
 
 
 
-```
+
 Pengamatan surveior terhadap pelaksanaan rekonsiliasi obat dan pelayanan farmasi klinik 
-```
+
 
 
 `Petugas Farmasi`: Penggalian informasi tentang pelaksanaan rekonsiliasi obat dan pelayanan farmasi klinik  \
@@ -7399,12 +6949,12 @@ Pengamatan surveior terhadap pelaksanaan rekonsiliasi obat dan pelayanan farmasi
 #### d) Dilakukan kajian resep dan pemberian obat dengan benar pada setiap pelayanan pemberian obat (R, D, O, W) 
 
 
-```
+
 SOP kajian resep dan pemberian obat resep dan pemberian obat
 Bukti kajian/telaah resep 
 Pengamatan surveior terhadap kajian 
 Petugas Farmasi: Penggalian informasi tentang kajian resep dan pemberian obat
-```
+
 
 
 
@@ -7412,13 +6962,13 @@ Petugas Farmasi: Penggalian informasi tentang kajian resep dan pemberian obat
 
 
 
-```
+
 SOP pemberian informasi obat (PIO) 
 Bukti pelaksaaan PIO 
 Pengamatan surveior terhadap pelaksanaan PIO 
 Petugas Farmasi: Penggalian informasi tentang pelaksanaan PIO 
  
-```
+
 
 
 
@@ -7426,7 +6976,7 @@ Petugas Farmasi: Penggalian informasi tentang pelaksanaan PIO
 
 
 
-```
+
 1. SOP penyediaan dan penyimpanan obat gawat darurat 
 
 
@@ -7436,7 +6986,7 @@ Pengamatan surveior terhadap tempat penyimpanan obat emergensi, cara mengakses, 
 Petugas di ruang yang melaksanakan tindakan: Penggalian informasi tentang pelaksanaan pengelolaan obat gawat darurat 
  
 
-```
+
 
 
 
@@ -7444,14 +6994,14 @@ Petugas di ruang yang melaksanakan tindakan: Penggalian informasi tentang pelaks
 
 
 
-```
+
 1. Bukti evaluasi ketersediaan obat dan kesesuaian peresepan dengan formularium 
 
 
 2. Bukti hasil tindaklanjut dari pelaksanaan evaluasi obat dan kesesuaian peresepan dengan formularium. 
  
 Petugas farmasi: Penggalian informasi tentang pelaksanaan evaluasi dan tindaklanjut terhadap ketersediaan obat dan kesesuain peresepan dengan formularium. 
-```
+
 
 
 
@@ -7459,29 +7009,21 @@ Petugas farmasi: Penggalian informasi tentang pelaksanaan evaluasi dan tindaklan
 
 # BAB IV PROGRAM PRIORITAS NASIONAL (PPN)
 
-
-```
-
-
 Program Prioritas Nasional dilaksanakan melalui integrasi pelayanan UKM dan UKP sesuai dengan prinsip pencegahan lima tingkat (five level prevention) 
-	
-```
-
-
 
 ## Standar 4.1 Pencegahan dan penurunan stunting. 
 
 
-```
+
 Puskesmas melaksanakan pencegahan dan penurunan stunting beserta pemantauan dan evaluasinya sesuai dengan ketentuan peraturan perundang-undangan 
-```
+
 
 
 
 ### Kriteria 4.1.1 Pencegahan dan penurunan  stunting  direncanakan, dilaksanakan, dipantau, dan dievaluasi dengan melibatkan lintas program, lintas sektor, dan pemberdayaan masyarakat. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Pencegahan dan penurunan stunting direncanakan, dilaksanakan, dipantau, dan dievaluasi dengan melibatkan lintas program, lintas sektor, dan pemberdayaan masyarakat. 
@@ -7554,7 +7096,7 @@ Analisis capaian indikator dilakukan dengan metode analisis sesuai dengan pedoma
 
 n. Rencana program pencegahan dan penurunan  stunting disusun dengan mengutamakan upaya promotif dan preventif berdasarkan hasil analisis masalah gizi di wilayah kerja Puskesmas dengan pelibatan lintas program yang terintegrasi dengan RUK dan RPK pelayanan UKM serta UKP, laboratorium, dan kefarmasian. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -7562,13 +7104,13 @@ Elemen Penilaian
 
 
 
-```
+
 SK Indikator kinerja dan target terkait pencegahan dan penurunan stunting yang merupakan bagian dari indikator kinerja pelayanan UKM di bab II 
  
 Bukti pencapaian indikator stunting yang disertai dengan analisisnya 
  
 Kepala Puskesmas, Pj UKM, Koordinator Gizi dan pelaksana: Penggalian informasi terkait penetapan indikator, pencapaian dan analisanya 
-```
+
 
 
 
@@ -7576,7 +7118,7 @@ Kepala Puskesmas, Pj UKM, Koordinator Gizi dan pelaksana: Penggalian informasi t
 
 
 
-```
+
 1. RUK dan RPK terkait dengan kegiatan pencegahan dan penanggulangan stunting yang terintegrasi dengan RUK dan RPK pelayanan UKM Gizi 
 
 
@@ -7588,7 +7130,7 @@ Kepala Puskesmas, Pj UKM, Koordinator Gizi dan pelaksana: Penggalian informasi t
  
 Kepala Puskesmas, Pj UKM, Koordinator Gizi dan pelaksana: Penggalian informasi terkait proses penetapan program pencegahan dan penurunan stunting 
  
-```
+
 
 
 
@@ -7596,7 +7138,7 @@ Kepala Puskesmas, Pj UKM, Koordinator Gizi dan pelaksana: Penggalian informasi t
 
 
 
-```
+
 1. SK tentang media komunikasi dan koordinasi di Puskesmas (lihat bab I) 
 
 
@@ -7607,7 +7149,7 @@ Kepala Puskesmas, Pj UKM, Koordinator Gizi dan pelaksana: Penggalian informasi t
  
 Kepala Puskesmas, Pj UKM, Koordinator Gizi dan lintas sektor: Penggalian informasi terkait koordinasi dan pelaksanaan kegiatan pencegahan & penurunan stunting sesuai dengan yang direncanakan 
  
-```
+
 
 
 
@@ -7628,12 +7170,12 @@ Kepala Puskesmas, Pj UKM, Koordinator Gizi:` `Penggalian informasi terkait kegia
 
 
 
-```
+
 1. SK tentang Pencatatan dan Pelaporan 
 
 
 2. SOP pencatatan dan pelaporan 
-```
+
 
 
 Catatan: SK dan SOP pencatatan dan pelaporan lihat di bab I 
@@ -7657,7 +7199,7 @@ Jenis pelaporan elektronik mengikuti pemberlakukan saat dilaksanakan survei  \
 
 
 
-```
+
  
 Kepala Puskesmas, Pj UKM, Koordinator Gizi, Dinas Kesehatan: Penggalian informasi terkait dengan pencatatan dan pelaporan kepada Kepala Puskesmas, Dinas Kesehatan Daerah Kab/Kota 
  
@@ -7666,7 +7208,7 @@ Kepala Puskesmas, Pj UKM, Koordinator Gizi, Dinas Kesehatan: Penggalian informas
  
  
  	 
-```
+
 
 
 
@@ -7675,18 +7217,18 @@ Kepala Puskesmas, Pj UKM, Koordinator Gizi, Dinas Kesehatan: Penggalian informas
 ## Standar 4.2 Penurunan jumlah kematian ibu dan jumlah kematian bayi. 
 
 
-```
+
 Program penurunan jumlah kematian ibu dan jumlah kematian bayi diselenggarakan dalam upaya meningkatkan pelayanan kesehatan menuju cakupan kesehatan semesta, terutama penguatan pelayanan kesehatan primer, dengan mendorong upaya promotif dan preventif. 
 
 Puskesmas memberikan pelayanan kesehatan ibu hamil, pelayanan kesehatan persalinan, pelayanan kesehatan masa sesudah melahirkan, serta pelayanan kesehatan bayi baru lahir beserta pemantauan dan evaluasinya sesuai dengan ketentuan peraturan perundang-undangan. 
-```
+
 
 
 
 ### Kriteria 4.2.1 Puskesmas melaksanakan pelayanan kesehatan ibu hamil, pelayanan kesehatan ibu bersalin, pelayanan kesehatan masa sesudah melahirkan, dan pelayanan kesehatan bayi baru lahir. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Pelayanan kesehatan  ibu  hamil  adalah  setiap kegiatan dan/atau serangkaian kegiatan yang dilakukan sejak terjadinya masa konsepsi hingga melahirkan. 
@@ -7806,7 +7348,7 @@ Pelaporan kepada kepala puskesmas dapat dilakukan secara tertulis atau penyampai
 r. Rencana program penurunan jumlah kematian ibu dan jumlah kematian bayi disusun dengan mengutamakan upaya promotif dan preventif berdasarkan hasil analisis masalah kematian ibu dan kematian bayi di wilayah kerja Puskesmas dengan melibatkan lintas program yang terintegrasi dengan RUK dan RPK pelayanan UKM serta UKP, laboratorium, dan kefarmasian. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -7814,13 +7356,13 @@ Elemen Penilaian
 
 
 
-```
+
 SK indikator kinerja pelayanan ibu dan bayi yang merupakan bagian dari indikator & target kinerja pelayanan UKM di bab II 
 
 Bukti pencapaian indikator kinerja dalam rangka penurunan jumlah kematian ibu dan jumlah kematian bayi yang disertai analisisnya. 
  
 Pj UKM, Koordinator dan pelaksanan pelayanan kesehatan ibu dan bayi: Penggalian informasi terkait penetapan indikator, pencapaian dan analisanya 
-```
+
 
 
 
@@ -7847,9 +7389,9 @@ Kepala Puskesmas, Pj UKM, Koordinator dan pelaksanan pelayanan kesehatan ibu dan
 
 
 
-```
+
 1. SOP ketersediaan obat, bahan habis pakai dan prasarana pendukung pelayanan kesehatan ibu dan bayi baru lahir
-```
+
 
 
 2. SOP pelayanan kegawatdaruratan maternal dan neonatal  \
@@ -7859,12 +7401,12 @@ Kepala Puskesmas, Pj UKM, Koordinator dan pelaksanan pelayanan kesehatan ibu dan
 
 
 
-```
+
 
 
 Pengamatan surveior terhadap ketersediaan alat, obat, bahan habis pakai dan prasarana pendukung pelayanan kesehatan ibu dan bayi baru lahir termasuk standar kegawatdaruratan maternal dan neonatal, sesuai dengan standar minimal ketersediaan alat yang harus ada di Puskesmas.
 Pj UKP, Pj Pelayanan ibu dan bayi: Penggalian informasi terkait ketersediaan alat, obat, bahan habis pakai dan prasarana pendukung pelayanan kesehatan ibu dan bayi baru lahir termasuk standar kegawatdaruratan maternal dan neonatal 
-```
+
 
 
 
@@ -7902,10 +7444,10 @@ Partograf
 `
 
 
-```
+
 Bukti pelaksanaan: 
 1. Pemberian pelayanan ANC, 
-```
+
 
 
 2. Persalinan, 
@@ -7928,10 +7470,10 @@ Bukti pelaksanaan:
 
 
 
-```
+
 Dokter, Bidan, Perawat dan/atau tim poned: Penggalian informasi tentang pelayanan kesehatan pada masa hamil, masa persalinan, masa sesudah melahirkan, dan pada bayi baru lahir sesuai dengan prosedur yang ditetapkan; ditetapkan kewajiban penggunaan partograf pada saat pertolongan persalinan dan upaya stabilisasi prarujukan pada kasus komplikasi, termasuk pelaksanaan pelayanan 
 PONED 
-```
+
 
 
 
@@ -7939,7 +7481,7 @@ PONED
 
 
 
-```
+
 1. SK tentang media komunikasi dan koordinasi di Puskesmas. (lihat bab I) 
 
 
@@ -7952,7 +7494,7 @@ PONED
  
 Kepala Puskesmas, Pj UKM, Koordinator & Pelaksana 
 Kesehatan Ibu/Anak: Penggalian informasi terkait koordinasi dan pelaksanaan kegiatan penurunan jumlah kematian ibu dan jumlah kematian bayi sesuai  dengan yang direncanakan 
-```
+
 
 
 
@@ -7960,7 +7502,7 @@ Kesehatan Ibu/Anak: Penggalian informasi terkait koordinasi dan pelaksanaan kegi
 
 
 
-```
+
 1. Jadwal pemantauan dan evaluasi 
 
 
@@ -7971,7 +7513,7 @@ Kesehatan Ibu/Anak: Penggalian informasi terkait koordinasi dan pelaksanaan kegi
  
 Kepala Puskesmas, Pj UKM, Koordinator 
 & Pelaksana Kesehatan Ibu/Anak: Penggalian informasi terkait kegiatan pemantauan dan evaluasi beserta tindaklanjutnya 
-```
+
 
 
 
@@ -7979,9 +7521,9 @@ Kepala Puskesmas, Pj UKM, Koordinator
 
 
 
-```
+
 1. SK tentang Pencatatan dan Pelaporan
-```
+
 
 
 2. SOP pencatatan dan pelaporan Catatan: SK dan SOP pencatatan dan pelaporan lihat di bab I  \
@@ -8014,7 +7556,6 @@ Kepala Puskesmas, Pj UKM, Koordinator & Pelaksana Kesehatan Ibu/Anak: Penggalian
 `
 
 
-```
 
 
 
@@ -8022,25 +7563,26 @@ Kepala Puskesmas, Pj UKM, Koordinator & Pelaksana Kesehatan Ibu/Anak: Penggalian
 
 
 
-```
+
+
 
 
 
 ## Standar 4.3 Peningkatan cakupan dan mutu imunisasi. 
 
 
-```
+
 Peningkatan cakupan dan mutu imunisasi diselenggarakan dalam upaya meningkatkan pelayanan kesehatan menuju cakupan kesehatan semesta, terutama penguatan pelayanan kesehatan primer, dengan mendorong upaya promotif dan preventif.n
 
 Puskesmas melaksanakan program imunisasi sesuai dengan ketentuan peraturan perundang-undangan 
-```
+
 
 
 
 ### Kriteria 4.3.1 Program  imunisasi  direncanakan, dilaksanakan, dipantau, dan dievaluasi dalam upaya peningkatan capaian cakupan dan mutu imunisasi. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Sebagai upaya untuk melindungi masyarakat dari penyakit menular yang dapat dicegah melalui imunisasi, Puskesmas wajib melaksanakan kegiatan imunisasi sebagai bagian dari program prioritas nasional. 
@@ -8079,7 +7621,7 @@ j. Rencana program peningkatan dan cakupan mutu imunisasi disusun dengan menguta
  	 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -8087,13 +7629,13 @@ Elemen Penilaian
 
 
 
-```
+
 Indikator dan target kinerja imunisasi yang merupakan bagian dari indikator kinerja pelayanan UKM di bab II 
 Bukti pencapaian indikator kinerja pelayanan imunisasi yang disertai dengan analisisnya 
  
 Kepala Puskesmas, Pj UKM, Koordinator P2 dan pelaksanan imunisasi: Penggalian informasi terkait proses penetapan indikator, pencapaian dan analisanya 
  
-```
+
 
 
 
@@ -8101,7 +7643,7 @@ Kepala Puskesmas, Pj UKM, Koordinator P2 dan pelaksanan imunisasi: Penggalian in
 
 
 
-```
+
 1. RUK dan RPK terkait dengan kegiatan program imunisasi yang terintegrasi dengan RUK dan RPK pelayanan P2 
 
 2. RPK Bulanan program imunisasi. 
@@ -8111,7 +7653,7 @@ Kepala Puskesmas, Pj UKM, Koordinator P2 dan pelaksanan imunisasi: Penggalian in
  
 Kepala Puskesmas, Pj UKM, Koordinator P2 dan pelaksanan imunisasi: Penggalian informasi terkait proses penetapan program imunisasi 
  
-```
+
 
 
 
@@ -8119,14 +7661,14 @@ Kepala Puskesmas, Pj UKM, Koordinator P2 dan pelaksanan imunisasi: Penggalian in
 
 
 
-```
+
 1. SOP penyediaan kebutuhan vaksin dan logistik 
 Bukti pengelolaan vaksin dan logistiknya 
 Pengamatan surveior terhadap ketersediaan vaksin dan logistik 
 Pj UKP, Koordinator dan/ atau pelaksana 
 Imunisasi: Penggalian informasi terkait ketersediaan vaksin dan logistik program imunisasi 
  
-```
+
 
 
 
@@ -8136,13 +7678,13 @@ Imunisasi: Penggalian informasi terkait ketersediaan vaksin dan logistik program
 `1. `SOP penyimpanan vaksin
 
 
-```
+
 
 
 2. SOP pemantauan suhu vaksin dan kondisi vaksin
 
 1. Bukti pemantauan suhu vaksin 
-```
+
 
 
 2. `Bukti pengecekkan kondisi vaksin `
@@ -8152,9 +7694,9 @@ Imunisasi: Penggalian informasi terkait ketersediaan vaksin dan logistik program
 `
 
 
-```
+
 Pj UKP, Koordinator dan/ atau pelaksana Imunisasi: Penggalian informasi terkait pemantauan rantai vaksin 
-```
+
 
 
 
@@ -8178,7 +7720,7 @@ Kepala Puskesmas, Pj UKM, Koordinator P2P & Pelaksana imunisasi: Penggalian info
 
 
 
-```
+
 1. Jadwal pemantauan dan evaluasi 
 
 
@@ -8192,7 +7734,7 @@ P2P & Pelaksana Imunisasi:
 
 
 Penggalian informasi terkait kegiatan pemantauan dan evaluasi beserta tindaklanjutnya 
-```
+
 
 
 
@@ -8200,18 +7742,18 @@ Penggalian informasi terkait kegiatan pemantauan dan evaluasi beserta tindaklanj
 
 
 
-```
+
 1. SK tentang Pencatatan dan Pelaporan
-```
+
 
 
 2. SOP pencatatan dan pelaporan Catatan: SK dan SOP pencatatan dan pelaporan lihat di bab I  \
 di Puskesmas
 
 
-```
+
 1. Bukti pencatatan program imunisasi 
-```
+
 
 
 2. Bukti pelaporan program imunisasi kepada Kepala Puskesmas sesuai mekanisme yang telah ditetapkan. 
@@ -8234,7 +7776,7 @@ Jenis pelaporan elektronik mengikuti pemberlakukan saat dilaksanakan survei.`  \
 `
 
 
-```
+
 Kepala Puskesmas, Pj UKM, Koordinator P2P & Pelaksana Imunisasi: Penggalian informasi terkait dengan pencatatan dan pelaporan kepada Dinas Kesehatan Daerah Kab/Kota 
 
  
@@ -8245,25 +7787,25 @@ Kepala Puskesmas, Pj UKM, Koordinator P2P & Pelaksana Imunisasi: Penggalian info
 
 
 
-```
+
 
 
 
 ## Standar 4.4 Program penanggulangan tuberkulosis. 
 
 
-```
+
 Program Penanggulangan Tuberkulosis (TBC) diselenggarakan dalam upaya meningkatkan pelayanan kesehatan menuju cakupan kesehatan semesta, terutama penguatan pelayanan kesehatan primer dengan mendorong upaya promotif dan preventif.  
 
 Puskesmas memberikan pelayanan kepada pengguna layanan TBC mulai dari penemuan kasus TBC pada orang yang terduga TBC, penegakan diagnosis, penetapan klasifikasi dan tipe pengguna layanan TBC, serta tata laksana kasus yang terdiri atas pengobatan pengguna layanan beserta pemantauan dan evaluasinya untuk memutus mata rantai penularan sesuai dengan ketentuan peraturan perundang-undangan 
-```
+
 
 
 
 ### Kriteria 4.4.1 Puskesmas melaksanakan pelayanan kepada pasien TBC mulai dari penemuan kasus TBC pada orang yang terduga TBC, penegakan diagnosis, penetapan klasifikasi dan tipe pengguna layanan TBC, serta tata laksana kasus yang terdiri atas pengobatan pasien beserta pemantauan dan evaluasinya. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Penanggulangan tuberkulosis adalah segala upaya kesehatan yang mengutamakan aspek promotif dan preventif tanpa mengabaikan aspek kuratif dan rehabilitatif yang ditujukan untuk melindungi kesehatan masyarakat, menurunkan angka kesakitan, kecacatan, atau kematian, memutuskan penularan, mencegah resistensi obat, dan mengurangi dampak negatif yang ditimbulkan akibat tuberkulosis. 
@@ -8303,38 +7845,38 @@ d) kemampuan Puskesmas dalam melakukan rujukan pemeriksaan laboratorium dan tind
 8. penguatan peran lintas program, lintas  sektor, dan komunitas dalam penerapan pembauran negeri dan swasta (public private mix/PPM), pelibatan organisasi profesi, asosiasi fasyankes, BPJS, dan lain-lain. 
 
 f. Upaya promotif dan preventif dilakukan dalam rangka penanggulangan program TB sesuai dengan pedoman yang telah ditetapkan. 
-```
+
 
 
 g`) Program pengendalian tuberkulosis perlu disusun dan dikoordinasikan, baik dalam upaya preventif maupun upaya kuratif di Puskesmas, melalui strategi atau strategi pengawasan langsung pengobatan jangka pendek atau DOTS (directly observed treatment short- course). `
 
 
-```
+
 Untuk menjalankan strategi ini, Puskesmas membentuk tim DOTS. 
-```
+
 
 
 h`) Untuk tercapainya target Program Penanggulangan TBC Nasional, pemerintah daerah provinsi dan kabupaten/kota harus menetapkan target indikator kinerja penanggulangan TBC tingkat daerah berdasarkan target nasional dan memperhatikan  strategi nasional yang selanjutnya dijadikan dasar bagi Puskesmas dalam menetapkan sasaran serta indikator kinerja yang dipantau setiap tahunnya. `
 
 
-```
+
 i) Puskesmas melakukan pengukuran terhadap indikator kinerja yang telah ditetapkan dan disertai dengan analisis capaian. 
 
 Analisis capaian indikator dilakukan dengan metode        analisis sesuai dengan pedoman/panduan yang berlaku, misal dengan merujuk pada metode analisis situasi yang terdapat di dalam buku Pedoman Manajemen Puskesmas. 
-```
+
 
 
 j`) Rencana program penanggulangan tuberkulosis disusun dengan mengutamakan upaya promotif dan preventif berdasarkan hasil analisis masalah pengendalian tuberkulosis di wilayah kerja Puskesmas dengan pelibatan lintas program yang terintegrasi dengan RUK dan RPK pelayanan UKM serta UKP, laboratorium, dan kefarmasian. `
 
 
-```
+
 k) Pencatatan dan pelaporan pelayanan penanggulangan tuberkulosis, baik secara manual maupun elektronik, dilakukan secara lengkap, akurat, tepat waktu, dan sesuai dengan prosedur. 
 
 Pelaporan kepada kepala puskesmas dan dinas kesehatan daerah kabupaten/kota dan/atau pihak  lainnya  mengacu pada ketentuan peraturan perundang-undangan. 
 
 Pelaporan kepada kepala puskesmas dapat dilakukan secara tertulis atau penyampaian secara langsung melalui pertemuan-pertemuan seperti lokakarya mini bulanan, pertemuan tinjauan manajemen, dan forum lainnya. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -8342,13 +7884,13 @@ Elemen Penilaian
 
 
 
-```
+
 SK indikator dan target kinerja Tuberkulosis yang merupakan bagian dari indikator & target kinerja pelayanan UKM di bab II
  
 Bukti pencapaian indikator kinerja pelayanan tuberkulosis yang disertai dengan analisisnya 
  
 Kepala Puskesmas, Pj UKM, Koordinator P2P dan pelaksanan Tuberkulosis: Penggalian informasi terkait proses penetapan indikator, pencapaian dan analisanya 
-```
+
 
 
 
@@ -8356,13 +7898,13 @@ Kepala Puskesmas, Pj UKM, Koordinator P2P dan pelaksanan Tuberkulosis: Penggalia
 
 
 
-```
+
 1. RUK dan RPK terkait dengan kegiatan program penanggulangan tuberkulosis yang terintegrasi dengan RUK dan RPK pelayanan P2P 
 
 2. RPK Bulanan program penanggulangan tuberkulosis 
 
 3. KAK terkait program penanggulangan tuberculosis. 
-```
+
 
 
 
@@ -8370,9 +7912,9 @@ Kepala Puskesmas, Pj UKM, Koordinator P2P dan pelaksanan Tuberkulosis: Penggalia
 
 
 
-```
+
 SK Tim TB DOTS di Puskesmas. 
-```
+
 
 
 
@@ -8380,7 +7922,7 @@ SK Tim TB DOTS di Puskesmas.
 
 
 
-```
+
 1. SOP perhitungan kebutuhan logistik OAT dan Non OAT 
 
 
@@ -8388,18 +7930,18 @@ SK Tim TB DOTS di Puskesmas.
 Bukti perhitungan kebutuhan OAT dan non OAT sesuai dengan SOP yang ditetapkan. 
 Pengamatan surveior terhadap ketersediaan dan pengelolaan OAT dan non OAT 
 Pj UKP, Koordinator dan/ atau pelaksana TB: Penggalian informasi terkait ketersediaan dan pengelolaan OAT dan non OAT 
-```
+
 
 
 
 #### e) Dilakukan tata laksana kasus tuberkulosis mulai dari diagnosis, pengobatan, SOP tata laksana kasus tuberkulosis pemantauan, evaluasi, dan tindak lanjut sesuai dengan kebijakan, pedoman/panduan, dan prosedur yang telah ditetapkan ( R, D, O, W).
 
 
-```
+
 Telaah rekam medis pasien TB 
 Pengamatan surveior terhadap tata laksana pasien TB 
 PJ UKP, DPJP: Penggalian informasi terkait tata laksana pasien TB di Puskesmas 
-```
+
 
 
 
@@ -8407,7 +7949,7 @@ PJ UKP, DPJP: Penggalian informasi terkait tata laksana pasien TB di Puskesmas
 
 
 
-```
+
 1. SK tentang media komunikasi dan koordinasi di Puskesmas. (lihat bab I) 
 
 
@@ -8418,7 +7960,7 @@ PJ UKP, DPJP: Penggalian informasi terkait tata laksana pasien TB di Puskesmas
 2. Bukti hasil pelaksanaan kegiatan sesuai dengan RPK dan RPKB, serta mengacu pada  SK, SOP dan KAK yang ditetapkan. (Lihat dokumen regulasi pada EP b).
  
 Kepala Puskesmas, Pj UKM, Koordinator P2P & Pelaksana Tuberkulosis, lintas program dan lintas sektor: Penggalian informasi terkait koordinasi dan pelaksanaan kegiatan penanggulangan tuberkulosis 
-```
+
 
 
 
@@ -8443,19 +7985,19 @@ Kepala Puskesmas, Pj UKM, Koordinator P2P & Pelaksana Tuberkulosis: Penggalian i
 2. `SOP pencatatan dan pelaporan `
 
 
-```
+
 Catatan: 
-```
+
 
 
 SK dan SOP pencatatan dan pelaporan lihat di bab I  \
 Kepala Puskesmas sesuai mekanisme yang telah ditetapkan. 
 
 
-```
+
 
 Bukti pencatatan kasus TB di Pukesmas 
-```
+
 
 
 Bukti pelaporan kasus TB Puskesmas kepada Dinas Kesehatan sesuai dengan regulasi yang ditetapkan.
@@ -8477,17 +8019,17 @@ Kepala Puskesmas, Pj UKM, Koordinator P2P & Pelaksana Tuberkulosis: `Penggalian 
  	 `
 
 
-```
 
 
-```
+
+
 
 
 
 ## Standar 4.5 Pengendalian penyakit tidak menular dan faktor risikonya. 
 
 
-```
+
 
 
 Pengendalian penyakit tidak menular dan faktor risikonya diselenggarakan dalam upaya meningkatkan pelayanan kesehatan menuju cakupan kesehatan semesta, terutama penguatan pelayanan kesehatan primer dengan mendorong upaya promotif dan preventif.. 
@@ -8495,14 +8037,14 @@ Pengendalian penyakit tidak menular dan faktor risikonya diselenggarakan dalam u
 
 Puskesmas melaksanakan pengendalian penyakit tidak menular utama yang meliputi hipertensi, diabetes melitus, kanker payudara dan leher rahim, Penyakit Paru Obstruksi Kronis (PPOK), serta Program Rujuk Balik (PRB) penyakit tidak menular (PTM) dan penyakit katastropik lainnya sesuai dengan kompetensi di tingkat primer, juga penanganan faktor risiko PTM melalui pelayanan terpadu penyakit tidak menular (Pandu PTM) sesuai dengan algoritma Pandu.. 
 	
-```
+
 
 
 
 ### Kriteria 4.5.1 Program pencegahan dan pengendalian penyakit tidak menular serta faktor risikonya direncanakan, dilaksanakan, dipantau, dan ditindaklanjuti. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Peningkatan faktor risiko dan penyakit tidak menular tidak hanya berdampak pada terjadinya peningkatan angka morbiditas, mortalitas, dan disablilitas, tetapi juga berdampak kehilangan produktivitas yang berdampak pada beban ekonomi baik tingkat individu, keluarga, dan masyarakat. 
@@ -8581,7 +8123,7 @@ k. Pelaksanaan pemantauan, evaluasi, dan tindak lanjut dilakukan secara terinteg
 l. Rencana program penanggulangan penyakit tidak menular dan faktor risikonya disusun dengan mengutamakan upaya promotif dan preventif berdasarkan hasil analisis masalah penyakit tidak menular di wilayah kerja Puskesmas dengan pelibatan lintas program yang terintegrasi dengan RUK dan RPK pelayanan UKM serta UKP, laboratorium, dan kefarmasian. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -8589,13 +8131,13 @@ Elemen Penilaian
 
 
 
-```
+
 SK indikator dan target kinerja PTM yang merupakan bagian dari indikator & target kinerja pelayanan 
 UKM di bab II 
 Bukti pencapaian indikator kinerja PTM yang disertai dengan analisisnya 
  
 Kepala Puskesmas, Pj UKM, Koordinator P2P dan pelaksanan PTM: Penggalian informasi terkait proses penetapan indikator, pencapaian dan analisanya. 
-```
+
 
 
 
@@ -8612,10 +8154,10 @@ Kepala Puskesmas, Pj UKM, Koordinator P2P dan pelaksanan PTM: Penggalian informa
 `
 
 
-```
+
 Kepala Puskesmas, Pj UKM, Koordinator P2P dan pelaksanan PTM: Penggalian informasi terkait proses penetapan program PTM 
 c) Kegiatan pengendalian penyakit tidak menular 
-```
+
 
 
 
@@ -8630,10 +8172,10 @@ Menular
 `2. Bukti hasil pelaksanaan kegiatan sesuai dengan RPK dan RPKB, serta mengacu pada SK, SOP dan KAK yang ditetapkan. (lihat dokumen regulasi pada EP b). 
 
 
-```
+
  
 Kepala Puskesmas, Pj UKM, Koordinator P2P & Pelaksana PTM kader dan sasaran PTM: Penggalian informasi terkait koordinasi dan pelaksanaan kegiatan Penanggulangan PTM 
-```
+
 
 
 
@@ -8641,7 +8183,7 @@ Kepala Puskesmas, Pj UKM, Koordinator P2P & Pelaksana PTM kader dan sasaran PTM:
 
 
 
-```
+
 1. SK tentang pemeriksaan PTM di Posbindu 
 
 
@@ -8649,7 +8191,7 @@ Kepala Puskesmas, Pj UKM, Koordinator P2P & Pelaksana PTM kader dan sasaran PTM:
 Bukti pelaksanaan PTM di Posbindu 
 Pengamatan surveior terhadap pelaksanaan pelayanan Posbindu 
 Kepala Puskesmas, Pj UKM, Koordinator P2P & Pelaksana PTM dan kader: Penggalian informasi terkait pelaksanaan pelayanan PTM di Posbindu 
-```
+
 
 
 
@@ -8657,11 +8199,11 @@ Kepala Puskesmas, Pj UKM, Koordinator P2P & Pelaksana PTM dan kader: Penggalian 
 
 
 
-```
+
 Telaah rekam medis terkait tata laksana PTM secara terpadu terhadap pasien 
 Pengamatan surveior terhadap tata laksana PTM secara terpadu 
 Pj UKP, DPJP: Penggalian informasi terkait tata laksana PTM secara terpadu 
-```
+
 
 
 
@@ -8669,7 +8211,7 @@ Pj UKP, DPJP: Penggalian informasi terkait tata laksana PTM secara terpadu
 
 
 
-```
+
 1. Jadwal pemantauan dan evaluasi 
 2. Hasil pemantauan dan evaluasi sesuai dengan jadwal 
 
@@ -8678,7 +8220,7 @@ Pj UKP, DPJP: Penggalian informasi terkait tata laksana PTM secara terpadu
  
 Kepala Puskesmas, Pj UKM, Koordinator P2P & Pelaksana PTM: Penggalian informasi terkait kegiatan pemantauan dan evaluasi penanggulangan 
 PTM 
-```
+
 
 
 
@@ -8686,7 +8228,7 @@ PTM
 
 
 
-```
+
 1. SK tentang Pencatatan dan Pelaporan 
 
 
@@ -8694,7 +8236,7 @@ PTM
 1. Bukti pencatatan kasus PTM di Puskesmas 
 2. Bukti pelaporan kasus PTM kepada Kepala Puskesmas sesuai mekanisme yang telah ditetapkan. 
 3. Bukti pelaporaan kasus PTM Puskesmas kepada Dinas Kesehatan. sesuai dengan regulasi yang ditetapakan. 
-```
+
 
 
 Catatan: 
@@ -8714,34 +8256,32 @@ Jenis pelaporan elektronik mengikuti pemberlakukan saat dilaksanakan survei`  \
 Kepala Puskesmas, Pj UKM, Koordinator `
 
 
-```
+
 P2P & Pelaksana PTM: Penggalian informasi terkait dengan pencatatan dan pelaporan kepada Dinas Kesehatan Daerah Kab/Kota 
  
  
  
-```
 
 
 
 
 
-# BAB V PENINGKATAN MUTU PUSKESMAS (PMP)  \
 
-
+# BAB V PENINGKATAN MUTU PUSKESMAS (PMP)  
 
 ## Standar 5.1 Peningkatan mutu berkesinambungan 
 
 
-```
+
 Peningkatan mutu dilakukan melalui upaya berkesinambungan terdiri atas upaya peningkatan mutu, upaya keselamatan pasien, upaya manajemen risiko, dan upaya pencegahan dan pengendalian infeksi untuk meningkatkan mutu pelayanan dan meminimalkan risiko bagi pasien, keluarga, masyarakat, petugas, dan lingkungan. 
-```
+
 
 
 
 ### Kriteria 5.1.1 Kepala Puskesmas menetapkan penanggungjawab mutu, tim mutu dan program peningkatan mutu Puskesmas. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Penyelenggaraan pelayanan, baik pelayanan manajemen, pelayanan upaya kesehatan masyarakat, maupun upaya kesehatan perseorangan, harus dapat menjamin mutu dan keselamatan pasien, keluarga, masyarakat, dan lingkungan. 
@@ -8782,7 +8322,7 @@ i. Program peningkatan mutu disusun dengan memperhatikan antara lain: pencapaian
 j. Perencanaan, pelaksanaan dan capaian pelayanan program peningkatan mutu didokumentasikan, disosialisasikan, dan dikomunikasikan kepada semua petugas kesehatan yang memberikan pelayanan. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -8790,7 +8330,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. Program peningkatan mutu yang terintegrasi dalam RUK Puskesmas 
 
 2. Kerangka acuan kegiatan 
@@ -8800,7 +8340,7 @@ Elemen Penilaian
  
  
 Kepala Puskesmas dan PJ mutu: Penggalian informasi terkait penyusunan program mutu di Puskesmas 
-```
+
 
 
 
@@ -8808,14 +8348,14 @@ Kepala Puskesmas dan PJ mutu: Penggalian informasi terkait penyusunan program mu
 
 
 
-```
+
 1. Bukti pelaksanaan program peningkatan mutu menyesuaikan dengan jenis kegiatan yang dilakukan. 
 
 
 2. Bukti evaluasi pelaksanaan program peningkatan mutu 
  
 PJ Mutu dan Tim mutu: Penggalian informasi terkait proses pelaksanaan dan evaluasi program peningkatan mutu 
-```
+
 
 
 
@@ -8823,14 +8363,14 @@ PJ Mutu dan Tim mutu: Penggalian informasi terkait proses pelaksanaan dan evalua
 
 
 
-```
+
 1. Bukti penyusunan rencana peningkatan mutu berdasarkan evaluasi 
 
 
 2. Bukti hasil tindak lanjut upaya peningkatan mutu secara berkesinambungan 
  
 PJ mutu dan tim mutu: Penggalian informasi dalam proses evaluasi program mutu, penyusunan rencana perbaikan, tindak lanjut upaya perbaikan berkesinambungan 
-```
+
 
 
 
@@ -8838,19 +8378,19 @@ PJ mutu dan tim mutu: Penggalian informasi dalam proses evaluasi program mutu, p
 
 
 
-```
+
 Bukti pelaksanaan komunikasi program peningkatan mutu sesuai media komunikasi kepada LP dan LS yang ditetapkan oleh Puskesmas
 PJ mutu, tim mutu Puskesmas, LP, LS: Penggalian informasi terkait pelaksanaan komunikasi program peningkatan mutu kepada LP dan LS 
  
 
-```
+
 
 
 
 ### Kriteria 5.1.2 Kepala Puskesmas dan tim atau petugas yang diberi tanggung jawab untuk peningkatan mutu dan keselamatan pasien berkomitmen untuk membudayakan peningkatan mutu secara berkesinambungan melalui pengelolaan indikator mutu. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Kepala Puskesmas bertanggung jawab untuk menetapkan prioritas program yang perlu diperbaiki, dengan mempertimbangkan proses yang berimplikasi risiko tinggi (high risk), melibatkan populasi dalam volume besar (high volume), membutuhkan biaya besar bila tidak dikelola dengan baik (high cost), capaian kinerja rendah (bad performance), atau cenderung menimbulkan masalah (problem prone). 
@@ -8875,7 +8415,7 @@ b) Puskesmas melakukan peningkatan pengetahuan dan keterampilan  melalui  pelati
 c) Indikator mutu yang sudah tercapai selama tahun berjalan dapat diganti dengan indikator mutu yang baru. Indikator mutu yang belum mencapai target dapat tetap menjadi prioritas untuk tahun berikutnya 
  
 Elemen Penilaian 
-```
+
 
 
 
@@ -8883,10 +8423,10 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tentang indikator mutu di Puskesmas yang terintegrasi dengan indikator kinerja Puskesmas, 
 2. Profil indikator mutu Puskesmas" 
-```
+
 
 
 
@@ -8894,11 +8434,11 @@ Elemen Penilaian
 
 
 
-```
+
 Bukti pengukuran indikator mutu sesuai profil indikator mutu dan periode pelaporan 
  
 PJ indikator, PJ mutu dan tim mutu: Penggalian informasi terkait pengukuran indikator mutu 
-```
+
 
 
 
@@ -8906,18 +8446,18 @@ PJ indikator, PJ mutu dan tim mutu: Penggalian informasi terkait pengukuran indi
 
 
 
-```
+
 Bukti evaluasi peningkatan mutu sesuai dengan hasil pelaksanaan tindak lanjut 
  
 Kepala Puskesmas, PJ mutu dan tim mutu: Penggalian informasi terkait proses evaluasi pengukuran mutu 
-```
+
 
 
 
 ### Kriteria 5.1.3 Dilakukan validasi dan analisis hasil pengumpulan data indikator mutu sebagai bahan pertimbangan dalam pengambilan keputusan untuk peningkatan mutu Puskesmas dan kinerja. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Manfaat dan keberhasilan program peningkatan mutu hanya bisa ditunjukkan jika didukung oleh ketersediaan data yang sahih. 
@@ -8967,7 +8507,7 @@ Informasi tentang kinerja Puskesmas adalah informasi publik yang perlu disampaik
 
 Penyampaian informasi tentang kinerja Puskesmas dapat mendorong partisipasi dan peran aktif masyarakat dalam  pembangunan kesehatan di wilayah kerja Puskesmas. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -8975,14 +8515,14 @@ Elemen Penilaian
 
 
 
-```
+
 Bukti dilakukan validasi data hasil pengukuran indikator mutu sesuai POKOK PIKIRAN
  
 Pengamatan terhadap proses validasi hasil 
 pengumpulan data indikator mutu Puskesmas 
  
 PJ Mutu, tim mutu serta PJ indikator: Penggalian informasi terkait proses validasi hasil pengukuran indikator mutu 
-```
+
 
 
 
@@ -8990,11 +8530,11 @@ PJ Mutu, tim mutu serta PJ indikator: Penggalian informasi terkait proses valida
 
 
 
-```
+
 Hasil analisis data yang dilakukan oleh tim mutu sesuai dengan POKOK PIKIRAN 
  
 Tim mutu dan PJ indikator mutu: Penggalian informasi terkait analisis data capaian indikator 
-```
+
 
 
 
@@ -9002,11 +8542,11 @@ Tim mutu dan PJ indikator mutu: Penggalian informasi terkait analisis data capai
 
 
 
-```
+
 Bukti penyusunan rencana tindak lanjut berdasarkan hasil analisis 
  
 Kepala Puskesmas, Pj mutu dan tim mutu: Penggalian informasi terkait penyusun rencana tindak lanjut 
-```
+
 
 
 
@@ -9014,11 +8554,11 @@ Kepala Puskesmas, Pj mutu dan tim mutu: Penggalian informasi terkait penyusun re
 
 
 
-```
+
 Bukti tindak lanjut dan evaluasi program mutu minimal terdiri dari daftar hadir dan notulen yang disertai dengan foto kegiatan 
  
 PJ mutu dan tim: Penggalian informasi terkait tindak lanjut dan evaluasi program mutu 
-```
+
 
 
 
@@ -9026,19 +8566,19 @@ PJ mutu dan tim: Penggalian informasi terkait tindak lanjut dan evaluasi program
 
 
 
-```
+
 Bukti pelaporan indikator mutu sesuai prosedur yang ditetapkan 
 Pengamatan hasil pengukuran indikator mutu melalui aplikasi mutu fasyankes 
 PJ Mutu, tim mutu dan Dinas Kesehatan Kab/Kota: Penggalian informasi terkait pelaporan indikator mutu 
 
-```
+
 
 
 
 ### Kriteria 5.1.4 Peningkatan Mutu dicapai dan dipertahankan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Informasi dari analisis data pengukuran indikator mutu digunakan untuk mengidentifikasi masalah dan potensi perbaikan. 
@@ -9059,7 +8599,7 @@ f. Program peningkatan mutu Puskesmas dilaporkan kepada dinas kesehatan daerah k
  	 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -9067,14 +8607,14 @@ Elemen Penilaian
 
 
 
-```
+
 1. Bukti rencana uji coba peningkatan mutu (PDSA) berdasarkan hasil evaluasi program mutu dan capaian indikator mutu 
 
 
 2. Bukti pelaksanaan uji coba rencana peningkatan mutu 
  
 PJ Mutu dan tim mutu: Penggalian informasi terkait penyusunan proses peningkatan mutu (PDSA) berdasarkan hasil capaian indikator mutu 
-```
+
 
 
 
@@ -9111,12 +8651,12 @@ PJ mutu dan tim mutu: Penggalian informasi terkait pendokumentasian dan komunika
 
 
 
-```
+
 Bukti pelaporan program peningkatan mutu ke Dinkes Kab/ kota yang terintegrasi dalam laporan kinerja 
 Puskesmas 
  
 PJ mutu dan tim mutu: Penggalian informasi terkait laporan hasil program peningkatan mutu ke Dinkes termasuk pelaporan INM 
-```
+
 
 
 
@@ -9125,12 +8665,12 @@ PJ mutu dan tim mutu: Penggalian informasi terkait laporan hasil program peningk
 ## Standar 5.2 Program manajemen risiko. 
 
 
-```
+
 Program manajemen risiko digunakan untuk melakukan identifikasi, analisis, evaluasi, penatalaksanaan risiko dan monitoring dan reviu untuk mengurangi kerugian dan cedera terhadap pasien, staf, pengunjung, serta institusi puskesmas dan sasaran pelayanan UKM serta masyarakat. 
 
 Upaya manajemen risiko dilaksanakan dengan menyusun program manajemen risiko setiap tahun yang mancakup proses manajemen risiko yaitu komunikasi dan konsultasi, menetapkan konteks, identifikasi, analisis, evaluasi, penatalaksanaan risiko, dan pemantauan dan reviu yang dilakukan serta pelaporan manajemen resiko 
 	
-```
+
 
 
 
@@ -9156,9 +8696,9 @@ Puskesmas menyusun profil risiko dan melakukan penanganan risiko sebagai tahapan
 Selanjutnya dilakukan pemantauan dan penyampaian laporan manajemen risiko setiap enam bulan kepada Kepala Puskesmas.
 
 
-```
+
 Elemen Penilaian: 
-```
+
 
 
 
@@ -9166,12 +8706,12 @@ Elemen Penilaian:
 
 
 
-```
+
 Ditetapkan SK tentang pelaksanaan manajemen resiko dan SOP nya 
  
  
 Penggalian informasi kepada PJ Manajemen resiko tentang pelaksanaan manajemen resiko di Puskesmas 
-```
+
 
 
 
@@ -9179,11 +8719,11 @@ Penggalian informasi kepada PJ Manajemen resiko tentang pelaksanaan manajemen re
 
 
 
-```
+
 Bukti pelaksanaan manajemen resiko, yang meliputi poin b).(1) sd b). (4)
 
 Penggalian informasi, tentang progress pelaksanaan manajemen resiko di Puskesmas 
-```
+
 
 
 
@@ -9191,12 +8731,12 @@ Penggalian informasi, tentang progress pelaksanaan manajemen resiko di Puskesmas
 
 
 
-```
+
 Bukti identifikasi, analisis dan evaluasi risiko yang terangkum dalam daftar resiko 
  
 Penggalian informasi tentang proses identifikasi, analisis dan evaluasi risiko 
  
-```
+
 
 
 
@@ -9204,7 +8744,7 @@ Penggalian informasi tentang proses identifikasi, analisis dan evaluasi risiko
 
 
 
-```
+
 Bukti profil resiko 
  
 Penggalian informasi proses penyusunan profil resiko 
@@ -9218,14 +8758,14 @@ Penggalian informasi proses penyusunan profil resiko
 
 
 
-```
+
 
 
 
 ### Kriteria 5.2.2 Puskesmas melaksanakan penatalaksanaan risiko sesuai dengan ketentuan yang berlaku. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a) Program manajemen risiko (MR) berisi strategi dan kegiatan untuk mereduksi atau memitigasi risiko yang disusun setiap tahun, terintegrasi dalam perencanaan Puskesmas, serta berdasarkan identifikasi dan analisis risiko baik yang sudah berakibat terjadinya kejadian/insiden ataupun yang berpotensi menyebabkan terjadinya kejadian/insiden. 
@@ -9240,7 +8780,7 @@ d) Untuk menggunakan metode/alat ini atau alat-alat lainnya yang serupa secara e
 (3) menerapkan  alat  tersebut untuk menganalisis proses tersebut. 
 
 Pimpinan Puskesmas mengambil tindakan untuk mendesain ulang proses atau mengambil tindakan untuk mengurangi risiko pada tahapan proses yang dianalisis. 
-```
+
 
 
 
@@ -9250,10 +8790,10 @@ a) Disusun rencana penanganan risiko yang diintegrasikan dalam perencanaan tingk
 
 
 
-```
+
 Bukti rencana penanganan risiko, yang diimplementasikan dalam RUK dan RPK Puskesmas 
  
-```
+
 
 
 
@@ -9261,11 +8801,11 @@ Bukti rencana penanganan risiko, yang diimplementasikan dalam RUK dan RPK Puskes
 
 
 
-```
+
 Bukti pemantauan pelaksanaan rencana penanganan risiko 
  
 Penggalian informasi progress pelaksanaan rencana penanganan risiko beserta hambatan dan upaya solusi atas hambatan yang ditemukan 
-```
+
 
 
 
@@ -9273,12 +8813,12 @@ Penggalian informasi progress pelaksanaan rencana penanganan risiko beserta hamb
 
 
 
-```
+
 Bukti penyampaian pelaksanaan manajemen resiko Puskesmas beserta hambatan dan peran serta dinkes kabupaten/kota dan lintas sektor dalam membantu mengatasi hambatan yang ditemukan 
 Puskesmas 
  
 Penggalian informasi upaya solusi atas hambatan yang ditemukan dan peran dinkes kabupaten/kota dan lintas sektor 
-```
+
 
 
 
@@ -9286,13 +8826,13 @@ Penggalian informasi upaya solusi atas hambatan yang ditemukan dan peran dinkes 
 
 
 
-```
+
 Bukti FMEA 
  
 Penggalian informasi proses penyusunan 
 FMEA 
  
-```
+
 
 
 
@@ -9301,20 +8841,20 @@ FMEA
 ## Standar 5.3 Sasaran keselamatan pasien. 
 
 
-```
+
 Sasaran Keselamatan pasien diterapkan dalam upaya keselamatan pasien. 
 
 Puskesmas mengembangkan dan menerapkan sasaran keselamatan pasien sebagai suatu upaya untuk meningkatkan mutu pelayanan. 
 
 
-```
+
 
 
 
 ### Kriteria 5.3.1 `Proses Identifikasi pasien dilakukan dengan benar. `
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Salah identifikasi pasien dapat terjadi di Puskesmas pada saat pelayanan sebagai akibat dari kelalaian petugas, kondisi kesadaran pasien, perpindahan tempat tidur, atau kondisi lain yang menyebabkan terjadinya salah identitas. 
@@ -9329,7 +8869,7 @@ e. Proses identifikasi dengan benar harus dilakukan  mulai dari penapisan atau s
  	 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -9337,7 +8877,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK tentang pelaksanaan SKP 
 
 
@@ -9346,14 +8886,14 @@ Bukti observasi kepatuhan identifikasi pasien
 Pengamatan surveior terhadap pelaksanaan identifikasi pasien oleh petugas Puskesmas 
 Penggalian informasi tentang siapa saja yang melakukan identifikasi pasien dan cara melakukan 
 identifikasi pasien 
-```
+
 
 
 
 #### b) Dilakukan prosedur tepat identifikasi apabila dijumpai pasien dengan kondisi khusus seperti yang disebutkan pada SOP pelaksanaan identifikasi pasien dengan kondisi khusus POKOK PIKIRAN sesuai dengan kebijakan dan prosedur yang ditetapkan (R, D, O, W)
 
 
-```
+
 Bukti identifikasi pasien dengan kondisi khusus yang tercantum dalam rekam medis 
 Pengamatan surveior terhadap proses identifikasi pasien dengan kondisi khusus 
 Penggalian informasi kepada petugas Puskesmas, 
@@ -9363,14 +8903,14 @@ terkait tata cara indentifikasi pasien apabila ditemukan pasien dengan kondisi k
 
 
 
-```
+
 
 
 
 ### Kriteria 5.3.2 Proses untuk meningkatkan efektivitas komunikasi dalam pemberian asuhan ditetapkan dan dilaksanakan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Kesalahan pembuatan keputusan klinis, tindakan, dan pengobatan dapat terjadi akibat komunikasi yang tidak efektif dalam proses asuhan pasien. 
@@ -9402,7 +8942,7 @@ h. Nilai kritis hasil pemeriksaan penunjang  yang  berada di luar rentang angka 
 
 i. Untuk meningkatkan kompetensi dalam melakukan komunikasi efektif, perlu dilakukan edukasi kepada karyawan. Edukasi dapat dilakukan dalam bentuk pelatihan, lokakarya, pelatihan kerja (on the job training), atau bentuk lain yang dianggap efektif untuk transfer kemampuan (skill) dan pengetahuan terhadap peningkatan kompetensi karyawan dalam melakukan komunikasi efektif. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -9410,12 +8950,12 @@ Elemen Penilaian
 
 
 
-```
+
 Bukti TBAK dan/atau Bukti SBAR yang dimasukkan dalam rekam medis pasien 
  
 Penggalian informasi tentang proses pelaksanaan TBAK atau SBAR 
  
-```
+
 
 
 
@@ -9423,13 +8963,13 @@ Penggalian informasi tentang proses pelaksanaan TBAK atau SBAR
 
 
 
-```
+
 1. Telaah rekam medis 
 2. Telaah buku pencatatan hasil laboratorium 
  
 Penggalian informasi tentang pelaporan kondisi pasien dan pelaporan nilai kritis 
 Petugas Puskesmas diminta untuk mensimulasikan pelaporan nilai kritis 
-```
+
 
 
 
@@ -9437,21 +8977,21 @@ Petugas Puskesmas diminta untuk mensimulasikan pelaporan nilai kritis
 
 
 
-```
+
 SOP pelaksanaan komunikasi efektif 
 Bukti SBAR yang tercatat dalam formular SBAR 
  
 Penggalian informasi tentang pelaksanaan komunikasi efektif pada proses serah terima pasien 
 Petugas Puskesmas diminta untuk mensimulasikan komunikasi efektif pada proses serah terima pasien 
  	
-```
+
 
 
 
 ### Kriteria 5.3.3 Proses untuk meningkatkan keamanan terhadap obat-obat yang perlu diwaspadai ditetapkan dan dilaksanakan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Pemberian obat pada pasien perlu dikelola dengan baik dalam upaya keselamatan pasien. 
@@ -9471,18 +9011,18 @@ c. Kesalahan pemberian obat dapat juga terjadi akibat adanya obat dengan nama da
 d. Kebijakan dan prosedur tentang pengelolaan obat yang perlu diwaspadai ditetapkan dan dilaksanakan yang meliputi penyimpanan, penataan, peresepan, pelabelan, penyiapan, penggunaan, dan evaluasi penggunaan obat yang  perlu diwaspadai, termasuk obat psikotropika, narkotika, dan obat dengan nama atau rupa mirip. 
  
 Elemen Penilaian 
-```
+
 
 
 
 #### a) Disusun daftar obat yang perlu diwaspadai dan obat dengan nama atau rupa mirip serta dilakukan pelabelan dan penataan obat yang perlu diwaspadai dan obat dengan nama atau rupa mirip sesuai dengan kebijakan dan prosedur yang disusun (R, D, O, W).
 
 
-```
+
 SOP tentang pengelolaan obat yang perlu diwaspadai dan obat dengan nama dan rupa mirip
 Daftar obat yang perlu diwaspadai dan obat dengan nama atau rupa mirip
 Pengamatan surveior terhadap pelabelan dan penataan obat yang perlu diwaspadai dan obat dengan nama atau rupa mirip
-```
+
 
 
 Penggalian informasi tentang proses pengelolaan obat yang perlu diwaspadai dan obat dengan nama dan rupa mirip  \
@@ -9493,12 +9033,12 @@ Penggalian informasi tentang proses pengelolaan obat yang perlu diwaspadai dan o
 
 
 
-```
+
 1. Daftar obat psikotropika/narkotika dan obat- obatan lain yang perlu diwaspadai (high alert) 
 
 
 2. Bukti monitoring penggunaan obat-obatan psikotropika/narkotika dan obat- obatan lain yang perlu diwaspadai (high alert)
-```
+
 
 
 `Pengamatan surveior terhadap pelaksanaan penyimpanan, pengawasan dan pengendalian penggunaan obat- obatan psikotropika/nark`otika dan obat- obatan lain yang perlu diwaspadai 
@@ -9507,17 +9047,17 @@ Penggalian informasi tentang proses pengelolaan obat yang perlu diwaspadai dan o
 `
 
 
-```
+
 Penggalian informasi tentang proses penyimpanan, pengawasan dan pengendalian penggunaan obat- obatan 
 psikotropika/narkotika dan obat- obatan lain yang perlu diwaspadai (high alert).  
-```
+
 
 
 
 ### Kriteria 5.3.4 Proses untuk memastikan tepat pasien, tepat prosedur, dan tepat sisi pada pasien yang menjalani operasi/tindakan medis ditetapkan dan dilaksanakan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Terjadinya cedera dan kejadian tidak diharapkan dapat diakibatkan oleh salah orang, salah  prosedur,  salah sisi pada pemberian tindakan invasif atau tindakan pada pasien. 
@@ -9550,7 +9090,7 @@ g. Jeda (time out) merupakan peluang untuk menjawab semua pertanyaan yang belum 
 
 Jeda dilakukan di lokasi tempat prosedur akan dilakukan, tepat sebelum memulai prosedur, dan melibatkan seluruh tim yang akan melakukan tindakan operasi atau invasif. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -9558,24 +9098,24 @@ Elemen Penilaian
 
 
 
-```
+
 SOP penandaan sisi operasi/tindakan medis 
  
 Pengamatan surveior terhadap pelaksanaan penandaan sisi operasi/tindakan medis. 
 
 
-```
+
 
 
 `Catatan: Observasi dilakukan apabila `ada kasus yang memerlukan operasi/tindakan medis
 
 
-```
+
 
 Penggalian informasi tentang proses penandaan 
 sisi operasi/tindakan medis yang dilakukan di Puskesmas 
 Petugas Puskesmas diminta mensimulasikan proses penandaan sisi operasi/tindakan medis 
-```
+
 
 
 
@@ -9583,7 +9123,7 @@ Petugas Puskesmas diminta mensimulasikan proses penandaan sisi operasi/tindakan 
 
 
 
-```
+
 Bukti pelaksanaan upaya untuk memastikan benar pasien dan benar prosedur, sebelum dilakukan operasi/tindakan medis. Bukti tersebut dimasukkan ke dalam rekam medis 
 Pengamatan surveior terhadap pelaksanaan benar pasien dan benar prosedur, sebelum dilakukan operasi/tindakan medis. 
 
@@ -9591,7 +9131,7 @@ Pengamatan surveior terhadap pelaksanaan benar pasien dan benar prosedur, sebelu
 Catatan: Observasi dilakukan apabila ada kasus yang memerlukan operasi/tindakan medis 
 Penggalian informasi tentang proses pelaksanaan benar pasien dan benar prosedur, sebelum dilakukan operasi/tindakan medis. 
  
-```
+
 
 
 
@@ -9601,7 +9141,7 @@ Penggalian informasi tentang proses pelaksanaan benar pasien dan benar prosedur,
 Pengamatan surveior terhadap pelaksanaan penjedaan (time out) sebelum operasi/tindakan medis 
 
 
-```
+
 
 
 Catatan: Observasi dilakukan apabila ada kasus yang memerlukan operasi/tindakan medis 
@@ -9610,7 +9150,7 @@ Penggalian informasi tentang proses penjedaan
 (time out) sebelum operasi/tindakan medis 
  
 	
-```
+
 
 
 
@@ -9619,7 +9159,7 @@ Penggalian informasi tentang proses penjedaan
 ### Kriteria 5.3.5 Proses kebersihan tangan diterapkan untuk menurunkan risiko infeksi yang terkait dengan pelayanan kesehatan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Puskesmas harus menerapkan  kebersihan  tangan yang terbukti menurunkan risiko infeksi yang terjadi pada fasilitas kesehatan. 
@@ -9631,16 +9171,16 @@ Informasi mengenai prosedur tersebut ditempel di tempat yang mudah dibaca.
 Tenaga medis, tenaga kesehatan, dan karyawan Puskesmas perlu diedukasi tentang kebersihan tangan. 
 
 Sosialisasi kebersihan tangan perlu juga dilakukan kepada pasien dan keluarga pasien. 
-```
+
 
 
 c.` Kebersihan tangan merupakan kunci efektif pencegahan dan pengendalian infeksi sehingga Puskesmas harus menetapkan kebijakan dan prosedur mengenai kebersihan tangan. `
 
 
-```
+
  
 Elemen Penilaian 
-```
+
 
 
 
@@ -9648,10 +9188,10 @@ Elemen Penilaian
 
 
 
-```
+
 1. SOP tentang Langkah kebersihan tangan 
 2. SOP tentang indikasi kebersihan tangan dan peluang kebersihan tangan 
-```
+
 
 
 
@@ -9659,7 +9199,7 @@ Elemen Penilaian
 
 
 
-```
+
 Bukti observasi kepatuhan kebersihan tangan 
 Pengamatan surveior terhadap budaya kebersihan tangan di Puskesmas 
 Penggalian informasi kepada petugas Puskesmas untuk mengetahui tingkat pemahaman petugas Puskesmas terkait : 
@@ -9668,14 +9208,14 @@ Penggalian informasi kepada petugas Puskesmas untuk mengetahui tingkat pemahaman
 3. Peluang kebersihan tangan 
 
 
-```
+
 
 
 
 ### Kriteria 5.3.6 Proses untuk mengurangi risiko pasien jatuh disusun dan dilaksanakan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Cedera pada pasien dapat terjadi karena jatuh di fasilitas kesehatan. Risiko jatuh dapat terjadi pada pasien dengan riwayat jatuh, penggunaan obat, minum minuman beralkohol, gangguan keseimbangan, gangguan visus, gangguan mental, dan sebab yang lain. 
@@ -9699,7 +9239,7 @@ e. Contoh alat untuk melakukan pengkajian pada pasien rawat inap adalah skala Mo
 f. Jika satu dari pertanyaan tersebut mendapat jawaban ya, pasien tersebut dikategorikan berisiko jatuh. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -9707,7 +9247,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. SOP penapisan pasien dengan risiko jatuh di rawat jalan 
 2. SOP pengkajian risiko jatuh di IGD 
 3. SOP pengkajian risiko jatuh di rawat 
@@ -9717,7 +9257,7 @@ Pengamatan surveior terhadap pelaksanaan penapisan pasien dengan risiko jatuh
 Penggalian informasi kepada Puskesmas untuk mengetahui tingkat pemahaman tentang tata cara pelaksanaan penapisan pasien dengan risiko jatuh sesuai dengan tempatnya (rawat jalan/rawat inap/IGD) 
 
 Petugas Puskesmas diminta mensimulasikan tata cara penapisan pasien dengan risiko jatuh sesuai dengan tempatnya (rawat jalan/rawat inap/IGD) 
-```
+
 
 
 
@@ -9725,32 +9265,32 @@ Petugas Puskesmas diminta mensimulasikan tata cara penapisan pasien dengan risik
 
 
 
-```
+
 1. Bukti dilakukan evaluasi untuk mengurangi risiko terhadap situasi dan lokasi yang diidentifikasi berisiko terjadi pasien jatuh 
 
 
 2. Bukti dilakukan tindaklanjut dari hasil evaluasi 
  
 Penggalian informasi tentang evaluasi dan tindak lanjut untuk mengurangi risiko terhadap situasi dan lokasi yang diidentifikasi berisiko terjadi pasien jatuh 
-```
+
 
 
 
 ## Standar 5.4  Pelaporan insiden keselamatan pasien dan pengembangan budaya keselamatan. 
 
 
-```
+
 Puskesmas menetapkan sistem pelaporan insiden keselamatan pasien dan pengembangan budaya keselamatan. 
 
 Pelaporan insiden keselamatan pasien berhubungan dengan budaya keselamatan di Puskesmas dan diperlukan untuk mencegah insiden lebih lanjut atau berulang pada masa mendatang yang akan membawa dampak kerugian yang lebih besar bagi Puskesmas 
-```
+
 
 
 
 ### Kriteria 5.4.1 Dilakukan pelaporan, dokumentasi, analisis akar masalah, dan penyusunan tindakan korektif sebagai upaya perbaikan, dan pencegahan potensi insiden keselamatan pasien. 
 
 
-```
+
 POKOK PIKIRAN: 
 a. Insiden keselamatan pasien adalah setiap kejadian yang tidak disengaja dan kondisi yang mengakibatkan atau berpotensi mengakibatkan cedera yang dapat dicegah pada pasien. 
 
@@ -9786,7 +9326,7 @@ Misalnya, ketika perawat mau memberikan obat kepada pasien, saat mengecek, terny
 Kejadian sentinel dapat berupa 
 1) kematian yang tidak diduga, termasuk dan tidak terbatas hanya pada 
 
-```
+
 
 
 
@@ -9803,7 +9343,7 @@ Kejadian sentinel dapat berupa
 5)` perkosaan, kekejaman di tempat kerja seperti penyerangan (berakibat kematian atau kehilangan fungsi secara permanen) atau pembunuhan (yang disengaja) atas pasien, anggota keluarga, staf, dokter, pengunjung, atau vendor/pihak ketiga ketika berada dalam lingkungan Puskesmas. `
 
 
-```
+
 d. Pelaporan insiden keselamatan pasien yang selanjutnya disebut pelaporan insiden adalah suatu sistem untuk mendokumentasikan laporan insiden keselamatan pasien. 
 
 Pelaporan insiden terdiri atas laporan insiden internal dan laporan insiden eksternal. 
@@ -9832,7 +9372,7 @@ Ditentukan juga siapa saja yang membuat laporan, batas waktu pelaporan, investig
 h. Pelaporan insiden keselamatan pasien dilaporkan sesuai dengan ketentuan peraturan perundang- undangan. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -9840,7 +9380,7 @@ Elemen Penilaian
 
 
 
-```
+
 1. SK pelaporan insiden keselamatan pasien 
 2. SOP pelaporan insiden keselamatan pasien secara internal 
 3. SOP pelaporan insiden keselamatan pasien secara eksternal 
@@ -9850,7 +9390,7 @@ Elemen Penilaian
 terjadinya insiden secara berulang 
  
 Penggalian informasi tentang proses pelaporan insiden keselamatan pasien 
-```
+
 
 
 
@@ -9858,14 +9398,14 @@ Penggalian informasi tentang proses pelaporan insiden keselamatan pasien
 
 
 
-```
+
 Bukti pelaporan IKP melalui aplikasi pelaporan IKP, baik pelaporan nihil atau pelaporan jika terjadi KTD atau sentinel 
 Pengamatan surveior terhadap pelaporan IKP melalui aplikasi pelaporan IKP 
 Penggalian informasi tentang proses pelaporan insiden keselamatan pasien ke KNKP 
 
 
 
-```
+
 
 
 
@@ -9874,7 +9414,7 @@ Penggalian informasi tentang proses pelaporan insiden keselamatan pasien ke KNKP
 ### Kriteria 5.4.2 Tenaga kesehatan pemberi asuhan berperan penting dalam memperbaiki perilaku dalam pemberian pelayanan yang mencerminkan budaya mutu dan budaya keselamatan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Upaya peningkatan mutu layanan klinis dan keselamatan pasien menjadi tanggung jawab seluruh tenaga kesehatan yang memberikan asuhan pasien. 
@@ -9904,7 +9444,7 @@ d. Perilaku yang tidak mendukung budaya keselamatan seperti:
 e. Mutu   layanan klinis  tidak  hanya  ditentukan  oleh sistem pelayanan yang ada, tetapi juga oleh perilaku dalam pemberian pelayanan. Tenaga kesehatan perlu melakukan evaluasi   terhadap  perilaku dalam pemberian pelayanan dan melakukan upaya perbaikan, baik  pada sistem pelayanan maupun perilaku pelayanan, yang mencerminkan budaya keselamatan dan budaya  perbaikan pelayanan klinis  yang berkelanjutan. 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -9912,12 +9452,12 @@ Elemen Penilaian
 
 
 
-```
+
 Bukti observasi kepatuhan terhadap kode etik dan peraturan internal Puskesmas, yang terdiri dari unsur untuk meningkatkan mutu dan keselamatan pasien 
  
 Penggalian informasi terkait latar belakang penyusunan komponen dalam kode etik dan Peraturan internal yang disusun untuk meningkatkan mutu dan keselamata pasien 
  
-```
+
 
 
 
@@ -9925,12 +9465,12 @@ Penggalian informasi terkait latar belakang penyusunan komponen dalam kode etik 
 
 
 
-```
+
 Terdapat mekanisme atau sistem yang tertuang dalam SOP, untuk laporan terhadap penemuan perilaku yang melanggar kode etik dan peraturan internal 
  
 Penggalian informasi alur pelaporan dan sistem jaminan kerahasiaan pelapor 
  
-```
+
 
 
 
@@ -9946,31 +9486,31 @@ Penggalian informasi alur pelaporan dan sistem jaminan kerahasiaan pelapor
 Penggalian informasi kepada petugas Puskesmas, `
 
 
-```
+
 terkait pemahamannya terhadap kode etik dan peraturan internal Puskesmas serta hubungannya antara isi dalam kode etik dan peraturan internal tersebut dengan peningkatan mutu dan keselamatan pasien 
 
 
-```
+
 
 
 
 ## Standar 5.5 Program pencegahan dan pengendalian infeksi. 
 
 
-```
+
 Program pencegahan dan pengendalian infeksi dilaksanakan untuk mencegah dan meminimalkan terjadinya infeksi terkait dengan pelayanan Kesehatan. 
 
 Pencegahan dan pengendalian infeksi yang selanjutnya disingkat PPI adalah upaya untuk mencegah dan meminimalkan terjadinya infeksi pada pasien, petugas, pengunjung, dan masyarakat sekitar fasilitas kesehatan 
 
 
-```
+
 
 
 
 ### Kriteria 5.5.1 Regulasi dan program pencegahan dan pengendalian infeksi dilaksanakan oleh seluruh karyawan Puskesmas secara komprehensif untuk mencegah dan meminimalkan risiko terjadinya infeksi yang terkait dengan pelayanan kesehatan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Pencegahan dan pengendalian infeksi yang selanjutnya disingkat PPI adalah upaya untuk mencegah dan meminimalkan terjadinya infeksi pada pasien, petugas, pengunjung, dan masyarakat sekitar fasilitas kesehatan. 
@@ -9998,7 +9538,7 @@ f. Agar pencegahan dan pengendalian infeksi dapat dilaksanakan dengan optimal, p
 
 g. Untuk memantau dan menilai pelaksanaan program PPI, disusun indikator sebagai bukti dilaksanakannya kegiatan yang direncanakan. 
 Elemen Penilaian 
-```
+
 
 
 
@@ -10021,7 +9561,7 @@ isolasi,
 (6) penggunaan anti mikroba secara bijak dan komprehensif dalam penyelenggaraan pelayanan  	 di Puskesmas 
 
 
-```
+
 
 Ditetapkan SK Pelaksanaan PPI Terdapat : 
 1. SOP Perencanaan PPI 
@@ -10030,7 +9570,7 @@ Ditetapkan SK Pelaksanaan PPI Terdapat :
 
 
 2. Bukti Pelaksanaan PPI di Puskesmas 
-```
+
 
 
 
@@ -10054,7 +9594,7 @@ Penggalian Informasi terkait pemantauan, evaluasi, tindak lanjut, dan pelaporan 
 ### Kriteria 5.5.2 Dilakukan identifikasi berbagai risiko infeksi dalam penyelenggaraan pelayanan sebagai dasar untuk menyusun dan menerapkan strategi untuk mengurangi risiko tersebut. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Puskesmas melakukan identifikasi dan kajian risiko infeksi, baik dalam penyelenggaraan pelayanan upaya kesehatan perseorangan maupun upaya kesehatan masyarakat, yang mungkin atau pernah terjadi terhadap pasien, pengunjung, petugas, keluarga, dan masyarakat. 
@@ -10089,7 +9629,7 @@ Paparan debu dan kotoran konstruksi, kebisingan, getaran, kotoran, dan bahaya la
 Oleh karena itu, Puskesmas harus menetapkan kriteria risiko untuk menangani dampak tersebut yang dituangkan dalam bentuk regulasi tentang penilaian risiko dan pengendalian infeksi (infection control risk assessment/ICRA). 
 
 Elemen Penilaian 
-```
+
 
 
 
@@ -10097,14 +9637,14 @@ Elemen Penilaian
 
 
 
-```
+
 1. Data supervisi/hasil audit Program PPI 
 2. Jika ada renovasi dilakukan Icra konstruksi 
  
 Penggalian Informasi terkait pelaksanaan audit program dan penyusunan ICRA konstruksi jika ada renovasi 
 
 
-```
+
 
 
 
@@ -10112,21 +9652,21 @@ Penggalian Informasi terkait pelaksanaan audit program dan penyusunan ICRA konst
 
 
 
-```
+
 1. Dokumen ICRA Program PPI 
 2. Dokumen Plan of Action (POA) sesuai hasil ICRA 
 3. Bukti evaluasi hasil kegiatan program PPI 
  
 Penggalian Informasi terkait penyusunan ICRA program dan penyusunan POA dan evaluasi kegiatan PPI 
  
-```
+
 
 
 
 ### Kriteria 5.5.3 Puskesmas yang mengurangi risiko infeksi terkait dengan pelayanan kesehatan perlu melaksanakan dan mengimplementasikan program PPI untuk mengurangi risiko infeksi baik bagi pasien, petugas, keluarga pasien, masyarakat, maupun lingkungan. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a) Program pencegahan dan pengendalian infeksi di Puskesmas adalah program yang dilakukan untuk mengidentifikasi dan mengurangi risiko tertular dan menularkan infeksi di antara pasien,  petugas, keluarga, masyarakat, dan lingkungan melalui penerapan kewaspadaan isolasi yang terdiri atas kewaspadaan standar dan kewaspadaan berdasar transmisi, penggunaan antimikroba secara bijak, dan bundel untuk infeksi terkait pelayanan kesehatan. 
@@ -10266,7 +9806,7 @@ Perlindungan petugas dilakukan melalu pemeriksaan berkala, pemberian vaksinasi, 
 d) Penerapan kewaspadaan standar perlu dipantau oleh tim PPI atau petugas yang diberi tanggung jawab agar dilaksanakan secara periodik dalam penyelenggaraan kegiatan pelayanan Puskesmas. 
  
 Elemen Penilaian 
-```
+
 
 
 
@@ -10274,12 +9814,12 @@ Elemen Penilaian
 
 
 
-```
+
 SOP penerapan kewaspadaan standar seperti Penggunaan APD, pengelolaan Linen, penempatan pasien, pengelolahan limbah, Dekontamina si peralatan perawatan pasien dengan benar dll 
 Dokumen Bukti penerapan kewaspadaan standar berdasarkan regulasi yang telah ditetapkan di Puskesmas 
 Pengamatan surveior terhadap pelaksanakan penerapan kewaspadaan standar sesuai regulasi yang ditetapkan 
 Penggalian informasi terkait proses penerapan kewaspadaan standar 
-```
+
 
 
 
@@ -10295,7 +9835,7 @@ Penggalian informasi terkait proses dan pelaksanaan kerjasama dengan pihak ketig
 ### Kriteria 5.5.4 Puskesmas melakukan upaya kebersihan tangan sesuai standar. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Puskesmas melakukan edukasi dan menyediakan sarana edukasi untuk kebersihan tangan bagi pengunjung dan petugas puskesmas. 
@@ -10307,7 +9847,7 @@ b. Puskesmas wajib menyediakan sarana dan prasarana untuk melakukan kebersihan t
 b) Penanggung jawab PPI melakukan evaluasi dan tindaklanjut penerapan PPI di Puskesmas secara periodik sesuai dengan ketentuan yang ditetapkan. 
  
 Elemen Penilaian 
-```
+
 
 
 
@@ -10315,11 +9855,11 @@ Elemen Penilaian
 
 
 
-```
+
 Dokumen edukasi kebersihan tangan kepada karyawan Puskesmas, pasien, dan keluarga pasien seperti penyediaan media edukasi leflet,video dll, foto2 edukasi, daftar hadir dan undangan saat melakukan edukasi jika ada
  
 Penggalian informasi tentang pelaksanaan edukasi kebersihan tangan kepada petugas Puskesmas dan pasien 
-```
+
 
 
 
@@ -10327,9 +9867,9 @@ Penggalian informasi tentang pelaksanaan edukasi kebersihan tangan kepada petuga
 
 
 
-```
+
 Pengamatan surveior terhadap tersedianya perlengkapan dan peralatan kebersihan tangan seperti wastafel, ketersediaan air, handrub, tisu dll 
-```
+
 
 
 
@@ -10338,7 +9878,7 @@ c) Dilakukan evaluasi dan tindak lanjut terhadap pelaksanaan kebersihan tangan s
 
 
 
-```
+
 1. dokumen audit kebersihan tangan 
 
 
@@ -10347,14 +9887,14 @@ c) Dilakukan evaluasi dan tindak lanjut terhadap pelaksanaan kebersihan tangan s
 Penggalian informasi terkait pelaksanaan evaluasi kebersihan tangan 
  
  
-```
+
 
 
 
 ### Kriteria 5.5.5 Dilakukan upaya pencegahan penularan infeksi dengan penerapan kewaspadaan berdasar transmisi dalam penyelenggaraan pelayanan pasien yang dapat ditularkan melalui transmisi. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Program PPI dalam kewaspadaan isolasi terdiri atas kewaspadaan standar dan kewaspadaan berdasarkan transmisi. Kewaspadaan berdasar transmisi meliputi kewaspadaan terhadap penularan melalui kontak, droplet, dan air borne. 
@@ -10368,14 +9908,14 @@ d. Untuk mencegah penularan airborne disease, perlu dilakukan identifikasi pasie
 e. Untuk pencegahan penularan transmisi airborne, ditetapkan alur dan SOP pengelolaan pasien sesuai dengan ketentuan. 
 
 Elemen Penilaian 
-```
+
 
 
 
 #### a) Dilakukan identifikasi penyakit infeksi yang ditularkan melalui transmisi airborne dan prosedur atau tindakan yang dilayani di Puskesmas yang menimbulkan aerosolisasi serta upaya pencegahan penularan infeksi melalui transmisi airborne dengan pemakaian APD, penataan ruang periksa, penempatan pasien, ataupun transfer pasien sesuai dengan regulasi yang disusun (R, O, W)
 
 
-```
+
 
 1. SOP / alur pemisahan pelayanan Pasien untuk mencegah terjadinya transmisi 
 
@@ -10384,7 +9924,7 @@ Elemen Penilaian
  
 pengamatan surveior terhadap proses pemisahan pasien untuk mencegah terjadinya transmisi penularan sesuai dengan regulasi dan penerapan prosedur pelayanan untuk mencegah transmisi 
 Penggalian informasi terkait proses pemisahan pelayanan pasien dan penerapan prosedur pelayanan untuk mencegah terjadinya transmisi 
-```
+
 
 
 
@@ -10392,7 +9932,7 @@ Penggalian informasi terkait proses pemisahan pelayanan pasien dan penerapan pro
 
 
 
-```
+
 1. Dokumen bukti evaluasi penerapan kewaspadaan berdasarkan transmisi 
 
 
@@ -10402,14 +9942,14 @@ Penggalian informasi terkait proses monitoring dan evaluasi penerapan kewaspadaa
  
  
 	f. 	
-```
+
 
 
 
 ### Kriteria 5.5.6 Ditetapkan dan dilakukan proses untuk menangani outbreak infeksi, baik di Puskesmas maupun di wilayah kerja Puskesmas. 
 
 
-```
+
 POKOK PIKIRAN: 
 
 a. Puskesmas menetapkan kebijakan tentang outbreak penanggulangan sesuai dengan wewenangnya untuk menjamin pelindungan kepada petugas, pengunjung, dan lingkungan pasien. 
@@ -10423,7 +9963,7 @@ b. Kriteria outbreak infeksi terkait dengan pelayanan kesehatan di Puskesmas ada
 b) Dalam keadaan outbreak, disusun dan diterapkan panduan, protokol kesehatan, dan prosedur yang sesuai untuk mencegah penularan penyakit infeksi. 
  
 Elemen Penilaian 
-```
+
 
 
 
@@ -10431,37 +9971,16 @@ Elemen Penilaian
 
 
 
-```
+
 Dokumen data kasus outbreak yang terjadi di Puskesmas dan wilayah kerja Puskesmas 
  
 Penggalian informasi terkait proses pengumpulan data outbreak kepada petugas Puskesmas, Dinkes Kabupaten/kota dan lintas sektor 
-```
 
 
 
-#### b) Jika terjadi outbreak infeksi, dilakukan penanggulangan sesuai dengan kebijakan, panduan, protokol kesehatan, dan prosedur yang disusun serta dilakukan evaluasi dan tindak lanjut terhadap pelaksanaan penanggulangan sesuai dengan regulasi yang disusun (D, W) \
 
+#### b) Jika terjadi outbreak infeksi, dilakukan penanggulangan sesuai dengan kebijakan, panduan, protokol kesehatan, dan prosedur yang disusun serta dilakukan evaluasi dan tindak lanjut terhadap pelaksanaan penanggulangan sesuai dengan regulasi yang disusun (D, W) 
 
-
-```
 Dokumen penanganan kejadian outbreak di Puskesmas 
  
 Penggalian informasi terkait dengan kejadian KLB kepada petugas Puskesmas, Dinkes Kabupaten/kota dan lintas sektor 
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
