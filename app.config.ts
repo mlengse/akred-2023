@@ -8,7 +8,7 @@ export default defineAppConfig({
       github: 'nuxt-themes/docus'
     },
     aside: {
-      level: 0,
+      level: 1,
       exclude: []
     },
     header: {

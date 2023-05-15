@@ -1,9 +1,312 @@
+# INSTRUMEN PENILAIAN AKREDITASI PUSKESMAS 
 - :badge[R] 
 - :badge{type='success'}[D] 
 - :badge{type='warning'}[W] 
 - :badge{type='danger'}[O] 
 - :badge{type='secondary'}[S] 
+## TAHUN 2023 
 
+Referensi :
+- KMK No.HK.01.07-MENKES-165-2023 Tentang Standar Akreditasi PUSKESMAS 
+- Kepdirjen No. HK.02.02/D/487/2023 
+
+# BAB I KEPEMIMPINAN DAN MANAJEMEN PUSKESMAS (KMP)
+
+## Standar 1.1 Perencanaan dan kemudahan akses bagi pengguna layanan 
+
+Perencanaan Pusat Kesehatan Masyarakat (Puskesmas) dilakukan secara terpadu yang berbasis wilayah kerja Puskesmas bersama dengan lintas program dan lintas sektor sesuai dengan ketentuan peraturan perundang-undangan serta dalam pelaksanaan kegiatan harus memperhatikan kemudahan akses pengguna layanan. 
+
+Perencanaan Puskesmas dan jenis-jenis pelayanan yang disediakan mempertimbangkan visi, misi, tujuan, tata nilai, hasil analisis kebutuhan dan harapan masyarakat, hasil analisis peluang pengembangan pelayanan, hasil analisis risiko pelayanan, dan hasil analisis data kinerja serta umpan balik dari dinas kesehatan daerah kabupaten/kota. 
+
+Puskesmas mudah diakses oleh pengguna layanan untuk mendapat pelayanan sesuai kebutuhan, mendapat informasi tentang pelayanan, dan untuk menyampaikan umpan balik serta mendapatkan dukungan dari lintas program dan lintas sektor. 
+
+### Kriteria 1.1.1 Puskesmas wajib menyediakan jenis-jenis pelayanan yang ditetapkan berdasarkan visi, misi, tujuan, tata nilai, hasil analisis kebutuhan dan harapan masyarakat, hasil analisis peluang pengembangan pelayanan, hasil analisis risiko pelayanan, hasil analisis data kinerja, dan ketentuan peraturan perundang-undangan yang dituangkan dalam perencanaan. 
+
+Pokok Pikiran 
+
+a) Puskesmas sebagai unit pelaksana teknis daerah bidang kesehatan yang bersifat fungsional dan unit layanan yang bekerja profesional harus memiliki visi, misi, tujuan dan tata nilai sesuai ketentuan yang berlaku yang sejalan dengan visi, misi presiden dan pemerintah daerah. 
+
+b) Puskesmas wajib menyediakan pelayanan sesuai dengan visi, misi, tujuan, tata nilai, hasil analisis kebutuhan dan harapan masyarakat, hasil analisis peluang pengembangan pelayanan, hasil analisis risiko pelayanan, hasil analisis data kinerja, dan ketentuan peraturan perundang-undangan. 
+
+c) Untuk mendapatkan hasil analisis kebutuhan dan harapan masyarakat perlu dilakukan analisis situasi data kinerja Puskesmas dan data status kesehatan masyarakat di wilayah kerja termasuk hasil pelaksanaan PIS-PK yang disusun secara terpadu yang berbasis wilayah kerja Puskesmas. 
+
+d) Jenis data kinerja Puskesmas dan data status kesehatan masyarakat di wilayah kerja serta tahapan analisis merujuk pada ketentuan peraturan perundang-undangan yang mengatur tentang manajemen Puskesmas dan sistem informasi Puskesmas. 
+
+e) Kebutuhan dan harapan masyarakat  perihal  pelayanan kesehatan tidak sama antara daerah satu dengan daerah lain. Prioritas masalah kesehatan dapat berbeda antardaerah. Oleh karena itu, perlu dilakukan identifikasi dan analisis peluang pengembangan pelayanan Puskesmas serta perbaikan mutu dan kinerja. 
+
+f) Dalam penyelenggaraan pelayanan, baik UKM, UKP, laboratorium, dan kefarmasian, risiko yang pernah terjadi maupun berpotensi terjadi perlu diidentifikasi, dianalisis, dan dikelola agar pelayanan yang  disediakan aman bagi masyarakat, petugas, dan lingkungan. 
+
+g) Hasil analisis risiko pelayanan harus dipertimbangkan dalam proses perencanaan, sehingga upaya pencegahan dan mitigasi risiko sudah direncanakan sejak awal serta disediakan sumber daya  yang memadai untuk pencegahan dan mitigasi risiko tersebut. 
+
+h) Hasil identifikasi dan analisis untuk menetapkan jenis pelayanan dan penyusunan perencanaan Puskesmas terdiri atas: 
+
+    a) hasil identifikasi  dan  analisis kebutuhan dan harapan masyarakat, 
+
+    b) hasil identifikasi dan analisis peluang pengembangan pelayanan, dan 
+
+    c) hasil identifikasi dan analisis risiko pelayanan, baik KMP, UKM, maupun UKP, laboratorium, dan kefarmasian, termasuk risiko terkait bangunan, prasarana, dan peralatan Puskesmas. 
+
+i) Agar Puskesmas dapat mengelola upaya kesehatan dengan baik dan berkesinambungan dalam mencapai tujuannya, Puskesmas harus menyusun 
+
+1. rencana kegiatan untuk periode 5 (lima) tahunan yang selanjutnya akan dirinci lagi ke dalam
+2. rencana  tahunan Puskesmas yang berupa 
+    1. rencana usulan kegiatan (RUK) dan 
+    2. rencana pelaksanaan kegiatan (RPK) sesuai siklus perencanaan anggaran daerah. 
+
+j) Perencanaan Puskesmas dilakukan secara terpadu, baik KMP, upaya kesehatan masyarakat (UKM), upaya kesehatan perorangan (UKP), laboratorium, dan kefarmasian, serta disusun bersama dengan sektor terkait dan masyarakat. 
+
+k) Rencana usulan kegiatan (RUK) disusun secara terintegrasi oleh tim manajemen Puskesmas yang akan dibahas dalam musrenbang desa dan musrenbang kecamatan untuk kemudian diusulkan ke dinas kesehatan daerah kabupaten/kota. 
+
+l) Penyusunan rencana pelaksanaan kegiatan (RPK) tahunan dilakukan berdasarkan: 
+
+    (1) alokasi anggaran sesuai dokumen pelaksanaan anggaran (DPA) yang disetujui oleh dinas kesehatan daerah kabupaten/kota; 
+
+    (2) RUK yang diusulkan, dan 
+
+    (3) situasi pada saat penyusunan RPK tahunan.
+
+    (4) RPK tahunan dirinci menjadi RPK bulanan bersama target pencapaiannya dan direncanakan kegiatan pengawasan dan pengendaliannya. 
+
+m) Penyusunan rencana pelaksanaan kegiatan bulanan dilakukan berdasarkan hasil perbaikan proses pelaksanaan kegiatan dan hasil hasil pencapaian terhadap indikator kinerja yang ditetapkan. 
+
+n) Rencana, baik rencana lima tahunan dan RPK dimungkinkan untuk diubah/disesuaikan dengan kebutuhan saat itu apabila dalam hasil analisis pengawasan dan pengendalian kegiatan dijumpai kondisi tertentu, termasuk  perubahan  kebijakan sesuai ketentuan peraturan perundang-undangan. 
+
+o) Revisi terhadap rencana harus dilakukan dengan alasan yang tepat sebagai upaya pencapaian yang optimal dari kinerja Puskesmas. 
+
+p) Untuk Puskesmas Badan Layanan Umum Daerah (BLUD), penyusunan rencana lima tahunan dan rencana tahunan harus sesuai dengan ketentuan peraturan perundang-undangan terkait BLUD. 
+
+Elemen Penilaian
+ a) Ditetapkan visi, misi, tujuan, dan tata nilai Puskesmas yang menjadi acuan dalam penyelenggaraan Puskesmas mulai dari perencanaan, pelaksanaan kegiatan hingga evaluasi kinerja Puskesmas (R).  
+
+1. SK tentang Penetapan Visi, Misi, Tujuan, dan Tata Nilai Puskesmas. 
+
+Catatan: 
+jika kebijakan daerah menyatakan bahwa penetapan visi dan misi hanya oleh kepala daerah, maka kepala Puskesmas hanya menetapkan tujuan dan tata nilai. 
+ 
+  b) Ditetapkan jenis-jenis pelayanan yang disediakan berdasarkan hasil identifikasi dan analisis sesuai dengan ketentuan yang berlaku (R, D, W).
+
+1. SK tentang Penetapan Jenis-Jenis  Pelayanan Puskesmas. 
+
+1. Hasil identifikasi dan analisis yang mendasari penetapan jenis- jenis pelayanan, khususnya untuk jenis pelayanan yang bersifat pengembangan, baik UKM maupun UKP.
+
+Kepala Puskesmas dan KTU: penggalian informasi terkait proses identifikasi dan analisis yang mendasari penetapan jenis- jenis pelayanan.  
+
+ c) Rencana lima tahunan Puskesmas disusun dengan melibatkan lintas program dan lintas sektor berdasarkan pada rencana strategis dinas kesehatan daerah kabupaten/kota (R, D, W).  
+
+1. Rencana lima tahunan Puskesmas. 
+1. Bukti pertemuan penyusunan rencana lima tahunan bersama lintas program dan lintas sektor: minimal daftar hadir dan notulen yang disertai dengan foto kegiatan. 
+
+Catatan: 
+berlaku untuk rencana lima tahunan yang disusun dalam 2 tahun terakhir dari saat survei akreditasi dilaksanakan.
+
+Kepala Puskesmas, KTU dan tim manajemen Puskesmas: Penggalian informasi terkait proses penyusunan rencana lima tahunan.  
+ 
+  d) Rencana usulan kegiatan (RUK) disusun dengan melibatkan lintas program dan lintas sektor berdasarkan rencana lima tahunan Puskesmas, hasil analisis kebutuhan dan harapan masyarakat, dan hasil analisis data kinerja (R, D, W). 
+
+1. Rencana usulan kegiatan (RUK) tahun n (dan n+1 disesuaikan dengan saat dilangsungkannya survei akreditasi). 
+
+2. Rencana lima tahunan Puskesmas. 
+
+1. Hasil analisis kebutuhan dan harapan masyarakat. 
+
+2. Hasil analisis data kinerja. 
+
+3. Bukti pertemuan penyusunan RUK bersama lintas program dan lintas sektor, minimal melampirkan daftar hadir dan notulen yang disertai dengan foto kegiatan. 
+ 
+Kepala Puskesmas, KTU dan tim manajemen Puskesmas: penggalian informasi terkait proses penyusunan RUK. 
+
+ e) Rencana pelaksanaan kegiatan (RPK) tahunan Puskesmas disusun bersama lintas program sesuai dengan alokasi anggaran yang ditetapkan oleh dinas kesehatan daerah kabupaten/kota (R, D, W).
+
+1. Rencana pelaksanaan kegiatan (RPK) tahunan tahun n.
+1. Bukti pertemuan penyusunan RPK bersama lintas program, minimal melampirkan daftar hadir dan notulen yang diserta dengan foto kegiatan. 
+ 
+Kepala Puskesmas, KTU dan tim manajemen Puskesmas: penggalian informasi terkait proses penyusunan RPK tahunan. 
+
+ f) Rencana pelaksanaan kegiatan bulanan disusun sesuai dengan rencana pelaksanaan kegiatan tahunan serta hasil pemantauan dan capaian kinerja bulanan (R, D, W).  
+
+1. Rencana pelaksanaan kegiatan (RPK) bulanan.  
+
+1. Hasil pemantauan dan capaian kinerja bulanan. 
+
+2. Bukti pertemuan penyusunan RPK bulanan, minimal melampirkan daftar hadir dan notulen yang diserta dengan foto kegiatan. 
+ 
+Kepala Puskesmas, KTU dan tim manajemen Puskesmas: penggalian informasi terkait proses penyusunan RPK bulanan. 
+ 
+ g) Apabila ada perubahan kebijakan pemerintah dan/atau pemerintah daerah, dilakukan revisi perencanaan sesuai kebijakan yang ditetapkan (R, D, W).  
+
+Rencana lima tahunan dan/atau 
+Rencana Pelaksanaan Kegiatan (RPK) revisi. 
+Bukti penyusunan revisi perencanaan, minimal melampirkan daftar hadir dan notulen yang diserta dengan foto kegiatan. 
+ 
+Kepala Puskesmas, KTU dan tim manajemen Puskesmas: penggalian informasi terkait proses revisi perencanaan. 
+
+### Kriteria 1.1.2 Masyarakat sebagai penerima manfaat layanan lintas program dan lintas sektor mendapatkan kemudahan akses informasi tentang hak dan kewajiban pasien, jenis-jenis pelayanan, dan kegiatan-kegiatan Puskesmas serta akses terhadap pelayanan dan akses penyampaian umpan balik 
+
+Pokok Pikiran 
+
+a) Puskesmas sebagai fasilitas kesehatan tingkat pertama (FKTP) wajib menyediakan pelayanan kesehatan sesuai dengan ketentuan peraturan perundang-undangan dengan memperhatikan kebutuhan dan harapan masyarakat. 
+
+b) puskesmas harus mudah diakses oleh  masyarakat, baik informasi, pelaksana maupun pelayanan, ketika masyarakat membutuhkan pelayanan preventif, promotif, kuratif, dan/atau rehabilitatif sesuai dengan kemampuan Puskesmas. 
+
+c) Puskesmas harus melakukan identifikasi dan menyampaikan informasi tentang hak dan kewajiban pasien sesuai dengan ketentuan peraturan perundang- undangan, jenis-jenis pelayanan yang dilengkapi dengan jadwal pelaksanaannya kepada pasien/pengguna layanan. 
+
+Pasien juga diberikan informasi tentang kewajiban mereka untuk memberikan informasi yang akurat kepada petugas dan menghormati hak-hak petugas. 
+
+Yang dimaksud dengan pasien adalah setiap orang yang melakukan  konsultasi masalah kesehatannya untuk memperoleh pelayanan kesehatan yang diperlukan baik secara langsung maupun tidak langsung  di  fasilitas pelayanan kesehatan. 
+
+d) Dalam memberikan asuhan, petugas harus menghormati hak-hak pasien yang telah ditetapkan. 
+
+Oleh karena itu, seluruh petugas diberikan sosialisasi tentang regulasi dan perannya dalam implementasi pemenuhan hak dan kewajiban pasien untuk berpartisipasi dalam proses asuhannya. 
+
+e) Pelayanan yang disediakan oleh Puskesmas dan jaringannya perlu diketahui oleh masyarakat sebagai pengguna layanan, lintas program dan sektor terkait untuk meningkatkan kerja sama dan saling memberi dukungan dalam penyelenggaraan upaya kesehatan dan upaya lain yang terkait dengan kesehatan dan untuk mengupayakan pembangunan berwawasan kesehatan. 
+
+Yang dimaksud dengan pengguna layanan adalah individu yang menerima manfaat layanan, baik layanan kesehatan perseorangan maupun layanan 
+kesehatan masyarakat. 
+
+f) Untuk memudahkan penyampaian informasi kepada masyarakat dalam upaya memudahkan  akses  terhadap pelayanan, dapat digunakan berbagai strategi komunikasi, antara lain dengan menggunakan bahasa yang sederhana dan mudah dimengerti, memanfaatkan teknologi informasi yang dikenal oleh masyarakat, dan memperhatikan tata nilai budaya yang ada. 
+
+Penyampaian informasi dapat dilakukan melalui berbagai media yang dikenal oleh masyarakat, seperti papan pengumuman, penanda arah, media cetak, telepon, short message service (sms), media elektronik, media sosial, atau internet. 
+
+g) Mekanisme untuk menerima umpan balik terkait kemudahan akses dan usulan perbaikan terhadap pelayanan dari pengguna layanan diperlukan untuk perbaikan sistem pelayanan dan penyelenggaraan upaya Puskesmas. 
+
+h) Tersedia mekanisme untuk menyelesaikan aduan/keluhan pengguna layanan yang terdokumentasi dengan aturan yang telah ditetapkan dan dapat diakses oleh publik. 
+
+i) Kepuasan pengguna layanan adalah hasil  pendapat dan penilaian pengguna layanan terhadap kinerja pelayanan yang diberikan oleh Puskesmas, sedangkan kepuasan pasien adalah hasil pendapat dan penilaian pasien terhadap kinerja pelayanan yang diberikan oleh Puskesmas. 
+
+Kepuasan pengguna layanan/pasien dapat dicapai apabila pelayanan yang diberikan sesuai atau melampaui harapan pengguna layanan/pasien. 
+
+Untuk itu, perlu dilakukan penilaian kepuasan pengguna layanan/pasien secara berkala serta ditindaklanjuti. 
+ 
+Elemen Penilaian
+
+
+  a) Ditetapkan kebijakan tentang hak dan kewajiban pasien (R).  
+
+1. SK tentang Penetapan Hak dan Kewajiban Pasien. 
+
+ b) Dilakukan sosialisasi tentang hak dan kewajiban pasien serta jenis- jenis pelayanan yang disediakan oleh Puskesmas kepada pengguna layanan dan kepada petugas dengan menggunakan strategi komunikasi yang ditetapkan Puskesmas (R, D, O, W).  
+
+1. SK tentang Media Komunikasi dan Koordinasi 
+1. Bukti sosialisasi hak dan kewajiban pasien. 
+
+2. Bukti sosialisasi jenis-jenis pelayanan Puskesmas, sesuai dengan media komunikasi yang ditetapkan. 
+Pengamatan surveior terhadap: 
+
+1. Media informasi tentang hak dan kewajiban pasien. 
+
+
+2. Media informasi tentang jenis- jenis pelayanan Puskesmas. 
+
+1. PJ UKP: Penggalian  	informasi 
+terkait proses sosialisasi hak dan kewajiban pasien. 
+
+2. KTU, PJ UKM dan PJ UKP:  penggalian informasi terkait proses sosialisasi jenis-jenis pelayanan Puskesmas. 
+
+
+ c) Dilakukan evaluasi dan tindak lanjut kepatuhan petugas dalam implementasi pemenuhan hak dan kewajiban pasien, dan hasil sosialisasi jenis-jenis pelayanan yang disediakan oleh Puskesmas kepada pengguna layanan (D, O, W). 
+
+1. Bukti evaluasi kepatuhan petugas dalam implementasi hak dan kewajiban pasien.
+
+2. Bukti evaluasi hasil sosialisasi jenis-jenis pelayanan Puskesmas serta rencana tindak lanjutnya. 
+
+3. Bukti hasil tindak lanjut. 
+
+Pengamatan surveior terhadap kepatuhan petugas dalam implementasi pemenuhan hak dan kewajiban pasien serta rencana tindak lanjutnya.
+
+1. PJ UKP:  penggalian informasi terkait evaluasi kepatuhan petugas dalam implementasi hak dan kewajiban pasien dan tindak lanjutnya. 
+
+2. KTU, PJ UKM dan PJ UKP:  penggalian informasi terkait proses evaluasi hasil sosialisasi jenis-jenis pelayanan Puskesmas 
+serta tindak lanjutnya. 
+ 
+ d) Dilakukan upaya untuk memperoleh umpan balik pengguna layanan dan pengukuran kepuasan pasien serta penanganan aduan/keluhan dari pengguna layanan maupun tindak lanjutnya yang didokumentasikan sesuai dengan aturan yang telah ditetapkan dan dapat diakses oleh publik (R,D,O,W) 
+
+1. SK tentang Pengelolaan Umpan Balik dari Pengguna Layanan. 
+
+2. SOP Pengelolaan Umpan Balik dari Pengguna Layanan. 
+
+3. SOP Pengukuran Kepuasan Pasien. 
+
+4. SOP Penanganan Aduan/Keluhan dari Pengguna Layanan. 
+1. Bukti umpan balik pengguna layanan yang diperoleh secara berkala tindak lanjutnya. 
+
+2. Bukti pengukuran kepuasan pasien (termasuk dapat menggunakan pengukuran INM Kepuasan Pasien) dan tindak lanjutnya. 
+
+3. Bukti penanganan aduan/keluhan dari pengguna layanan dan tindak lanjutnya. 
+Pengamatan surveior terhadap bentuk dan proses upaya memperoleh umpan balik pengguna layanan, pengukuran kepuasan pasien serta penanganan aduan/keluhan dari pengguna layanan dan tindak lanjutnya. 
+
+Surveior mengamati apakah hasil pengelolaan dan tindak lanjut hal- hal tersebut dapat diakses oleh publik. 
+
+PJ Mutu dan petugas yang ditunjuk: Penggalian informasi terkait proses memperoleh umpan balik pengguna layanan, pengukuran kepuasan pasien serta penanganan aduan/keluhan dari pengguna layanan dan tindak lanjutnya. 
+ 
+## Standar 1.2 Tata kelola organisasi 
+
+Tata kelola organisasi Puskesmas dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan. 
+
+Tata kelola organisasi Puskesmas meliputi struktur organisasi, pengendalian dokumen, pengelolaan jaringan pelayanan dan jejaring, serta manajemen data dan informasi. 
+
+### Kriteria 1.2.1 Struktur organisasi ditetapkan dengan kejelasan tugas, wewenang, tanggung jawab, tata hubungan kerja, dan persyaratan jabatan 
+
+Pokok Pikiran 
+
+a) Agar dapat menjalankan tugas pokok dan fungsi organisasi, perlu disusun struktur organisasi Puskesmas yang ditetapkan sesuai dengan ketentuan peraturan perundang-undangan. 
+
+b) Untuk tiap jabatan yang ada dalam struktur organisasi yang telah ditetapkan perlu ada kejelasan tugas, wewenang, tanggung jawab, dan persyaratan jabatan. 
+
+c) Perlu dilakukan pengaturan terhadap tata hubungan kerja di dalam struktur organisasi yang ditetapkan. 
+
+d) Pengisian jabatan dalam struktur organisasi tersebut dilaksanakan berdasarkan persyaratan jabatan oleh kepala Puskesmas dengan menetapkan penanggung jawab masing-masing upaya. 
+
+e) Efektivitas struktur dan pengisian jabatan perlu dikaji ulang secara periodik oleh Puskesmas untuk menyempurnakan struktur yang ada dan efektivitas organisasi agar sesuai dengan perkembangan dan kebutuhan. 
+
+f) Puskesmas dalam menjalankan tugas pokok dan fungsinya harus mengikuti kode etik perilaku (code of conduct) yang berlaku untuk seluruh pegawai yang bekerja di Puskesmas dan ditetapkan oleh kepala Puskesmas. 
+
+Kode etik perilaku yang ditetapkan mencerminkan visi, misi, tujuan, dan tata nilai Puskesmas serta budaya keselamatan. 
+
+Kode etik perilaku harus disosialisasikan kepada seluruh pegawai Puskesmas. 
+
+Evaluasi terhadap pelaksanaan kode etik perilaku dilakukan sekurang-kurangnya setahun sekali. 
+
+Evaluasi dapat dilakukan dengan metode penilaian kinerja, termasuk penilaian perilaku pegawai yang didasarkan baik perilaku yang sesuai dengan tata nilai maupun perilaku yang sesuai dengan kode etik. 
+
+Hasil evaluasi tersebut ditindaklanjuti dengan langkah-langkah agar pelaksanaan kode etik perilaku pegawai semakin optimal. 
+ 
+g) Sebagai wujud akuntabilitas dalam penyelenggaraan pelayanan di Puskesmas, perlu ditetapkan kebijakan dan prosedur pendelegasian wewenang dari kepala Puskesmas kepada penanggung jawab upaya, dari penanggung jawab upaya kepada koordinator pelayanan, dan dari koordinator pelayanan kepada pelaksana kegiatan kepada pelaksana kegiatan apabila meninggalkan tugas atau terdapat kekosongan pengisian jabatan yang ditetapkan oleh kepala Puskesmas sesuai dengan peraturan perundang- undangan. Pendelegasian wewenang yang dimaksud adalah pendelegasian manajerial. 
+ 
+ELEMEN PENILAIAN 
+
+ a) Kepala Puskesmas menetapkan penanggung jawab dan koordinator pelayanan Puskesmas sesuai struktur organisasi yang ditetapkan (R).  
+
+1. SK tentang Penetapan Penanggung Jawab dan Koordinator Pelayanan. 
+
+ b) Ditetapkan kode etik perilaku yang berlaku untuk seluruh pegawai yang bekerja di Puskesmas serta dilakukan evaluasi terhadap pelaksanaannya dan dilakukan tindak lanjutnya (R, D, W). 
+
+1. SK tentang Penetapan Kode Etik Perilaku Pegawai Puskesmas. 
+
+Catatan: tata nilai dan budaya keselamatan dapat menjadi bagian dari kode etik perilaku. 
+
+1. Hasil evaluasi pelaksanaan kode etik perilaku pegawai. 
+
+2. Tindak lanjut hasil evaluasi pelaksanaan kode etik perilaku.
+
+Catatan: 
+terintegrasi dengan penilaian kinerja pegawai. 
+ 
+Kepala Puskesmas, KTU dan para PJ: 
+
+penggalian informasi terkait proses dan hasil evaluasi pelaksanaan kode etik perilaku pegawai serta tindak lanjutnya.
+
+
+ c) Terdapat kebijakan dan prosedur yang jelas dalam pendelegasian wewenang manajerial dari kepala Puskesmas kepada penanggung jawab upaya, dari penanggung jawab upaya kepada koordinator pelayanan, dan dari koordinator  pelayanan kepada pelaksana kegiatan (R, D).  
+
+1. SK tentang Pendelegasian Wewenang Manajerial. 
+
+Catatan: 
+SK Pendelegasian Wewenang Manajerial dapat terintegrasi dengan SK Pendelegasian Wewenang Klinis. 
+
+
+2. SOP tentang Pendelegasian  Wewenang Manajerial. 
+1. Surat pendelegasian wewenang manajerial, jika ada pendelegasian wewenang manajerial. 
+ 
 ### Kriteria 1.2.2 Kebijakan, pedoman/panduan, prosedur, dan kerangka acuan terkait pelaksanaan kegiatan, disusun, didokumentasikan, dan dikendalikan serta didasarkan pada ketentuan peraturan perundang-undangan, termasuk pengendalian dokumen bukti pelaksanaan kegiatan. 
 
 Pokok Pikiran 
