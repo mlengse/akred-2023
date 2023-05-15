@@ -12,7 +12,9 @@ export default defineAppConfig({
       exclude: []
     },
     header: {
-      logo: true
+      logo: false,
+      title: 'Akred 2023',
+      showLinkIcon: true
     },
     footer: {
       iconLinks: [
