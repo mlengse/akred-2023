@@ -3,3 +3,8 @@
 - :badge{type='warning'}[W] 
 - :badge{type='danger'}[O] 
 - :badge{type='secondary'}[S] 
+- :badge[:icon{name="simple-icons:rollsroyce"}]
+- :badge{type='success'}[:icon{name='mingcute:dogecoin-doge-fill'}] 
+- :badge{type='danger'}[:icon{name='cib:opera'}]
+- :badge{type='warning'}[:icon{name='simple-icons:webflow'}]
+- :badge{type='secondary'}[:icon{name='simpke-icons:stripe'}] 
