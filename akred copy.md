@@ -638,7 +638,7 @@ j) Dalam upaya peningkatan kompetensi dari tenaga kesehatan yang memberikan asuh
 
 k) Hasil penilaian kinerja ditindaklanjuti untuk perbaikan kinerja masing-masing pegawai. 
 
-l) Kinerja pegawai dapat dipengaruhi oleh kesejahteraan (well being) dan tingkat kepuasannya, misalnya kepuasan terhadap kepemimpinan organisasi, beban kerja, tim kerja, lingkungan kerja, kompensasi dan lain-lain. Oleh karena itu, perlu dilakukan penilaian tingkat kepuasan pegawai minimal setahun sekali. Hasil analisis terhadap tingkat kepuasan pegawai digunakan untuk melakukan upaya perbaikan. 
+l) Kinerja pegawai dapat dipengaruhi oleh kesejahteraan (*well being*) dan tingkat kepuasannya, misalnya kepuasan terhadap kepemimpinan organisasi, beban kerja, tim kerja, lingkungan kerja, kompensasi dan lain-lain. Oleh karena itu, perlu dilakukan penilaian tingkat kepuasan pegawai minimal setahun sekali. Hasil analisis terhadap tingkat kepuasan pegawai digunakan untuk melakukan upaya perbaikan. 
 Elemen Penilaian 
 
 
