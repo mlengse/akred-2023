@@ -1,9 +1,3 @@
-::code-group
-```bash [Nilai]
-```
-```bash [Kriteria]
-```
-::
 - :badge[:icon{name="simple-icons:rollsroyce"}] 
 - :badge{type='success'}[:icon{name='mingcute:dogecoin-doge-fill'}] 
 - :badge{type='danger'}[:icon{name='cib:opera'}] 
