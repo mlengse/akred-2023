@@ -3,9 +3,8 @@
     <SeoKit />
     <!-- a. Generates browser screenshots for every page -->
     <OgImageScreenshot 
-      :width="712"
-      mask="header, footer"
-      selector="article.page-body"
+      :width="480"
+      :height="480"
     />
     <NuxtPage />
   </AppLayout>
