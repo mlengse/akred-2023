@@ -3,7 +3,6 @@ export default defineAppConfig({
     title: 'Akreditasi 2023',
     description: 'Puskesmas Jayengan. Sahabat menuju sehat.',
     url: process.env.SITE_URL,
-    image: `${process.env.SITE_URL}/preview.png`,
     socials: {
       youtube: '@puskesmasjayengan',
       instagram: 'puskesmasjayengan'
