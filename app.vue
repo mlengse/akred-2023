@@ -1,7 +1,8 @@
 <template>
-  <NuxtLayout>
+  <AppLayout>
     <SeoKit />
+    <!-- a. Generates browser screenshots for every page -->
     <OgImageScreenshot />
     <NuxtPage />
-  </NuxtLayout>
+  </AppLayout>
 </template>
