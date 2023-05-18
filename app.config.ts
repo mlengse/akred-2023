@@ -2,6 +2,7 @@ export default defineAppConfig({
   docus: {
     title: 'Puskesmas Jayengan',
     description: 'Sahabat menuju sehat.',
+    image: '/preview.png',
     socials: {
       youtube: '@puskesmasjayengan',
       instagram: 'puskesmasjayengan'
@@ -16,6 +17,11 @@ export default defineAppConfig({
       showLinkIcon: true
     },
     footer: {
+      credits: {
+        icon: 'IconDocus',
+        text: 'Bukan Demit',
+        href: 'https://github.com/mlengse',
+      },
       iconLinks: [
         {
           href: 'https://pkm-jayengan.surakarta.go.id/',
