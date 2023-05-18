@@ -5,7 +5,7 @@
     <OgImageScreenshot 
       :width="712"
       colorScheme="dark"
-      selector=".page-body"
+      selector="article.page-body"
     />
     <NuxtPage />
   </AppLayout>
