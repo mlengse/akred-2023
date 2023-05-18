@@ -3,7 +3,7 @@ export default defineAppConfig({
     title: 'Puskesmas Jayengan',
     description: 'Sahabat menuju sehat.',
     url:'https://jyg.my.id',
-    image: '/preview.png',
+    image: 'https://jyg.my.id/preview.png',
     socials: {
       youtube: '@puskesmasjayengan',
       instagram: 'puskesmasjayengan'
