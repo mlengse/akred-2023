@@ -4,7 +4,7 @@
     <!-- a. Generates browser screenshots for every page -->
     <OgImageScreenshot 
       :width="712"
-      colorScheme="dark"
+      mask="header, footer"
       selector="article.page-body"
     />
     <NuxtPage />
