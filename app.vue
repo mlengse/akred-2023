@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <NuxtLayout>
     <SeoKit />
     <OgImageScreenshot />
     <NuxtPage />
-  </div>
+  </NuxtLayout>
 </template>
