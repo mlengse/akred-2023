@@ -1,8 +1,7 @@
 export default defineAppConfig({
   docus: {
-    title: 'Akreditasi',
-    description: 'Puskesmas Jayengan.. Sahabat menuju sehat.',
     url: process.env.SITE_URL,
+    image: 'https://jyg.my.id/preview.png',
     socials: {
       youtube: '@puskesmasjayengan',
       instagram: 'puskesmasjayengan'
