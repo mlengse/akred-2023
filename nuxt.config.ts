@@ -7,6 +7,9 @@ export default defineNuxtConfig({
       language: 'id', // prefer more explicit language codes like `en-AU` over `en`
     }
   },
+  linkChecker:{
+    failOn404: true
+  },
   extends: [
     '@nuxt-themes/docus',
     'nuxt-seo-kit'
