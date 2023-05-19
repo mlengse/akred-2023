@@ -1,4 +1,8 @@
 export default defineNuxtConfig({
+  extends: [
+    '@nuxt-themes/docus',
+    'nuxt-seo-kit'
+  ],
   runtimeConfig: {
     public: {
       siteUrl: process.env.SITE_URL,
@@ -7,8 +11,4 @@ export default defineNuxtConfig({
       language: 'id-ID',
     }
   },
-  extends: [
-    '@nuxt-themes/docus',
-    'nuxt-seo-kit'
-  ],
 })
