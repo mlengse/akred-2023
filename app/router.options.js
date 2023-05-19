@@ -21,8 +21,10 @@ export default {
       } else {
         return window.scrollTo(0, el.offsetTop)
       }
+    } else {
+      return window.scrollTo(0, 0)
+
     }
 
-    return { x: 0, y: 0 }
   }
 };
