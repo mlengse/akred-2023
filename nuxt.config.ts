@@ -19,10 +19,15 @@ export default defineNuxtConfig({
     }
   },
   modules: [['@nuxtjs/algolia', {
+    applicationId: process.env.ALGOLIA_APPLICATION_ID,
+    apiKey: process.env.ALGOLIA_API_KEY,
     globalIndex: '',
     lite: true,
     cache: false,
     instantSearch: true,
+    docSearch:{
+      indexName: process.env.ALGOLIA_INDEX_NAME,
+    },
     crawler: {
       apiKey: process.env.ALGOLIA_CRAWLER_KEY,
       indexName: process.env.ALGOLIA_INDEX_NAME,
@@ -30,8 +35,5 @@ export default defineNuxtConfig({
       include: () => true
     },
     recommend: true,
-    docSearch: {
-      indexName: process.env.ALGOLIA_INDEX_NAME,
-    }
   }]],
 })
