@@ -9,6 +9,29 @@ export default defineNuxtConfig({
       siteName: 'Akreditasi 2023',
       siteDescription: 'Puskesmas Jayengan. Sahabat menuju sehat.',
       language: 'id-ID',
+      algolia: {
+        docSearch: {
+          indexName: process.env.ALGOLIA_INDEX_NAME,
+          apiKey: process.env.ALGOLIA_API_KEY,
+          applicationId: process.env.ALGOLIA_APPLICATION_ID
+        }
+      }
     }
   },
+  modules: [['@nuxtjs/algolia', {
+    globalIndex: '',
+    lite: true,
+    cache: false,
+    instantSearch: true,
+    crawler: {
+      apiKey: process.env.ALGOLIA_CRAWLER_KEY,
+      indexName: process.env.ALGOLIA_INDEX_NAME,
+      meta: ['title', 'description'],
+      include: () => true
+    },
+    recommend: true,
+    docSearch: {
+      indexName: process.env.ALGOLIA_INDEX_NAME,
+    }
+  }]],
 })
