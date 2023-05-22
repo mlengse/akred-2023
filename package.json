@@ -5,13 +5,11 @@
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
-    "generate": "nuxi generate",
+    "generate": "nuxi generate && npx pagefind -y --source dist",
     "preview": "nuxi preview",
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@docsearch/css": "^3.3.5",
-    "@docsearch/js": "^3.3.5",
     "@nuxt-themes/docus": "^1.11.1",
     "@nuxt/content": "^2.6.0",
     "@nuxt/eslint-config": "^0.1.1",
@@ -20,6 +18,6 @@
     "nuxt-seo-kit": "^1.3.8"
   },
   "dependencies": {
-    "@nuxtjs/algolia": "^1.7.0"
+    "sass": "^1.52.3"
   }
 }
