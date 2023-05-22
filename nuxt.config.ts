@@ -12,7 +12,7 @@ export default defineNuxtConfig({
       algolia: {
         applicationId: process.env.ALGOLIA_APPLICATION_ID,
         apiKey: process.env.ALGOLIA_API_KEY,
-        // langAttribute: "lang",
+        langAttribute: "lang",
         docSearch: {
           indexName: process.env.ALGOLIA_INDEX_NAME,
         }
