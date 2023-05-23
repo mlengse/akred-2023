@@ -23,19 +23,7 @@ export type TBreadcrumbs = IBreadcrumb[];
 const breadcrumbs = ref<TBreadcrumbs>([
   {
     path: '/',
-    title: 'Instrumen',
-  },
-  {
-    path: '/1',
-    title: 'KMP',
-  },
-  {
-    path: '/1/1',
-    title: 'Perencanaan dan Akses',
-  },
-  {
-    path: '/1/1/1',
-    title: 'Jenis Pelayanan',
+    title: '',
   },
 ]);
 
