@@ -203,10 +203,12 @@ const clearInputTextHandler = () => {
               <p class="font-bold">
                 {{ item.meta.title }}
               </p>
+              <!-- eslint-disable vue/no-v-html -->
               <p
                 class="text-sm"
                 v-html="item.excerpt"
               />
+              <!--eslint-enable-->
             </NuxtLink>
           </li>
         </ul>
