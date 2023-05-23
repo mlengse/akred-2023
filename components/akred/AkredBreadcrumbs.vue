@@ -52,6 +52,8 @@ const generateCrumbs = async () => {
     })
   }
 
+  mbuh.shift()
+
   return mbuh as TBreadcrumbs
   
 }
