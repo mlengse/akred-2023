@@ -64,6 +64,9 @@ onBeforeUnmount(() => {
     </aside>
     <!-- Page Body -->
     <article class="page-body">
+      <ProseH4 id="breadcrumb">
+        <AkredBreadcrumbs />
+      </ProseH4>
       <slot v-if="hasBody" />
       <Alert
         v-else
@@ -76,9 +79,7 @@ onBeforeUnmount(() => {
         <DocsPrevNext />
       </template>
     </article>
-    <ProseH4 id="breadcrumb">
-      <AkredBreadcrumbs />
-    </ProseH4>
+
     <!-- TOC -->
     <div
       v-if="hasToc"
