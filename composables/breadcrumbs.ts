@@ -39,7 +39,7 @@ export function useBreadcrumbs() {
       }))
       .map(({ path, meta }) => {
         // title case string regex
-        console.log(meta)
+        // console.log(meta)
         let title = meta?.breadcrumbTitle || meta?.title
         if (!title) {
           if (path === '/')

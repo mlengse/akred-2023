@@ -1,52 +1,25 @@
 <template>
   <nav>
-    <span v-for="(breadcrumb, index) in breadcrumbs" :key="index">
-      <NuxtLink :to="breadcrumb.path"> 
-        {{ breadcrumb.title }}
-      </NuxtLink>
-      <span v-if="index < breadcrumbs.length - 1">
-        /
+    <ProseStrong>
+      <span v-for="(breadcrumb, index) in breadcrumbs" :key="index">
+        <NuxtLink :to="breadcrumb._path"> 
+          {{ breadcrumb.title }}
+        </NuxtLink>
+        <span v-if="index < breadcrumbs.length - 1">
+          /
+        </span>
       </span>
-    </span>
+    </ProseStrong>
+    <ProseHr></ProseHr>
   </nav>
 </template>
 
-<script setup lang="ts">
+<script setup>
+const {
+  navPageFromPath,
+} = useContentHelpers()
 
-export interface IBreadcrumb {
-  path:   string,
-  title:  string,
-}
+const { navigation } = useContent()
 
-export type TBreadcrumbs = IBreadcrumb[];
-
-const breadcrumbs = ref<TBreadcrumbs>([
-  {
-    path: '/',
-    title: '',
-  },
-]);
-
-const generateCrumbs = async () => {
-  const contentQueryList = useBreadcrumbs().value
-
-  const mbuh = [] 
-
-  for(const aaa of contentQueryList) {
-    const contentQuery = await queryContent().where({ _path: aaa.to }).only(['_path', 'title']).find();
-    mbuh.push({
-      path:  contentQuery[0]._path,
-      title: contentQuery[0].title,
-    })
-  }
-
-  mbuh.shift()
-
-  return mbuh as TBreadcrumbs
-  
-}
-
-onMounted(async () => {
-  breadcrumbs.value = await generateCrumbs();
-});
+const breadcrumbs = useBreadcrumbs().value.map( aaa => navPageFromPath(aaa.to, navigation.value)).filter( e => !!e)
 </script>
