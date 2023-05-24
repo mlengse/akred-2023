@@ -4,6 +4,7 @@ export default defineNuxtConfig({
     'nuxt-seo-kit'
   ],
   modules: [['@nuxthq/ui', {
+    prefix: 'ui',
     global: true
   }]],
   runtimeConfig: {

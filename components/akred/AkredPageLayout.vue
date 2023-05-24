@@ -2,7 +2,7 @@
 DocsPageLayout
   span
     AkredSearch
-    AkredSearchModal
+    //- AkredSearchModal
   ProseHr
   AkredBreadcrumbs
   slot

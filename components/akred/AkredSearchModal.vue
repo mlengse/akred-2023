@@ -15,12 +15,11 @@ const people = [
 const selected = ref([people[3]])
 </script>
 
-<template>
-  <UCommandPalette
+<template lang="pug">
+UiCommandPalette(
     v-model="selected"
     multiple
     nullable
     :groups="[{ key: 'people', commands: people }]"
-    :fuse="{ resultLimit: 6, fuseOptions: { threshold: 0.1 } }"
-  />
+    :fuse="{ resultLimit: 6, fuseOptions: { threshold: 0.1 } }")
 </template>
