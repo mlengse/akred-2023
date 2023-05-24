@@ -34,7 +34,8 @@ export default defineNuxtConfig({
   // },
   ui: {
     global: true,
-    icons: ['all']
+    icons: ['heroicons', 'simple-icons']
+    // icons: ['all']
   },
   typescript: {
     strict: false,
