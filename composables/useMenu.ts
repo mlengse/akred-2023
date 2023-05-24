@@ -1,18 +1,5 @@
-export function useModal() {
+export const useMenu = () => {
+  const { $menu } = useNuxtApp()
 
-  const visible = ref(false)
-  
-  const open = () => {
-    visible.value = true
-  }
-
-  const close = () => {
-    visible.value = false
-  }
-  
-  return {
-    visible,
-    open,
-    close
-  }
+  return $menu
 }
