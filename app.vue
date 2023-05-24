@@ -1,73 +1,8 @@
 <template>
-  <div>
-    <Header />
-
-    <UContainer>
-      <div class="relative grid lg:grid-cols-10 lg:gap-8">
-        <DocsAside class="lg:col-span-2" />
-
-        <div class="relative pt-8 pb-16" :class="[toc ? 'lg:col-span-6' : 'lg:col-span-8']">
-          <DocsPageHeader />
-          <SeoKit />
-
-          <!-- a. Generates browser screenshots for every page -->
-
-          <OgImageStatic />
-
-          <NuxtPage />
-
-          <DocsPageFooter class="mt-12" />
-
-          <hr class="border-gray-200 dark:border-gray-800 my-6">
-
-          <DocsPrevNext />
-
-          <DocsFooter class="mt-16" />
-        </div>
-
-        <DocsToc v-if="toc" class="lg:col-span-2 order-first lg:order-last" />
-      </div>
-    </UContainer>
-
-    <ClientOnly>
-      <DocsSearch />
-    </ClientOnly>
-
-    <UNotifications />
-  </div>
+  <AppLayout>
+    <SeoKit />
+    <!-- a. Generates browser screenshots for every page -->
+    <OgImageStatic />
+    <NuxtPage />
+  </AppLayout>
 </template>
-
-<script setup lang="ts">
-const { toc } = useContent()
-const colorMode = useColorMode()
-
-// Computed
-
-const color = computed(() => colorMode.value === 'dark' ? '#18181b' : 'white')
-
-// Head
-
-useHead({
-  titleTemplate: title => title && title.includes('Akred') ? title : `${title} - Akreditasi`,
-  meta: [
-    { name: 'viewport', content: 'width=device-width, initial-scale=1, maximum-scale=1' },
-    { key: 'theme-color', name: 'theme-color', content: color }
-  ],
-  link: [
-    { rel: 'stylesheet', href: 'https://rsms.me/inter/inter.css' },
-    { rel: 'icon', type: 'image/svg+xml', href: '/icon.svg' }
-  ],
-  htmlAttrs: {
-    lang: 'en'
-  },
-  bodyAttrs: {
-    class: 'antialiased font-sans text-gray-500 dark:text-gray-400 bg-white dark:bg-gray-900'
-  }
-})
-
-// useSeoMeta({
-//   ogImage: '/social-preview.jpg',
-//   twitterImage: '/social-preview.jpg',
-//   twitterCard: 'summary_large_image'
-// })
-</script>

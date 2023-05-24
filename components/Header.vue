@@ -3,7 +3,7 @@
     <UContainer>
       <div class="flex items-center justify-between h-16">
         <div class="flex items-center gap-3">
-          <NuxtLink to="/getting-started" class="flex items-end gap-1.5 font-bold text-xl text-gray-900 dark:text-white">
+          <NuxtLink to="/" class="flex items-end gap-1.5 font-bold text-xl text-gray-900 dark:text-white">
             <Logo class="w-8 h-8 text-primary-500 dark:text-primary-400" />
 
             NuxtLabs<span class="text-primary-500 dark:text-primary-400">UI</span>
