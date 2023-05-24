@@ -1,6 +1,6 @@
 export default defineNuxtConfig({
   extends: [
-    '@nuxt-themes/docus',
+    // '@nuxt-themes/docus',
     'nuxt-seo-kit'
   ],
   runtimeConfig: {
@@ -15,23 +15,23 @@ export default defineNuxtConfig({
   modules: [
     '@nuxthq/ui',
     '@vueuse/nuxt',
-    // '@nuxt/content',
+    '@nuxt/content',
     // '@nuxt/devtools',
     // '@nuxthq/studio',
     // '@nuxtjs/plausible',
     'nuxt-lodash',
     'nuxt-component-meta'
   ],
-  // content: {
-  //   documentDriven: true,
-  //   highlight: {
-  //     theme: {
-  //       light: 'material-lighter',
-  //       dark: 'material-palenight'
-  //     },
-  //     preload: ['json', 'js', 'ts', 'html', 'css', 'vue', 'diff', 'shell', 'markdown', 'yaml', 'bash', 'ini']
-  //   }
-  // },
+  content: {
+    documentDriven: true,
+    highlight: {
+      theme: {
+        light: 'material-lighter',
+        dark: 'material-palenight'
+      },
+      preload: ['json', 'js', 'ts', 'html', 'css', 'vue', 'diff', 'shell', 'markdown', 'yaml', 'bash', 'ini']
+    }
+  },
   ui: {
     global: true,
     icons: ['heroicons', 'simple-icons']
@@ -44,7 +44,7 @@ export default defineNuxtConfig({
   // routeRules: {
   //   '/': { redirect: '/getting-started' }
   // },
-  // generate: {
-  //   routes: ['/getting-started']
-  // }
+  generate: {
+    routes: ['/']
+  }
 })

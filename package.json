@@ -10,6 +10,7 @@
     "lint": "eslint ."
   },
   "devDependencies": {
+    "@headlessui/vue": "^1.7.13",
     "@iconify/json": "^2.2.68",
     "@nuxt-themes/docus": "^1.11.1",
     "@nuxt/content": "^2.6.0",
