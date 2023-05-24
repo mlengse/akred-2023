@@ -10,14 +10,12 @@
         </span>
       </span>
     </ProseStrong>
-    <ProseHr></ProseHr>
+    <ProseHr />
   </nav>
 </template>
 
 <script setup>
-const {
-  navPageFromPath,
-} = useContentHelpers()
+const { navPageFromPath } = useContentHelpers()
 
 const { navigation } = useContent()
 
