@@ -3,10 +3,6 @@ export default defineNuxtConfig({
     '@nuxt-themes/docus',
     'nuxt-seo-kit'
   ],
-  modules: [['@nuxthq/ui', {
-    prefix: 'ui',
-    global: true
-  }]],
   runtimeConfig: {
     public: {
       siteUrl: process.env.SITE_URL,

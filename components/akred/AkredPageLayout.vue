@@ -1,8 +1,6 @@
 <template lang="pug">
 DocsPageLayout
-  span
-    AkredSearch
-    //- AkredSearchModal
+  //- AkredSearch
   ProseHr
   AkredBreadcrumbs
   slot
