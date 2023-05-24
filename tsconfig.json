@@ -5,4 +5,9 @@
     "typeRoots": [ "../node_modules/@types" ]
   },
   "allowJs": true,
+  "vueCompilerOptions": {
+    "plugins": [
+      "@volar/vue-language-plugin-pug"
+    ],
+  }
 }

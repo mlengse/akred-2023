@@ -1,6 +1,9 @@
-<template>
-  <DocsPageLayout>
-    <AkredBreadcrumbs />
-    <slot />
-  </DocsPageLayout>
+<template lang="pug">
+DocsPageLayout
+  span
+    AkredSearch
+    AkredSearchModal
+  ProseHr
+  AkredBreadcrumbs
+  slot
 </template>
