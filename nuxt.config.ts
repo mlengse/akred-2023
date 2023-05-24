@@ -20,7 +20,7 @@ export default defineNuxtConfig({
     // '@nuxthq/studio',
     // '@nuxtjs/plausible',
     'nuxt-lodash',
-    'nuxt-component-meta'
+    // 'nuxt-component-meta'
   ],
   content: {
     documentDriven: true,
@@ -34,8 +34,8 @@ export default defineNuxtConfig({
   },
   ui: {
     global: true,
-    icons: ['heroicons', 'simple-icons']
-    // icons: ['all']
+    // icons: ['heroicons', 'simple-icons']
+    icons: ['all']
   },
   typescript: {
     strict: false,
@@ -44,7 +44,7 @@ export default defineNuxtConfig({
   // routeRules: {
   //   '/': { redirect: '/getting-started' }
   // },
-  generate: {
-    routes: ['/']
-  }
+  // generate: {
+  //   routes: ['/']
+  // }
 })
