@@ -1,4 +1,4 @@
-export function useMenu() {
+export function useModal() {
 
   const visible = ref(false)
   
