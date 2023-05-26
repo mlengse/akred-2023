@@ -20,6 +20,7 @@
       @update:model-value="onSelect"
       @close="isSearchModalOpen = false"
     />
+    <ProseHr />
     <ColorThemeSelect />
   </UModal>
 </template>
