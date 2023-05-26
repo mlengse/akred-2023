@@ -1,8 +1,18 @@
 <script setup lang="ts">
+// import { Dialog, DialogPanel, TransitionRoot } from '@headlessui/vue'
 const { config } = useDocus()
 const { navigation } = useContent()
+const { isSearchModalOpen } = useDocs()
 
 const hasDialog = computed(() => navigation.value?.length > 1 || navigation.value?.[0]?.children?.length)
+const isDialogOpen = ref(false)
+function openDocsSearch () {
+  isDialogOpen.value = false
+
+  setTimeout(() => {
+    isSearchModalOpen.value = true
+  }, 100)
+}
 
 defineProps({
   ...variants
@@ -23,6 +33,14 @@ defineProps({
       </div>
 
       <div class="section right">
+        <UButton
+            color="gray"
+            variant="ghost"
+            class="lg:hidden"
+            icon="i-heroicons-magnifying-glass-20-solid"
+            @click="openDocsSearch"
+          />
+        <!-- <ColorThemeSelect /> -->
         <ThemeSelect />
         <div class="social-icons">
           <AppSocialIcons />

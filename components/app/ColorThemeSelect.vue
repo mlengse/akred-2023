@@ -1,4 +1,6 @@
 <template>
+<!-- <div class="mr-1.5 hidden"> -->
+<div class="mr-1.5">
   <div class="flex items-center shadow-sm">
     <ClientOnly>
       <USelectMenu
@@ -48,6 +50,8 @@
       </USelectMenu>
     </ClientOnly>
   </div>
+
+</div>
 </template>
 
 <script setup lang="ts">

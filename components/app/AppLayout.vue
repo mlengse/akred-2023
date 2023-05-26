@@ -23,6 +23,9 @@ useContentHead(config.value as any)
     <main>
       <slot />
     </main>
+    <ClientOnly>
+      <DocsSearch />
+    </ClientOnly>
     <AppFooter />
   </div>
 </template>
