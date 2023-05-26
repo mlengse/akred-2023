@@ -39,7 +39,7 @@ export default defineNuxtConfig({
     // 'nuxt-component-meta'
   ],
   css: [
-    resolve('./assets/css/main.css')
+    // resolve('./assets/css/main.css')
   ],
   components: [
     {
@@ -68,14 +68,14 @@ export default defineNuxtConfig({
 
   },
   colorMode: {
-    classSuffix: '',
+    classSuffix: 'aa',
     dataValue: 'theme'
   },
   experimental: {
     inlineSSRStyles: false
   },
   ui: {
-    // global: true,
+    global: true,
     // icons: ['heroicons', 'simple-icons']
     icons: ['all']
   },

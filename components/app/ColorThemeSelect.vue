@@ -62,13 +62,15 @@ const appConfig = useAppConfig()
 const colorMode = useColorMode()
 const { isSearchModalOpen } = useDocs()
 
+appConfig.ui.primary = 'green'
+
+appConfig.ui.gray = 'cool'
+
 const primaryCookie = useCookie('primary', { path: '/', default: () => appConfig.ui.primary })
 const grayCookie = useCookie('gray', { path: '/', default: () => appConfig.ui.gray })
 
-onMounted(()=>{
-  appConfig.ui.primary = 'green'
-  appConfig.ui.gray = 'cool'
-})
+// onMounted(()=>{
+// })
 
 watch(primaryCookie, (primary) => {
   appConfig.ui.primary = primary
@@ -120,41 +122,41 @@ ${Object.entries(colors[gray.value.value] || colors.cool).map(([key, value]) => 
 }`
   })
 
+
+// const generateStyle = () => {
+//   primaryCookie.value = 'green'
+//   window.localStorage.setItem('nuxt-ui-root', root.value)
+// }
+
+// onMounted(() => {
+//   generateStyle()
+// })
+
 if (process.client) {
-  // watch(isSearchModalOpen, open => {
-  //   if(open){
-
-  //     console.log(open)
-  //     let aaa = document.querySelector('style#nuxt-ui-colors')
-
-  //     if(aaa){
-  //       console.log('generate')
-
-  //       console.log(aaa)
-  //       appConfig.ui.primary = 'green'
-  //       appConfig.ui.gray = 'cool'
-  //       window.localStorage.setItem('nuxt-ui-root', root.value)
-
-  //     }
-  //   }
-  // })
+  watch(isSearchModalOpen, open => {
+    if(open){
+      // primaryCookie.value = 'green'
+      // primaryOptions.value.find(option => option.value === primaryCookie.value)
+      window.localStorage.setItem('nuxt-ui-root', root.value)
+    }
+  }, { immediate: true })
 
   watch(root, () => {
     window.localStorage.setItem('nuxt-ui-root', root.value)
   }, { immediate: true })
 }
-if (process.server) {
-  useHead({
-    script: [
-      {
-        innerHTML: `
-            if (localStorage.getItem('nuxt-ui-root')) {
-              document.querySelector('style#nuxt-ui-colors').innerHTML = localStorage.getItem('nuxt-ui-root')
-            }`.replace(/\s+/g, ' '),
-        type: 'text/javascript',
-        tagPriority: -1
-      }
-    ]
-  })
-}
+// if (process.server) {
+//   useHead({
+//     script: [
+//       {
+//         innerHTML: `
+//             if (localStorage.getItem('nuxt-ui-root')) {
+//               document.querySelector('style#nuxt-ui-colors').innerHTML = localStorage.getItem('nuxt-ui-root')
+//             }`.replace(/\s+/g, ' '),
+//         type: 'text/javascript',
+//         tagPriority: -1
+//       }
+//     ]
+//   })
+// }
 </script>

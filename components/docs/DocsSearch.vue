@@ -6,6 +6,7 @@
       rounded: 'sm:rounded-lg',
       width: 'sm:max-w-3xl',
       height: 'h-screen sm:h-[28rem]'
+    
     }"
   >
     
@@ -174,3 +175,4 @@ defineShortcuts({
   }
 })
 </script>
+
