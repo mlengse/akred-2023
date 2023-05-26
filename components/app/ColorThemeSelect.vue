@@ -1,9 +1,9 @@
 <template>
 <!-- <div class="mr-1.5 hidden lg:block"> -->
 <!-- <div class="mr-1.5 hidden"> -->
-<div class="mr-1.5 block">
+<div class="ma-20 block">
   <div class="flex items-center shadow-sm">
-    <!-- <ClientOnly> -->
+    <ClientOnly>
       <USelectMenu
         v-model="primary"
         name="primary"
@@ -25,9 +25,9 @@
           {{ option.text }}
         </template>
       </USelectMenu>
-    <!-- </ClientOnly>
+    </ClientOnly>
 
-    <ClientOnly> -->
+    <ClientOnly> 
       <USelectMenu
         v-model="gray"
         name="gray"
@@ -49,7 +49,7 @@
           {{ option.text }}
         </template>
       </USelectMenu>
-    <!-- </ClientOnly> -->
+    </ClientOnly>
   </div>
 
 </div>
@@ -60,9 +60,15 @@ import colors from '#tailwind-config/theme/colors'
 
 const appConfig = useAppConfig()
 const colorMode = useColorMode()
+const { isSearchModalOpen } = useDocs()
 
 const primaryCookie = useCookie('primary', { path: '/', default: () => appConfig.ui.primary })
 const grayCookie = useCookie('gray', { path: '/', default: () => appConfig.ui.gray })
+
+onBeforeMount(()=>{
+  appConfig.ui.primary = 'green'
+  appConfig.ui.gray = 'cool'
+})
 
 watch(primaryCookie, (primary) => {
   appConfig.ui.primary = primary
@@ -113,7 +119,26 @@ ${Object.entries(colors[primary.value.value] || colors.green).map(([key, value])
 ${Object.entries(colors[gray.value.value] || colors.cool).map(([key, value]) => `--color-gray-${key}: ${hexToRgb(value)};`).join('\n')}
 }`
   })
+
 if (process.client) {
+  // watch(isSearchModalOpen, open => {
+  //   if(open){
+
+  //     console.log(open)
+  //     let aaa = document.querySelector('style#nuxt-ui-colors')
+
+  //     if(aaa){
+  //       console.log('generate')
+
+  //       console.log(aaa)
+  //       appConfig.ui.primary = 'green'
+  //       appConfig.ui.gray = 'cool'
+  //       window.localStorage.setItem('nuxt-ui-root', root.value)
+
+  //     }
+  //   }
+  // })
+
   watch(root, () => {
     window.localStorage.setItem('nuxt-ui-root', root.value)
   }, { immediate: true })

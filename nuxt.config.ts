@@ -75,7 +75,7 @@ export default defineNuxtConfig({
     inlineSSRStyles: false
   },
   ui: {
-    global: true,
+    // global: true,
     // icons: ['heroicons', 'simple-icons']
     icons: ['all']
   },

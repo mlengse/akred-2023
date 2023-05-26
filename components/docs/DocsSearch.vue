@@ -22,6 +22,7 @@
     />
     <ProseHr />
     <ColorThemeSelect />
+    <ProseHr />
   </UModal>
 </template>
 

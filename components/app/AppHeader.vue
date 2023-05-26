@@ -40,7 +40,11 @@ defineProps({
             icon="i-heroicons-magnifying-glass-20-solid"
             @click="openDocsSearch"
           />
-        <ColorThemeSelect />
+
+        <div class="mr-1.5 hidden lg:block">
+          <ColorThemeSelect />
+        </div>
+        
         <ThemeSelect />
         <div class="social-icons">
           <AppSocialIcons />
