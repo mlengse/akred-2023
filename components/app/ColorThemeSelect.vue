@@ -65,7 +65,7 @@ const { isSearchModalOpen } = useDocs()
 const primaryCookie = useCookie('primary', { path: '/', default: () => appConfig.ui.primary })
 const grayCookie = useCookie('gray', { path: '/', default: () => appConfig.ui.gray })
 
-onBeforeMount(()=>{
+onMounted(()=>{
   appConfig.ui.primary = 'green'
   appConfig.ui.gray = 'cool'
 })
