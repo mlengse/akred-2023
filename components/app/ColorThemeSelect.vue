@@ -1,8 +1,9 @@
 <template>
+<!-- <div class="mr-1.5 hidden lg:block"> -->
 <!-- <div class="mr-1.5 hidden"> -->
-<div class="mr-1.5">
+<div class="mr-1.5 block">
   <div class="flex items-center shadow-sm">
-    <ClientOnly>
+    <!-- <ClientOnly> -->
       <USelectMenu
         v-model="primary"
         name="primary"
@@ -24,9 +25,9 @@
           {{ option.text }}
         </template>
       </USelectMenu>
-    </ClientOnly>
+    <!-- </ClientOnly>
 
-    <ClientOnly>
+    <ClientOnly> -->
       <USelectMenu
         v-model="gray"
         name="gray"
@@ -48,7 +49,7 @@
           {{ option.text }}
         </template>
       </USelectMenu>
-    </ClientOnly>
+    <!-- </ClientOnly> -->
   </div>
 
 </div>
