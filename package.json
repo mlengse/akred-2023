@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
-    "generate": "nuxi generate && npx pagefind --source dist",
+    "generate": "nuxi generate && npx pagefind",
     "preview": "nuxi preview",
     "lint": "eslint ."
   },
@@ -18,12 +18,14 @@
     "@nuxt/content": "^2.6.0",
     "@nuxthq/ui": "^2.1.0",
     "@types/node": "^20.1.5",
+    "@vite-pwa/nuxt": "latest",
     "@volar/vue-language-plugin-pug": "^1.6.5",
     "@vueuse/nuxt": "^10.1.2",
     "eslint": "^8.40.0",
     "nuxt": "^3.5.0",
     "nuxt-lodash": "^2.4.1",
     "nuxt-seo-kit": "^1.3.8",
+    "pagefind": "latest",
     "postcss-custom-properties": "^13.1.5",
     "typescript": "^5.0.4",
     "vite-plugin-inspect": "^0.7.26",

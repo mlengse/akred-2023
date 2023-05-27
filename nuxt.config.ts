@@ -16,6 +16,9 @@ export default defineNuxtConfig({
     '@nuxt-themes/typography',    
     'nuxt-seo-kit'
   ],
+  sitemap: {
+    hostname: 'http://localhost:3000'
+  },
   runtimeConfig: {
     public: {
       siteUrl: process.env.SITE_URL,
@@ -37,9 +40,11 @@ export default defineNuxtConfig({
     'nuxt-lodash',
     // 'nuxt-config-schema',
     // 'nuxt-component-meta'
+    '@vite-pwa/nuxt',
+    // '~/modules/sitemap',
   ],
   css: [
-    // resolve('./assets/css/main.css')
+    resolve('./assets/css/main.css')
   ],
   components: [
     {
@@ -83,6 +88,43 @@ export default defineNuxtConfig({
     strict: false,
     includeWorkspace: true
   },
+  pwa: {
+    // registerWebManifestInRouteRules: false,
+    strategies: 'generateSW',
+    injectRegister: 'script',
+    registerType: 'autoUpdate',
+    workbox: {
+      maximumFileSizeToCacheInBytes: 5000000,
+      navigateFallback: '/',
+      globPatterns: ['**/*.{js,css,html,xml,json,md,svg,webp,ico,png,jpg}'],
+      globIgnores: ['google*.html'],
+      // cleanupOutdatedCaches: true,
+      /*
+      runtimeCaching: [
+        {
+          // source: https://vite-pwa-org.netlify.app/workbox/generate-sw.html
+          urlPattern: ({ url }) => { return url.pathname.startsWith('/api') },
+          handler: 'CacheFirst' as const,
+          options: {
+            cacheName: 'api-cache',
+            cacheableResponse: { statuses: [0, 200] }
+          }
+        },
+      ]
+      */
+    },
+    devOptions: {
+      enabled: true,
+      navigateFallback: '/'
+    },
+    useCredentials: true,
+    manifest: false,
+    client: {
+      // installPrompt: true,
+      // periodicSyncForUpdates: 300 // per 5 min for testing only
+    }
+  },
+
   // routeRules: {
   //   '/': { redirect: '/getting-started' }
   // },

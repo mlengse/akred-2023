@@ -64,18 +64,14 @@ const debouncedSearch = (key: string, delay: number = 300) => {
           const metaResults = await pagefind.search(key);
           timer = null
           if (metaResults.results.length > 0) {
-            const resultsData = await Promise.all(metaResults.results.map((r: any) => {
-              const dat = r.data().map( item => Object.assign({}, item, {
-                url: item.url.replace(/\/$/, "")
-              }))
-              console.log(dat)
-              return dat
-            }));
+            const resultsData = await Promise.all(metaResults.results.map((r: any) => r.data()));
             let filterResults = []
             if (appConfig?.bloginote?.search?.exclude && appConfig.bloginote.search.exclude.length > 0) {
               filterResults = resultsData.filter(item => !appConfig.bloginote.search.exclude.includes(item.url))
             }
-            searchResults.value = filterResults;
+            searchResults.value = filterResults.map( item => Object.assign({}, item, {
+              url: item.url.replace(/\/$/, "")
+            }));
           } else {
             searchResults.value = []
           }

@@ -6,6 +6,7 @@
   },
   "allowJs": true,
   "vueCompilerOptions": {
+    // "skipTemplateCodegen": true,
     "plugins": [
       "@volar/vue-language-plugin-pug"
     ],
