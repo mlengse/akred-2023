@@ -67,6 +67,7 @@ onBeforeUnmount(() => {
       v-if="hasAside"
       ref="asideNav"
       class="aside-nav"
+      data-pagefind-ignore
     >
       <DocsAside class="app-aside" />
     </aside>
@@ -90,6 +91,7 @@ onBeforeUnmount(() => {
     <div
       v-if="hasToc"
       class="toc"
+      data-pagefind-ignore
     >
       <div class="toc-wrapper">
         <button @click="isOpen = !isOpen">
