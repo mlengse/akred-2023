@@ -1,58 +1,56 @@
 <template>
-<!-- <div class="mr-1.5 hidden lg:block"> -->
-<!-- <div class="mr-1.5 hidden"> -->
-<div class="ma-20 block">
-  <div class="flex items-center shadow-sm">
-    <ClientOnly>
-      <USelectMenu
-        v-model="primary"
-        name="primary"
-        class="w-full [&>div>button]:!rounded-r-none"
-        appearance="gray"
-        :ui="{ width: 'w-[194px]' }"
-        :popper="{ placement: 'bottom-start' }"
-        :options="primaryOptions"
-      >
-        <template #label>
-          <span class="flex-shrink-0 h-3 w-3 rounded-full" :style="{ backgroundColor: `${primary.hex}`}" />
+  <div class="ma-20 block">
+    <div class="flex items-center shadow-sm">
+      <ClientOnly>
+        <USelectMenu
+          v-model="primary"
+          name="primary"
+          class="w-full [&>div>button]:!rounded-r-none"
+          appearance="gray"
+          :ui="{ width: 'w-[194px]' }"
+          :popper="{ placement: 'bottom-start' }"
+          :options="primaryOptions"
+        >
+          <template #label>
+            <span class="flex-shrink-0 h-3 w-3 rounded-full" :style="{ backgroundColor: `${primary.hex}`}" />
 
-          {{ primary.text }}
-        </template>
+            {{ primary.text }}
+          </template>
 
-        <template #option="{ option }">
-          <span class="flex-shrink-0 h-3 w-3 rounded-full" :style="{ backgroundColor: `${option.hex}`}" />
+          <template #option="{ option }">
+            <span class="flex-shrink-0 h-3 w-3 rounded-full" :style="{ backgroundColor: `${option.hex}`}" />
 
-          {{ option.text }}
-        </template>
-      </USelectMenu>
-    </ClientOnly>
+            {{ option.text }}
+          </template>
+        </USelectMenu>
+      </ClientOnly>
 
-    <ClientOnly> 
-      <USelectMenu
-        v-model="gray"
-        name="gray"
-        class="w-full [&>div>button]:!rounded-l-none [&>div>button]:-ml-px"
-        appearance="gray"
-        :ui="{ width: 'w-[194px]' }"
-        :popper="{ placement: 'bottom-end' }"
-        :options="grayOptions"
-      >
-        <template #label>
-          <span class="flex-shrink-0 h-3 w-3 rounded-full" :style="{ backgroundColor: `${gray.hex}`}" />
+      <ClientOnly> 
+        <USelectMenu
+          v-model="gray"
+          name="gray"
+          class="w-full [&>div>button]:!rounded-l-none [&>div>button]:-ml-px"
+          appearance="gray"
+          :ui="{ width: 'w-[194px]' }"
+          :popper="{ placement: 'bottom-end' }"
+          :options="grayOptions"
+        >
+          <template #label>
+            <span class="flex-shrink-0 h-3 w-3 rounded-full" :style="{ backgroundColor: `${gray.hex}`}" />
 
-          {{ gray.text }}
-        </template>
+            {{ gray.text }}
+          </template>
 
-        <template #option="{ option }">
-          <span class="flex-shrink-0 h-3 w-3 rounded-full" :style="{ backgroundColor: `${option.hex}`}" />
+          <template #option="{ option }">
+            <span class="flex-shrink-0 h-3 w-3 rounded-full" :style="{ backgroundColor: `${option.hex}`}" />
 
-          {{ option.text }}
-        </template>
-      </USelectMenu>
-    </ClientOnly>
+            {{ option.text }}
+          </template>
+        </USelectMenu>
+      </ClientOnly>
+    </div>
+
   </div>
-
-</div>
 </template>
 
 <script setup lang="ts">
@@ -62,9 +60,9 @@ const appConfig = useAppConfig()
 const colorMode = useColorMode()
 const { isSearchModalOpen } = useDocs()
 
-appConfig.ui.primary = 'green'
+// appConfig.ui.primary = 'green'
 
-appConfig.ui.gray = 'cool'
+// appConfig.ui.gray = 'cool'
 
 const primaryCookie = useCookie('primary', { path: '/', default: () => appConfig.ui.primary })
 const grayCookie = useCookie('gray', { path: '/', default: () => appConfig.ui.gray })

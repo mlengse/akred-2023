@@ -14,9 +14,9 @@ function openDocsSearch () {
   }, 100)
 }
 
-defineProps({
-  ...variants
-})
+// defineProps({
+//   ...variants
+// })
 </script>
 
 <template>
@@ -41,9 +41,9 @@ defineProps({
             @click="openDocsSearch"
           />
 
-        <div class="mr-1.5 hidden lg:block">
+        <!-- <div class="mr-1.5 hidden lg:block">
           <ColorThemeSelect />
-        </div>
+        </div> -->
         
         <ThemeSelect />
         <div class="social-icons">

@@ -73,7 +73,7 @@ const debouncedSearch = (key: string, delay: number = 300) => {
               const res = Object.assign({}, item, {
                 url: item.url.replace(/\/$/, "")
               })
-              console.log(res)
+              // console.log(res)
               return res
             });
           } else {
@@ -107,121 +107,78 @@ const clearInputTextHandler = () => {
 }
 </script>
 
-<template>
-  <div v-if="isSearchModalOpen" class="expand-window p-4 fixed inset-0 z-[80] flex justify-center items-start">
-    <div
-      class="expand-window absolute inset-0 -z-10 flex justify-center items-center bg-black/5 backdrop-blur"
-      @click="isSearchModalOpen =false"
-    />
-    <div class="modal-container flex flex-col w-full max-w-prose">
-      <div class="px-4 py-4 flex items-center gap-4 bg-white border-b rounded-t-lg">
-        <button
-          class="flex justify-center items-center"
-          @click="focusInputHandler"
-        >
-          <Icon
-            name="tabler:search"
-            class="shrink-0 w-6 h-6 text-gray-600"
-          />
-        </button>
-
-        <input
-          ref="searchInputDOM"
-          v-model="inputText"
-          type="text"
-          placeholder="Search Content"
-          class="grow focus:outline-none"
-          @input="inputHandler"
-        >
-
-        <button
-          class="shrink-0 hidden sm:block px-2 py-1 text-xs text-gray-400 hover:text-gray-600 font-mono font-bold hover:bg-gray-50 border border-gray-400 hover:border-gray-600 rounded transition-colors duration-300"
-          title="hide the search modal"
-          @click="isSearchModalOpen=false"
-        >
-          Esc
-        </button>
-
-        <button
-          class="flex sm:hidden justify-center items-center text-gray-200 hover:text-gray-400 transition-colors"
-          @click="clearInputTextHandler"
-        >
-          <IconCustom
-            name="ion:close-circle"
-            class="w-6 h-6"
-          />
-        </button>
-      </div>
-
-      <div class="modal-content-container px-4 overflow-y-auto bg-white rounded-b-lg">
-        <div
-          v-show="!inputText"
-          class="p-16 flex flex-col justify-center items-center gap-y-8 text-purple-400"
-        >
-          <Icon
-            name="fluent:text-t-28-filled"
-            class="w-12 h-12"
-          />
-          <p>Type to Search</p>
-        </div>
-        <div
-          v-show="inputText && searchState === 'waiting'"
-          class="p-16 flex flex-col justify-center items-center gap-y-8 text-purple-400"
-        >
-          <Icon
-            name="fluent:slide-search-28-filled"
-            class="w-12 h-12 animate-bounce"
-          />
-          <p>Searching</p>
-        </div>
-        <ul
-          v-show="searchResults.length>0"
-          class="search-result p-4 space-y-2"
-        >
-          <li
-            v-for="item in searchResults"
-            :key="item.url"
-            class="p-4 hover:text-white hover:bg-purple-500 rounded"
-          >
-            <NuxtLink
-              :to="item.url"
-              @click.exact="isSearchModalOpen=false"
-            >
-              <p class="font-bold">
-                {{ item.meta.title }}
-              </p>
-              <p
-                class="text-sm"
-                v-html="item.excerpt"
-              />
-            </NuxtLink>
-          </li>
-        </ul>
-        <div
-          v-show="inputText && searchState === 'solved' && !(searchResults.length > 0)"
-          class="p-16 flex flex-col justify-center items-center gap-y-8 text-red-400"
-        >
-          <Icon
-            name="fluent:mail-inbox-dismiss-28-filled"
-            class="w-12 h-12 "
-          />
-          <p>Oops! There is no result.</p>
-        </div>
-      </div>
-    </div>
-  </div>
+<template lang="pug">
+.expand-window.p-4.fixed.inset-0.flex.justify-center.items-start(v-if="isSearchModalOpen" class="z-[80]")
+  .expand-window.absolute.inset-0.-z-10.flex.justify-center.items-center.backdrop-blur( class="bg-black/5" @click="isSearchModalOpen =false")
+  .modal-container.flex.flex-col.w-full.max-w-prose
+    .px-4.py-4.flex.items-center.gap-4.bg-white.border-b.rounded-t-lg
+      UButton.flex.justify-center.items-center(@click="focusInputHandler")
+        Icon.shrink-0.w-6.h-6.text-gray-600(name="tabler:search")
+      input(
+        ref="searchInputDOM"
+        v-model="inputText"
+        type="text"
+        placeholder="Search Content"
+        class="grow focus:outline-none"
+        @input="inputHandler")
+      UKbd(
+        class="shrink-0 hidden sm:block px-2 py-1 text-xs text-gray-400 hover:text-gray-600 font-mono font-bold hover:bg-gray-50 border border-gray-400 hover:border-gray-600 rounded transition-colors duration-300"
+        title="hide the search modal"
+        @click="isSearchModalOpen=false") Esc
+      UButton(
+        class="flex sm:hidden justify-center items-center text-gray-200 hover:text-gray-400 transition-colors"
+        @click="clearInputTextHandler")
+        Icon(
+          name="ion:close-circle"
+          class="w-6 h-6")
+    div(class="modal-content-container px-4 overflow-y-auto bg-white rounded-b-lg")
+      div(
+        v-show="!inputText"
+        class="p-16 flex flex-col justify-center items-center gap-y-8 text-purple-400")
+        Icon(
+          name="fluent:text-t-28-filled"
+          class="w-12 h-12")
+        p Type to Search
+      div(
+        v-show="inputText && searchState === 'waiting'"
+        class="p-16 flex flex-col justify-center items-center gap-y-8 text-purple-400")
+        Icon(
+          name="fluent:slide-search-28-filled"
+          class="w-12 h-12 animate-bounce")
+        p Searching
+      ul(
+        v-show="searchResults.length>0"
+        class="search-result p-4 space-y-2")
+        li(
+          v-for="item in searchResults"
+          :key="item.url"
+          class="p-4 hover:text-white hover:bg-purple-500 rounded")
+          NuxtLink(
+            :to="item.url"
+            @click.exact="isSearchModalOpen=false")
+            p( class="font-bold") {{ item.meta.title }}
+            p(
+              class="text-sm"
+              v-html="item.excerpt")
+      div(
+        v-show="inputText && searchState === 'solved' && !(searchResults.length > 0)"
+        class="p-16 flex flex-col justify-center items-center gap-y-8 text-red-400")
+        Icon(
+          name="fluent:mail-inbox-dismiss-28-filled"
+          class="w-12 h-12 ")
+        p Oops! There is no result.
 </template>
 
-<style lang="scss">
-.search-result {
-  mark {
-    @apply bg-yellow-300;
+<style scoped lang="ts">
+css({
+  '.search-result': {
+    mark: '{ @apply bg-yellow-300; }'
+  },
+  '.modal-container': {
+    'max-height': '90dvh;'
+  },
+  '.modal-content-container::-webkit-scrollbar': {
+    display: 'none';
   }
-}
-.modal-container {
-  max-height: 90dvh;
-}
-.modal-content-container::-webkit-scrollbar {
-  display: none;
-}
+})
 </style>

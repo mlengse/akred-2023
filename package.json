@@ -29,9 +29,7 @@
     "postcss-custom-properties": "^13.1.5",
     "typescript": "^5.0.4",
     "vite-plugin-inspect": "^0.7.26",
-    "vite-plugin-pug": "^0.3.2"
-  },
-  "dependencies": {
+    "vite-plugin-pug": "^0.3.2",
     "sass": "^1.62.1"
   }
 }

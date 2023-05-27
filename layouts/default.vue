@@ -1,7 +1,4 @@
-<template>
-  <div>
-    <AkredPageLayout>
-      <slot />
-    </AkredPageLayout>
-  </div>
+<template lang="pug">
+AkredPageLayout
+  slot
 </template>
