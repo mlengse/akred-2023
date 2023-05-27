@@ -1,5 +1,5 @@
 <template>
-  <UModal
+  <!-- <UModal
     v-model="isSearchModalOpen"
     :ui="{
       padding: 'sm:p-4',
@@ -8,23 +8,33 @@
       height: 'h-screen sm:h-[28rem]'
     
     }"
-  >
+  > -->
+    <div v-if="isSearchModalOpen" class="expand-window p-4 fixed inset-0 z-[80] flex justify-center items-start">
+      <div
+        class="expand-window absolute inset-0 -z-10 flex justify-center items-center bg-black/5 backdrop-blur"
+        @click="isSearchModalOpen =false"
+      />
+      <div class="modal-container flex flex-col w-full max-w-prose bg-opacity-100">
+        <UCommandPalette
+          ref="commandPaletteRef"
+          :groups="groups"
+          :ui="ui"
+          command-attribute="title"
+          :fuse="{
+            fuseOptions: { ignoreLocation: true, includeMatches: true, threshold: 0, keys: ['title', 'description', 'children.children.value', 'children.children.children.value'] },
+            resultLimit: 100
+          }"
+          @update:model-value="onSelect"
+          @close="isSearchModalOpen = false"
+        />
+        <ProseHr />
+        <ColorThemeSelect />
+        <ProseHr />
+      </div>
     
-    <UCommandPalette
-      ref="commandPaletteRef"
-      :groups="groups"
-      command-attribute="title"
-      :fuse="{
-        fuseOptions: { ignoreLocation: true, includeMatches: true, threshold: 0, keys: ['title', 'description', 'children.children.value', 'children.children.children.value'] },
-        resultLimit: 100
-      }"
-      @update:model-value="onSelect"
-      @close="isSearchModalOpen = false"
-    />
-    <ProseHr />
-    <ColorThemeSelect />
-    <ProseHr />
-  </UModal>
+    </div>
+
+  <!-- </UModal> -->
 </template>
 
 <script setup lang="ts">
@@ -38,7 +48,43 @@ const { isSearchModalOpen } = useDocs()
 const commandPaletteRef = ref<HTMLElement & { query: Ref<string>, results: { item: Command }[] }>()
 
 const { data: files } = await useLazyAsyncData('search', () => queryContent().where({ _type: 'markdown' }).find(), { default: () => [] })
-
+const ui = {
+  wrapper: 'flex flex-col flex-1 min-h-0 bg-gray-50 dark:bg-gray-800',
+  input: {
+    wrapper: 'relative flex items-center mx-3 py-3',
+    base: 'w-full rounded border-2 border-primary-500 placeholder-gray-400 dark:placeholder-gray-500 focus:border-primary-500 focus:outline-none focus:ring-0 bg-white dark:bg-gray-900',
+    padding: 'px-4',
+    height: 'h-14',
+    size: 'text-lg',
+    icon: {
+      base: 'pointer-events-none absolute left-3 text-primary-500 dark:text-primary-400',
+      size: 'h-6 w-6'
+    }
+  },
+  group: {
+    wrapper: 'p-3 relative',
+    label: '-mx-3 px-3 -mt-4 mb-2 py-1 text-sm font-semibold text-primary-500 dark:text-primary-400 font-semibold sticky top-0 bg-gray-50 dark:bg-gray-800 z-10',
+    container: 'space-y-1',
+    command: {
+      base: 'flex justify-between select-none items-center rounded px-2 py-4 gap-2 relative font-medium text-sm group shadow',
+      active: 'bg-primary-500 dark:bg-primary-400 text-white',
+      inactive: 'bg-white dark:bg-gray-900',
+      label: 'flex flex-col min-w-0',
+      suffix: 'text-xs',
+      icon: {
+        base: 'flex-shrink-0 w-6 h-6',
+        active: 'text-white',
+        inactive: 'text-gray-400 dark:text-gray-500'
+      }
+    }
+  },
+  empty: {
+    wrapper: 'flex flex-col items-center justify-center flex-1 py-9',
+    label: 'text-sm text-center text-gray-500 dark:text-gray-400',
+    queryLabel: 'text-lg text-center text-gray-900 dark:text-white',
+    icon: 'w-12 h-12 mx-auto text-gray-400 dark:text-gray-500 mb-4'
+  }
+}
 // Computed
 
 const defaultGroups = computed(() => navigation.value.map(item => ({
@@ -176,3 +222,18 @@ defineShortcuts({
 })
 </script>
 
+<style lang="scss">
+.search-result {
+  mark {
+    @apply bg-yellow-300;
+  }
+}
+
+.modal-container {
+  max-height: 90dvh;
+}
+
+.modal-content-container::-webkit-scrollbar {
+  display: none;
+}
+</style>
