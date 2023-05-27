@@ -24,7 +24,7 @@ export default defineNuxtConfig({
     'nuxt-lodash',
     // 'nuxt-config-schema',
     // 'nuxt-component-meta'
-    '@vite-pwa/nuxt',
+    // '@vite-pwa/nuxt',
     // '~/modules/sitemap',
   ],
   runtimeConfig: {
