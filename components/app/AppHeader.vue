@@ -35,7 +35,7 @@ function openDocsSearch () {
       <div class="section right">
         <button
             class="lg:hidden"
-            icon="i-heroicons-magnifying-glass-20-solid"
+            icon="heroicons:magnifying-glass"
             @click="openDocsSearch"
           />
 
