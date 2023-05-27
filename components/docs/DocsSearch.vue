@@ -28,22 +28,22 @@ watch(isSearchModalOpen, () => {
     document.body.classList.remove('overflow-hidden')
   }
 })
-const searchInputDOM = ref<HTMLElement | null>(null) // get the input DOM
+// const searchInputDOM = ref<HTMLElement | null>(null) // get the input DOM
 // when the search modal show up, auto focus the input box
 onMounted(() => {
-  watch(isSearchModalOpen, () => {
-    if (searchInputDOM.value && isSearchModalOpen.value) {
-      nextTick(() => {
-        searchInputDOM.value?.focus()
-      })
-    }
-  })
+  // watch(isSearchModalOpen, () => {
+  //   if (searchInputDOM.value && isSearchModalOpen.value) {
+  //     nextTick(() => {
+  //       searchInputDOM.value?.focus()
+  //     })
+  //   }
+  // })
 })
-const focusInputHandler = () => {
-  if (searchInputDOM.value) {
-    searchInputDOM.value.focus()
-  }
-}
+// const focusInputHandler = () => {
+//   if (searchInputDOM.value) {
+//     searchInputDOM.value.focus()
+//   }
+// }
 // listen input and then search
 const searchState = ref<'waiting' | 'solved'>('waiting')
 const inputText = ref<string>('')
@@ -105,27 +105,44 @@ const clearInputTextHandler = () => {
   searchResults.value = []
   searchState.value = 'waiting'
 }
+const { usingInput } = useShortcuts()
+const canToggleModal = computed(() => isSearchModalOpen.value || !usingInput.value)
+defineShortcuts({
+  meta_k: {
+    usingInput: true,
+    whenever: [canToggleModal],
+    handler: () => {
+      isSearchModalOpen.value = !isSearchModalOpen.value
+    }
+  },
+  escape: {
+    usingInput: true,
+    whenever: [isSearchModalOpen],
+    handler: () => { isSearchModalOpen.value = false }
+  }
+})
 </script>
 
 <template lang="pug">
 .expand-window.p-4.fixed.inset-0.flex.justify-center.items-start(v-if="isSearchModalOpen" class="z-[80]")
   .expand-window.absolute.inset-0.-z-10.flex.justify-center.items-center.backdrop-blur( class="bg-black/5" @click="isSearchModalOpen =false")
   .modal-container.flex.flex-col.w-full.max-w-prose
-    .px-4.py-4.flex.items-center.gap-4.border-b.rounded-t-lg
-      UButton.flex.justify-center.items-center(@click="focusInputHandler")
+    .px-4.py-4.flex.items-center.gap-4.bg-white.border-b.rounded-t-lg(class="dark:bg-gray-900")
+      button.flex.justify-center.items-center
         Icon.shrink-0.w-6.h-6.text-gray-600(name="tabler:search")
-      input(
-        ref="searchInputDOM"
+      UInput(
+        name="searchInputDOM"
+        autofocus
         v-model="inputText"
         type="text"
         placeholder="Search Content"
         class="grow focus:outline-none"
         @input="inputHandler")
-      UKbd(
+      button(
         class="shrink-0 hidden sm:block px-2 py-1 text-xs text-gray-400 hover:text-gray-600 font-mono font-bold hover:bg-gray-50 border border-gray-400 hover:border-gray-600 rounded transition-colors duration-300"
         title="hide the search modal"
         @click="isSearchModalOpen=false") Esc
-      UButton(
+      button(
         class="flex sm:hidden justify-center items-center text-gray-200 hover:text-gray-400 transition-colors"
         @click="clearInputTextHandler")
         Icon(
@@ -178,7 +195,7 @@ css({
     'max-height': '90dvh;'
   },
   '.modal-content-container::-webkit-scrollbar': {
-    display: 'none';
+    display: 'none;'
   }
 })
 </style>

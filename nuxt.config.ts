@@ -49,6 +49,11 @@ export default defineNuxtConfig({
   components: [
     {
       prefix: '',
+      path: resolve('./components/akred'),
+      global: true
+    },
+    {
+      prefix: '',
       path: resolve('./components/app'),
       global: true
     },
@@ -62,14 +67,11 @@ export default defineNuxtConfig({
     documentDriven: true,
     highlight: {
       theme: {
-        dark: 'github-dark',
-        default: 'github-light'
+        light: 'material-lighter',
+        default: 'material-default',
+        dark: 'material-palenight'
       },
-      preload: [ 
-        'json', 'js', 'ts', 'html', 'css', 'vue', 'diff', 'shell', 
-        'markdown', 
-        'yaml', 'bash', 'ini'
-      ]
+      preload: [ 'json', 'js', 'ts', 'html', 'css', 'vue', 'diff', 'shell', 'markdown', 'yaml', 'bash', 'ini']
     },
     navigation: {
       fields: ['icon', 'titleTemplate', 'header', 'main', 'aside', 'footer']
@@ -97,42 +99,42 @@ export default defineNuxtConfig({
     strict: false,
     includeWorkspace: true
   },
-  pwa: {
-    // registerWebManifestInRouteRules: false,
-    strategies: 'generateSW',
-    injectRegister: 'script',
-    registerType: 'autoUpdate',
-    workbox: {
-      maximumFileSizeToCacheInBytes: 5000000,
-      navigateFallback: '/',
-      globPatterns: ['**/*.{js,css,html,xml,json,md,svg,webp,ico,png,jpg}'],
-      globIgnores: ['google*.html'],
-      cleanupOutdatedCaches: true,
-      /*
-      runtimeCaching: [
-        {
-          // source: https://vite-pwa-org.netlify.app/workbox/generate-sw.html
-          urlPattern: ({ url }) => { return url.pathname.startsWith('/api') },
-          handler: 'CacheFirst' as const,
-          options: {
-            cacheName: 'api-cache',
-            cacheableResponse: { statuses: [0, 200] }
-          }
-        },
-      ]
-      */
-    },
-    devOptions: {
-      enabled: true,
-      navigateFallback: '/'
-    },
-    useCredentials: true,
-    manifest: false,
-    client: {
-      installPrompt: true,
-      // periodicSyncForUpdates: 300 // per 5 min for testing only
-    }
-  },
+  // pwa: {
+  //   // registerWebManifestInRouteRules: false,
+  //   strategies: 'generateSW',
+  //   injectRegister: 'script',
+  //   registerType: 'autoUpdate',
+  //   workbox: {
+  //     maximumFileSizeToCacheInBytes: 5000000,
+  //     navigateFallback: '/',
+  //     globPatterns: ['**/*.{js,css,html,xml,json,md,svg,webp,ico,png,jpg}'],
+  //     globIgnores: ['google*.html'],
+  //     cleanupOutdatedCaches: true,
+  //     /*
+  //     runtimeCaching: [
+  //       {
+  //         // source: https://vite-pwa-org.netlify.app/workbox/generate-sw.html
+  //         urlPattern: ({ url }) => { return url.pathname.startsWith('/api') },
+  //         handler: 'CacheFirst' as const,
+  //         options: {
+  //           cacheName: 'api-cache',
+  //           cacheableResponse: { statuses: [0, 200] }
+  //         }
+  //       },
+  //     ]
+  //     */
+  //   },
+  //   devOptions: {
+  //     enabled: true,
+  //     navigateFallback: '/'
+  //   },
+  //   useCredentials: true,
+  //   manifest: false,
+  //   client: {
+  //     installPrompt: true,
+  //     // periodicSyncForUpdates: 300 // per 5 min for testing only
+  //   }
+  // },
 
   // routeRules: {
   //   '/': { redirect: '/getting-started' }

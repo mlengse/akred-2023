@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const colorMode = useColorMode()
 const onClick = () => {
-  const values = ['system', 'light', 'dark']
+  const values = ['system', 'light', 'dark', 'sepia']
   const index = values.indexOf(colorMode.preference)
   const next = (index + 1) % values.length
 
@@ -14,6 +14,7 @@ button(aria-label="Color Mode" @click="onClick")
   ColorScheme(placeholder="...")
     Icon(v-if="colorMode.preference === 'dark'" name="uil:moon")
     Icon(v-else-if="colorMode.preference === 'light'" name="uil:sun")
+    Icon(v-else-if="colorMode.preference === 'sepia'" name="uil:coffee")
     Icon(v-else name="uil:desktop")
 
 </template>

@@ -33,9 +33,7 @@ function openDocsSearch () {
       </div>
 
       <div class="section right">
-        <UButton
-            color="gray"
-            variant="ghost"
+        <button
             class="lg:hidden"
             icon="i-heroicons-magnifying-glass-20-solid"
             @click="openDocsSearch"
@@ -76,6 +74,23 @@ css({
         display: 'none'
       }
     }
+  },
+
+  button: {
+    display: 'flex',
+    padding: '{space.4}',
+
+    color: '{color.gray.500}',
+    '@dark': {
+      color: '{color.gray.400}'
+    },
+
+    '&:hover': {
+      color: '{color.gray.700}',
+      '@dark': {
+        color: '{color.gray.200}',
+      }
+    },
   },
 
   header: {
