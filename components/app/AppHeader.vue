@@ -33,10 +33,14 @@ function openDocsSearch () {
       </div>
 
       <div class="section right">
-        <button
-            icon="heroicons:magnifying-glass"
+        <UButton
+            color="gray"
+            variant="ghost"
+            class="lg:hidden"
+            icon="i-heroicons-magnifying-glass-20-solid"
             @click="openDocsSearch"
           />
+
 
         <!-- <div class="mr-1.5 hidden lg:block">
           <ColorThemeSelect />
