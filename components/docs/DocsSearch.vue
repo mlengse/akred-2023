@@ -68,7 +68,7 @@ const debouncedSearch = (key: string, delay: number = 300) => {
               const dat = r.data().map( item => Object.assign({}, item, {
                 url: item.url.replace(/\/$/, "")
               }))
-              // console.log(dat)
+              console.log(dat)
               return dat
             }));
             let filterResults = []

@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
-    "generate": "nuxi generate && npx pagefind --source dist -y",
+    "generate": "nuxi generate && npx pagefind --source dist",
     "preview": "nuxi preview",
     "lint": "eslint ."
   },
