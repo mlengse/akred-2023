@@ -743,6 +743,16 @@ const notifications = {
 }
 
 export default {
+  bloginote: {
+    search: {
+      exclude: [
+        '/',
+        '/about/',
+        '/subscribe/',
+        '/list/'
+      ]
+    },
+  },
   docus: {
     title: 'Akreditasi 2023',
     description: 'Puskesmas Jayengan. Sahabat menuju sehat.',
