@@ -3,13 +3,6 @@ import { createResolver } from '@nuxt/kit'
 const { resolve } = createResolver(import.meta.url)
 
 export default defineNuxtConfig({
-  app: {
-    head: {
-      htmlAttrs: {
-        lang: 'id'
-      }
-    }
-  },
   extends: [
     // '@nuxt-themes/docus',
     '@nuxt-themes/elements',    
@@ -19,15 +12,6 @@ export default defineNuxtConfig({
   // sitemap: {
   //   hostname: 'http://localhost:3000'
   // },
-  runtimeConfig: {
-    public: {
-      siteUrl: process.env.SITE_URL,
-      siteName: 'Akreditasi 2023',
-      siteDescription: 'Puskesmas Jayengan. Sahabat menuju sehat.',
-      language: 'id-ID',
-
-    }
-  },
   modules: [
     '@nuxt-themes/tokens',    
     '@nuxtjs/color-mode',
@@ -43,6 +27,22 @@ export default defineNuxtConfig({
     '@vite-pwa/nuxt',
     // '~/modules/sitemap',
   ],
+  runtimeConfig: {
+    public: {
+      siteUrl: process.env.SITE_URL,
+      siteName: 'Akreditasi 2023',
+      siteDescription: 'Puskesmas Jayengan. Sahabat menuju sehat.',
+      language: 'id-ID',
+
+    }
+  },
+  app: {
+    head: {
+      htmlAttrs: {
+        lang: 'id'
+      }
+    }
+  },
   css: [
     resolve('./assets/css/main.css')
   ],
@@ -76,6 +76,11 @@ export default defineNuxtConfig({
     }
 
   },
+  nitro: {
+    prerender: {
+      routes: ['/sitemap.xml']
+    }
+  },
   // colorMode: {
   //   classSuffix: 'aa',
   //   dataValue: 'theme'
@@ -92,42 +97,42 @@ export default defineNuxtConfig({
     strict: false,
     includeWorkspace: true
   },
-  // pwa: {
-  //   // registerWebManifestInRouteRules: false,
-  //   strategies: 'generateSW',
-  //   injectRegister: 'script',
-  //   registerType: 'autoUpdate',
-  //   workbox: {
-  //     maximumFileSizeToCacheInBytes: 5000000,
-  //     navigateFallback: '/',
-  //     globPatterns: ['**/*.{js,css,html,xml,json,md,svg,webp,ico,png,jpg}'],
-  //     globIgnores: ['google*.html'],
-  //     cleanupOutdatedCaches: true,
-  //     /*
-  //     runtimeCaching: [
-  //       {
-  //         // source: https://vite-pwa-org.netlify.app/workbox/generate-sw.html
-  //         urlPattern: ({ url }) => { return url.pathname.startsWith('/api') },
-  //         handler: 'CacheFirst' as const,
-  //         options: {
-  //           cacheName: 'api-cache',
-  //           cacheableResponse: { statuses: [0, 200] }
-  //         }
-  //       },
-  //     ]
-  //     */
-  //   },
-  //   devOptions: {
-  //     enabled: true,
-  //     navigateFallback: '/'
-  //   },
-  //   // useCredentials: true,
-  //   manifest: false,
-  //   client: {
-  //     installPrompt: true,
-  //     // periodicSyncForUpdates: 300 // per 5 min for testing only
-  //   }
-  // },
+  pwa: {
+    // registerWebManifestInRouteRules: false,
+    strategies: 'generateSW',
+    injectRegister: 'script',
+    registerType: 'autoUpdate',
+    workbox: {
+      maximumFileSizeToCacheInBytes: 5000000,
+      navigateFallback: '/',
+      globPatterns: ['**/*.{js,css,html,xml,json,md,svg,webp,ico,png,jpg}'],
+      globIgnores: ['google*.html'],
+      cleanupOutdatedCaches: true,
+      /*
+      runtimeCaching: [
+        {
+          // source: https://vite-pwa-org.netlify.app/workbox/generate-sw.html
+          urlPattern: ({ url }) => { return url.pathname.startsWith('/api') },
+          handler: 'CacheFirst' as const,
+          options: {
+            cacheName: 'api-cache',
+            cacheableResponse: { statuses: [0, 200] }
+          }
+        },
+      ]
+      */
+    },
+    devOptions: {
+      enabled: true,
+      navigateFallback: '/'
+    },
+    useCredentials: true,
+    manifest: false,
+    client: {
+      installPrompt: true,
+      // periodicSyncForUpdates: 300 // per 5 min for testing only
+    }
+  },
 
   // routeRules: {
   //   '/': { redirect: '/getting-started' }

@@ -111,7 +111,7 @@ const clearInputTextHandler = () => {
 .expand-window.p-4.fixed.inset-0.flex.justify-center.items-start(v-if="isSearchModalOpen" class="z-[80]")
   .expand-window.absolute.inset-0.-z-10.flex.justify-center.items-center.backdrop-blur( class="bg-black/5" @click="isSearchModalOpen =false")
   .modal-container.flex.flex-col.w-full.max-w-prose
-    .px-4.py-4.flex.items-center.gap-4.bg-white.border-b.rounded-t-lg
+    .px-4.py-4.flex.items-center.gap-4.border-b.rounded-t-lg
       UButton.flex.justify-center.items-center(@click="focusInputHandler")
         Icon.shrink-0.w-6.h-6.text-gray-600(name="tabler:search")
       input(
