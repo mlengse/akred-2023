@@ -127,7 +127,7 @@ defineShortcuts({
 .expand-window.p-4.fixed.inset-0.flex.justify-center.items-start(v-if="isSearchModalOpen" class="z-[80]")
   .expand-window.absolute.inset-0.-z-10.flex.justify-center.items-center.backdrop-blur( class="bg-black/5" @click="isSearchModalOpen =false")
   .modal-container.flex.flex-col.w-full.max-w-prose
-    .px-4.py-4.flex.items-center.gap-4.bg-white.border-b.rounded-t-lg(class="dark:bg-gray-900")
+    .px-4.py-4.flex.items-center.gap-4.border-b.rounded-t-lg(class="dark:bg-gray-900")
       button.flex.justify-center.items-center
         Icon.shrink-0.w-6.h-6.text-gray-600(name="tabler:search")
       UInput(
@@ -148,17 +148,17 @@ defineShortcuts({
         Icon(
           name="ion:close-circle"
           class="w-6 h-6")
-    div(class="modal-content-container px-4 overflow-y-auto bg-white rounded-b-lg")
+    div(class="modal-content-container px-4 overflow-y-auto rounded-b-lg")
       div(
         v-show="!inputText"
-        class="p-16 flex flex-col justify-center items-center gap-y-8 text-purple-400")
+        class="p-16 flex flex-col justify-center items-center gap-y-8 text-400")
         Icon(
           name="fluent:text-t-28-filled"
           class="w-12 h-12")
         p Type to Search
       div(
         v-show="inputText && searchState === 'waiting'"
-        class="p-16 flex flex-col justify-center items-center gap-y-8 text-purple-400")
+        class="p-16 flex flex-col justify-center items-center gap-y-8 text-400")
         Icon(
           name="fluent:slide-search-28-filled"
           class="w-12 h-12 animate-bounce")
