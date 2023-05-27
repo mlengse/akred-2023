@@ -12,13 +12,14 @@ export default defineNuxtConfig({
   },
   extends: [
     // '@nuxt-themes/docus',
+    '@nuxt-themes/tokens',    
     '@nuxt-themes/elements',    
     '@nuxt-themes/typography',    
     'nuxt-seo-kit'
   ],
-  sitemap: {
-    hostname: 'http://localhost:3000'
-  },
+  // sitemap: {
+  //   hostname: 'http://localhost:3000'
+  // },
   runtimeConfig: {
     public: {
       siteUrl: process.env.SITE_URL,
@@ -29,7 +30,6 @@ export default defineNuxtConfig({
     }
   },
   modules: [
-    '@nuxt-themes/tokens',    
     '@nuxtjs/color-mode',
     '@nuxt/content',
     '@vueuse/nuxt',
@@ -65,17 +65,21 @@ export default defineNuxtConfig({
         dark: 'github-dark',
         default: 'github-light'
       },
-      preload: ['json', 'js', 'ts', 'html', 'css', 'vue', 'diff', 'shell', 'markdown', 'yaml', 'bash', 'ini']
+      preload: [ 
+        // 'json', 'js', 'ts', 'html', 'css', 'vue', 'diff', 'shell', 
+        'markdown', 
+        // 'yaml', 'bash', 'ini'
+      ]
     },
     navigation: {
       fields: ['icon', 'titleTemplate', 'header', 'main', 'aside', 'footer']
     }
 
   },
-  colorMode: {
-    classSuffix: 'aa',
-    dataValue: 'theme'
-  },
+  // colorMode: {
+  //   classSuffix: 'aa',
+  //   dataValue: 'theme'
+  // },
   experimental: {
     inlineSSRStyles: false
   },
@@ -120,7 +124,7 @@ export default defineNuxtConfig({
     useCredentials: true,
     manifest: false,
     client: {
-      // installPrompt: true,
+      installPrompt: true,
       // periodicSyncForUpdates: 300 // per 5 min for testing only
     }
   },

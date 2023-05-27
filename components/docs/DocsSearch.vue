@@ -69,9 +69,13 @@ const debouncedSearch = (key: string, delay: number = 300) => {
             if (appConfig?.bloginote?.search?.exclude && appConfig.bloginote.search.exclude.length > 0) {
               filterResults = resultsData.filter(item => !appConfig.bloginote.search.exclude.includes(item.url))
             }
-            searchResults.value = filterResults.map( item => Object.assign({}, item, {
-              url: item.url.replace(/\/$/, "")
-            }));
+            searchResults.value = filterResults.map( item => {
+              const res = Object.assign({}, item, {
+                url: item.url.replace(/\/$/, "")
+              })
+              console.log(res)
+              return res
+            });
           } else {
             searchResults.value = []
           }
@@ -115,7 +119,7 @@ const clearInputTextHandler = () => {
           class="flex justify-center items-center"
           @click="focusInputHandler"
         >
-          <IconCustom
+          <Icon
             name="tabler:search"
             class="shrink-0 w-6 h-6 text-gray-600"
           />
@@ -154,7 +158,7 @@ const clearInputTextHandler = () => {
           v-show="!inputText"
           class="p-16 flex flex-col justify-center items-center gap-y-8 text-purple-400"
         >
-          <IconCustom
+          <Icon
             name="fluent:text-t-28-filled"
             class="w-12 h-12"
           />
@@ -164,7 +168,7 @@ const clearInputTextHandler = () => {
           v-show="inputText && searchState === 'waiting'"
           class="p-16 flex flex-col justify-center items-center gap-y-8 text-purple-400"
         >
-          <IconCustom
+          <Icon
             name="fluent:slide-search-28-filled"
             class="w-12 h-12 animate-bounce"
           />
@@ -197,7 +201,7 @@ const clearInputTextHandler = () => {
           v-show="inputText && searchState === 'solved' && !(searchResults.length > 0)"
           class="p-16 flex flex-col justify-center items-center gap-y-8 text-red-400"
         >
-          <IconCustom
+          <Icon
             name="fluent:mail-inbox-dismiss-28-filled"
             class="w-12 h-12 "
           />
