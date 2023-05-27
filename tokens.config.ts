@@ -99,8 +99,7 @@ export default defineTheme({
     body: {
       backgroundColor: {
         initial: '{color.white}',
-        dark: '{color.black}',
-        sepia: '{color.sepia}'
+        dark: '{color.black}'
       },
       color: {
         initial: '{color.gray.800}',
