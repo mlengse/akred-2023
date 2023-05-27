@@ -59,7 +59,7 @@ export default defineNuxtConfig({
     }
   ],
   content: {
-    // documentDriven: true,
+    documentDriven: true,
     highlight: {
       theme: {
         dark: 'github-dark',
