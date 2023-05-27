@@ -12,7 +12,6 @@ export default defineNuxtConfig({
   },
   extends: [
     // '@nuxt-themes/docus',
-    '@nuxt-themes/tokens',    
     '@nuxt-themes/elements',    
     '@nuxt-themes/typography',    
     'nuxt-seo-kit'
@@ -30,6 +29,7 @@ export default defineNuxtConfig({
     }
   },
   modules: [
+    '@nuxt-themes/tokens',    
     '@nuxtjs/color-mode',
     '@nuxt/content',
     '@vueuse/nuxt',
