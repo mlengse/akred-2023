@@ -7,13 +7,13 @@ export default defineNuxtConfig({
     // '@nuxt-themes/docus',
     '@nuxt-themes/elements',    
     '@nuxt-themes/typography',    
+    '@nuxt-themes/tokens',    
     'nuxt-seo-kit'
   ],
   // sitemap: {
   //   hostname: 'http://localhost:3000'
   // },
   modules: [
-    '@nuxt-themes/tokens',    
     '@nuxtjs/color-mode',
     '@nuxt/content',
     '@vueuse/nuxt',
@@ -38,6 +38,18 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
+      // link: [
+      //   {
+      //     rel: 'stylesheet',
+      //     href: '/_pagefind/pagefind-ui.css'
+      //   }
+      // ],
+      // script: [
+      //   {
+      //     src: '/_pagefind/pagefind-ui.js',
+      //     type: 'text/javascript'
+      //   }
+      // ],
       htmlAttrs: {
         lang: 'id'
       }
@@ -146,7 +158,7 @@ export default defineNuxtConfig({
   // routeRules: {
   //   '/': { redirect: '/getting-started' }
   // },
-  // generate: {
-  //   routes: ['/']
-  // }
+  generate: {
+    routes: ['/']
+  }
 })

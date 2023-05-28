@@ -3,18 +3,7 @@ const pagefindPath = "/_pagefind/pagefind.js"
 const runtimeConfig = useRuntimeConfig()
 const baseURL = runtimeConfig.app.baseURL
 let pagefind: any;
-if (!process.dev) {
-  try {
-    pagefind = await import(/* @vite-ignore */pagefindPath);
-    if (baseURL !== '/') {
-      await pagefind.options({
-        baseURL: baseURL
-      })
-    }
-  } catch (error) {
-      console.log(error);
-  }
-}
+// if (!process.dev) {
 // search modal
 const { isSearchModalOpen } = useDocs()
 
@@ -30,7 +19,20 @@ watch(isSearchModalOpen, () => {
 })
 // const searchInputDOM = ref<HTMLElement | null>(null) // get the input DOM
 // when the search modal show up, auto focus the input box
-onMounted(() => {
+onMounted(async () => {
+  if (process.client) {
+    try {
+      pagefind = await import(/* @vite-ignore */pagefindPath);
+      // if (baseURL !== '/') {
+      //   await pagefind.options({
+      //     baseURL: baseURL
+      //   })
+      // }
+    } catch (error) {
+        console.log(error);
+    }
+  }
+
   // watch(isSearchModalOpen, () => {
   //   if (searchInputDOM.value && isSearchModalOpen.value) {
   //     nextTick(() => {
@@ -53,15 +55,16 @@ watch(inputText, () => {
 })
 let timer: (null | ReturnType<typeof setTimeout>) = null
 const appConfig = useAppConfig()
-const debouncedSearch = (key: string, delay: number = 300) => {
+const debouncedSearch = async (key: string, delay: number = 100) => {
   if (timer) {
     clearTimeout(timer)
   }
   if (key) {
-    timer = setTimeout(async () => {
+    // timer = setTimeout(async () => {
       if (pagefind) {
         try {
-          const metaResults = await pagefind.search(key);
+          const metaResults = await pagefind.debouncedSearch(key);
+          console.log(metaResults)
           timer = null
           if (metaResults.results.length > 0) {
             const resultsData = await Promise.all(metaResults.results.map((r: any) => r.data()));
@@ -73,7 +76,7 @@ const debouncedSearch = (key: string, delay: number = 300) => {
               const res = Object.assign({}, item, {
                 url: item.url.replace(/\/$/, "")
               })
-              // console.log(res)
+              console.log(res)
               return res
             });
           } else {
@@ -84,8 +87,10 @@ const debouncedSearch = (key: string, delay: number = 300) => {
         } finally {
           searchState.value = 'solved'
         }
+      } else {
+        console.log('tidak ada pagefind')
       }
-    }, delay)
+    // }, delay)
   } else {
     timer = null
     searchResults.value = []
@@ -95,9 +100,14 @@ const debouncedSearch = (key: string, delay: number = 300) => {
 }
 const inputHandler = (event: Event) => {
   const target = event.target as HTMLInputElement
+  console.log(target.value)
   if (pagefind) {
-    pagefind.preload(target.value);
-    debouncedSearch(target.value, 100)
+    // pagefind.preload(target.value);
+    debouncedSearch(target.value)
+  } else {
+    console.log(process.dev)
+    console.log('tidak ada pagefind.preload')
+
   }
 }
 const clearInputTextHandler = () => {

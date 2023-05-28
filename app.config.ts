@@ -16,7 +16,7 @@ export default {
     url: process.env.SITE_URL,
     socials: {
       youtube: '@puskesmasjayengan',
-      instagram: 'puskesmasjayengan'
+      instagram: 'puskesmasjayengan',
     },
     aside: {
       level: 1,
@@ -28,11 +28,11 @@ export default {
       showLinkIcon: true
     },
     footer: {
-      credits: {
-        icon: 'IconDocus',
-        text: 'Bukan Demit',
-        href: 'https://github.com/mlengse',
-      },
+      // credits: {
+      //   icon: 'IconDocus',
+      //   text: 'Bukan Demit',
+      //   href: 'https://github.com/mlengse',
+      // },
       iconLinks: [
         {
           href: 'https://pkm-jayengan.surakarta.go.id/',
