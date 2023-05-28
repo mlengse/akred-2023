@@ -5,16 +5,17 @@ const { resolve } = createResolver(import.meta.url)
 export default defineNuxtConfig({
   extends: [
     // '@nuxt-themes/docus',
-    // '@nuxt-themes/tokens',    
     '@nuxt-themes/elements',    
     '@nuxt-themes/typography',    
+    // '@nuxt-themes/tokens',    
     'nuxt-seo-kit'
   ],
   // sitemap: {
   //   hostname: 'http://localhost:3000'
   // },
   modules: [
-    // 'pinceau/nuxt',
+    '@nuxt-themes/tokens',    
+    'pinceau/nuxt',
     '@nuxtjs/color-mode',
     '@nuxt/content',
     '@vueuse/nuxt',
@@ -119,11 +120,13 @@ export default defineNuxtConfig({
     strict: false,
     includeWorkspace: true
   },
-  pinceau: {
-    options: {
 
-    }
-  },
+  // pinceau: {
+  //   options: {
+
+  //   }
+  // },
+  
   // pwa: {
   //   // registerWebManifestInRouteRules: false,
   //   strategies: 'generateSW',
