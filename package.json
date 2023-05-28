@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxi generate && npx pagefind && nuxi dev",
-    "build": "nuxi generate && npx pagefind && nuxi build",
+    "build": "nuxi build && npx pagefind --source dist",
     "generate": "nuxi generate && npx pagefind",
     "preview": "nuxi generate && npx pagefind && nuxi preview",
     "lint": "eslint ."
