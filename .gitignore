@@ -10,4 +10,4 @@ dist
 sw.*
 .env
 .output
-public/_pagefind
+# public/_pagefind
