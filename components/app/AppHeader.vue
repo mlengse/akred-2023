@@ -14,41 +14,29 @@ function openDocsSearch () {
   }, 100)
 }
 
-// defineProps({
-//   ...variants
-// })
+defineProps({
+  //@ts-ignore
+  ...variants
+})
 </script>
 
-<template>
-  <header :class="{ 'has-dialog': hasDialog }">
-    <Container :fluid="config?.header?.fluid ">
-      <div class="section left">
-        <AppHeaderDialog v-if="hasDialog" />
-        <AppHeaderLogo />
-      </div>
-
-      <div class="section center">
-        <AppHeaderLogo v-if="hasDialog" />
-        <AppHeaderNavigation />
-      </div>
-
-      <div class="section right">
-        <button
-            icon="heroicons:magnifying-glass"
-            @click="openDocsSearch"
-          />
-
-        <!-- <div class="mr-1.5 hidden lg:block">
-          <ColorThemeSelect />
-        </div> -->
-        
-        <ThemeSelect />
-        <div class="social-icons">
-          <AppSocialIcons />
-        </div>
-      </div>
-    </Container>
-  </header>
+<template lang="pug">
+header( :class="{ 'has-dialog': hasDialog }")
+  Container( :fluid="config?.header?.fluid ")
+    .section.left
+      AppHeaderDialog( v-if="hasDialog")
+      AppHeaderLogo
+    .section.center
+      AppHeaderLogo(v-if="hasDialog")
+      AppHeaderNavigation
+    .section.right
+      Client-Only
+        button(@click="openDocsSearch")
+          Icon( name="heroicons:magnifying-glass")
+        //- ColorThemeSelect
+        ThemeSelect
+      .social-icons
+        AppSocialIcons
 </template>
 
 <style scoped lang="ts">

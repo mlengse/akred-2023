@@ -97,7 +97,7 @@ const inputHandler = (event: Event) => {
   const target = event.target as HTMLInputElement
   if (pagefind) {
     pagefind.preload(target.value);
-    debouncedSearch(target.value)
+    debouncedSearch(target.value, 100)
   }
 }
 const clearInputTextHandler = () => {
@@ -186,16 +186,14 @@ defineShortcuts({
         p Oops! There is no result.
 </template>
 
-<style scoped lang="ts">
-css({
-  '.search-result': {
-    mark: '{ @apply bg-yellow-300; }'
-  },
-  '.modal-container': {
-    'max-height': '90dvh;'
-  },
-  '.modal-content-container::-webkit-scrollbar': {
-    display: 'none;'
-  }
-})
+<style scoped>
+.search-result mark {
+  @apply bg-yellow-300; 
+}
+.modal-container {
+  max-height: 90dvh;
+}
+.modal-content-container::-webkit-scrollbar {
+  display: none;
+}
 </style>

@@ -3,9 +3,6 @@
 :root {
   /* DocSearch */
   --docsearch-primary-color: $dt('color.primary.500') !important;
-}
-
-:root {
   --color: #243746;
   --color-primary: #158876;
   --color-secondary: #0e2233;
@@ -29,7 +26,6 @@
   --bg-secondary: #d4a639;
   --border-color: #bb6f13;
 }
-
 
 .dark:root {
   color-scheme: dark;

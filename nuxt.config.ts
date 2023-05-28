@@ -21,7 +21,7 @@ export default defineNuxtConfig({
     // '@nuxt/devtools',
     // '@nuxthq/studio',
     // '@nuxtjs/plausible',
-    'nuxt-lodash',
+    // 'nuxt-lodash',
     // 'nuxt-config-schema',
     // 'nuxt-component-meta'
     // '@vite-pwa/nuxt',
@@ -83,10 +83,17 @@ export default defineNuxtConfig({
       routes: ['/sitemap.xml']
     }
   },
-  // colorMode: {
-  //   classSuffix: 'aa',
-  //   dataValue: 'theme'
-  // },
+  colorMode: {
+    preference: 'system', // default value of $colorMode.preference
+    fallback: 'light', // fallback value if not system preference found
+    hid: 'nuxt-color-mode-script',
+    globalName: '__NUXT_COLOR_MODE__',
+    componentName: 'AkColorScheme',
+    classPrefix: '',
+    classSuffix: '-mode',
+    storageKey: 'nuxt-color-mode'
+  },
+    
   experimental: {
     inlineSSRStyles: false
   },

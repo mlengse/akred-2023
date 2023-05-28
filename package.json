@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "nuxi dev",
-    "build": "nuxi build",
+    "build": "nuxi generate && npx pagefind && nuxi build",
     "generate": "nuxi generate && npx pagefind",
-    "preview": "nuxi preview",
+    "preview": "nuxi generate && npx pagefind && nuxi preview",
     "lint": "eslint ."
   },
   "devDependencies": {
