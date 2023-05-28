@@ -146,8 +146,8 @@ defineShortcuts({
 Client-Only 
   .expand-window.p-4.fixed.inset-0.flex.justify-center.items-start(v-if="isSearchModalOpen" class="z-[80]")
     .expand-window.absolute.inset-0.-z-10.flex.justify-center.items-center.backdrop-blur( class="bg-black/5" @click="isSearchModalOpen =false")
-    .modal-container.flex.flex-col.w-full.max-w-prose
-      .px-4.py-4.flex.items-center.gap-4.border-b.rounded-t-lg(class="dark:bg-gray-900")
+    .modal-container.flex.flex-col.w-full.max-w-prose.bg-white(class="sepia:bg-yellow-300 dark:bg-gray-900")
+      .px-4.py-4.flex.items-center.gap-4.border-b.rounded-t-lg
         UInput(
           name="searchInputDOM"
           :autofocus='isSearchModalOpen && !inputText.length '
@@ -216,5 +216,8 @@ Client-Only
 }
 .modal-content-container::-webkit-scrollbar {
   display: none;
+}
+.bg {
+  background-color: '{docus.body.backgroundColor}';
 }
 </style>
