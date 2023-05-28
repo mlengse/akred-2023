@@ -217,7 +217,4 @@ Client-Only
 .modal-content-container::-webkit-scrollbar {
   display: none;
 }
-.bg {
-  background-color: '{docus.body.backgroundColor}';
-}
 </style>

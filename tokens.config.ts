@@ -98,14 +98,12 @@ export default defineTheme({
     },
     body: {
       backgroundColor: {
-        initial: '{color.white}',
+        initial: '{color.white}', 
         dark: '{color.black}',
-        sepia: '{color.yellow.300}'
       },
       color: {
         initial: '{color.gray.800}',
         dark: '{color.gray.200}',
-        sepia: '{color.yellow.700}'
       },
       fontFamily: '{font.sans}'
     },

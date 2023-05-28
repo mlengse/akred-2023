@@ -13,8 +13,8 @@ const onClick = () => {
 button(aria-label="Color Mode" @click="onClick")
   AkColorScheme(placeholder="...")
     Icon(v-if="colorMode.preference === 'dark'" name="uil:moon")
-    Icon(v-else-if="colorMode.preference === 'light'" name="uil:sun")
     Icon(v-else-if="colorMode.preference === 'sepia'" name="uil:coffee")
+    Icon(v-else-if="colorMode.preference === 'light'" name="uil:sun")
     Icon(v-else name="uil:desktop")
 
 </template>
