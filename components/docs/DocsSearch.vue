@@ -65,7 +65,7 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
           const metaResults = await pagefind.debouncedSearch(key);
           timer = null
           if (metaResults?.results?.length > 0) {
-            console.log(metaResults.results.length)
+            console.log(`${key}: ${metaResults.results.length}`)
             const resultsData = await Promise.all(metaResults.results.map((r: any) => r.data()));
             let filterResults = []
             if (appConfig?.bloginote?.search?.exclude && appConfig.bloginote.search.exclude.length > 0) {
@@ -77,7 +77,7 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
               const res = Object.assign({}, item, {
                 url: item.url.replace(/\/$/, "")
               })
-              console.log(res.excerpt)
+              // console.log(res.excerpt)
               return res
             });
           } else {
@@ -89,7 +89,7 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
           searchState.value = 'solved'
         }
       } else {
-        console.log('tidak ada pagefind')
+        // console.log('tidak ada pagefind')
       }
     // }, delay)
   } else {
@@ -101,15 +101,15 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
 }
 const inputHandler = async (event: Event) => {
   const target = event.target as HTMLInputElement
-  console.log(target.value)
+  // console.log(target.value)
   if (pagefind) {
     if(target.value.length === 1) {
       await pagefind.preload(target.value);
     }
     await debouncedSearch(target.value)
   } else {
-    console.log(process.dev)
-    console.log('tidak ada pagefind.preload')
+    // console.log(process.dev)
+    // console.log('tidak ada pagefind.preload')
 
   }
 }
@@ -132,7 +132,13 @@ defineShortcuts({
     usingInput: true,
     whenever: [isSearchModalOpen],
     handler: () => { isSearchModalOpen.value = false }
+  },
+  delete: {
+    usingInput: true,
+    whenever: [isSearchModalOpen],
+    handler: () => { inputText.value = ''; searchResults.value = [] }
   }
+
 })
 </script>
 
@@ -144,7 +150,7 @@ Client-Only
       .px-4.py-4.flex.items-center.gap-4.border-b.rounded-t-lg(class="dark:bg-gray-900")
         UInput(
           name="searchInputDOM"
-          autofocus
+          :autofocus='isSearchModalOpen && !inputText.length '
           v-model="inputText"
           type="text"
           placeholder="Search Content"
@@ -154,12 +160,13 @@ Client-Only
           Icon.shrink-0.w-6.h-6.text-gray-600(name="tabler:search")
         button(
           v-if='inputText.length'
-          class="flex justify-center items-center text-gray-200 hover:text-gray-400 transition-colors"
+          title='pencet Del utk hapus semua'
+          class="px-2 py-1 text-xs text-gray-400 hover:text-gray-600 font-mono font-bold hover:bg-gray-50 border border-gray-400 hover:border-gray-600 rounded transition-colors duration-300"
           @click="clearInputTextHandler")
-          Icon.w-6.h-6(name="ion:close-circle")
+            UKbd Del
         button(
           class="px-2 py-1 text-xs text-gray-400 hover:text-gray-600 font-mono font-bold hover:bg-gray-50 border border-gray-400 hover:border-gray-600 rounded transition-colors duration-300"
-          title="hide the search modal"
+          title="penceet Esc untuk menutup"
           @click="isSearchModalOpen=false") 
             UKbd Esc
       div(class="modal-content-container px-4 overflow-y-auto rounded-b-lg")
@@ -169,14 +176,14 @@ Client-Only
           Icon(
             name="fluent:text-t-28-filled"
             class="w-12 h-12")
-          p Type to Search
+          p Ketik untuk mencari
         div(
           v-show="inputText && searchState === 'waiting'"
           class="p-16 flex flex-col justify-center items-center gap-y-8 text-400")
           Icon(
             name="fluent:slide-search-28-filled"
             class="w-12 h-12 animate-bounce")
-          p Searching
+          p Mencari
         ul(
           v-show="searchResults.length>0"
           class="search-result p-4 space-y-2")
@@ -197,7 +204,7 @@ Client-Only
           Icon(
             name="fluent:mail-inbox-dismiss-28-filled"
             class="w-12 h-12 ")
-          p Oops! There is no result.
+          p Mboten wonten.
 </template>
 
 <style scoped>
