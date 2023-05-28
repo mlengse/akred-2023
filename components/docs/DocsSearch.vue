@@ -111,8 +111,8 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
 const inputHandler = async (event: Event) => {
   const target = event.target as HTMLInputElement
   // console.log(target.value)
-  if (pagefind && target.value.length) {
-    if(target.value.length === 1) {
+  if (pagefind && target?.value?.length) {
+    if(target?.value?.length === 1) {
       await pagefind.preload(target.value);
     }
     await debouncedSearch(target.value.toLowerCase())

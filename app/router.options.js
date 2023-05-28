@@ -41,12 +41,11 @@ export default {
             // console.log(searchText, !!matchingElement)
             return matchingElement
           }
-          return new Promise((resolve, reject) => {
-              if (x > 50) {
-                return resolve('')
-              }
-              setTimeout(() => { resolve(findEl(hash, ++x || 1)) }, 100)
-            })
+          if (x > 50) {
+            return ''
+          }
+
+          return setTimeout(() => { resolve(findEl(hash, ++x || 1)) }, 100)
         }
         function highlight(keyword){
           document.querySelector('article.page-body').innerHTML = transformContent(keyword)
