@@ -20,7 +20,6 @@ defineProps({
 })
 </script>
 
-<<<<<<< HEAD
 <template lang="pug">
 header( :class="{ 'has-dialog': hasDialog }")
   Container( :fluid="config?.header?.fluid ")
@@ -38,42 +37,6 @@ header( :class="{ 'has-dialog': hasDialog }")
         ThemeSelect
       .social-icons
         AppSocialIcons
-=======
-<template>
-  <header :class="{ 'has-dialog': hasDialog }">
-    <Container :fluid="config?.header?.fluid ">
-      <div class="section left">
-        <AppHeaderDialog v-if="hasDialog" />
-        <AppHeaderLogo />
-      </div>
-
-      <div class="section center">
-        <AppHeaderLogo v-if="hasDialog" />
-        <AppHeaderNavigation />
-      </div>
-
-      <div class="section right">
-        <UButton
-            color="gray"
-            variant="ghost"
-            class="lg:hidden"
-            icon="i-heroicons-magnifying-glass-20-solid"
-            @click="openDocsSearch"
-          />
-
-
-        <!-- <div class="mr-1.5 hidden lg:block">
-          <ColorThemeSelect />
-        </div> -->
-        
-        <ThemeSelect />
-        <div class="social-icons">
-          <AppSocialIcons />
-        </div>
-      </div>
-    </Container>
-  </header>
->>>>>>> 0fca1df3b153fdcffe2a3642867599990b8e782c
 </template>
 
 <style scoped lang="ts">
