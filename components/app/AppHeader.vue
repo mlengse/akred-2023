@@ -21,7 +21,8 @@ defineProps({
 </script>
 
 <template lang="pug">
-header( :class="{ 'has-dialog': hasDialog }")
+      
+header( :class="{ 'has-dialog': hasDialog }" data-pagefind-ignore)
   Container( :fluid="config?.header?.fluid ")
     .section.left
       AppHeaderDialog( v-if="hasDialog")

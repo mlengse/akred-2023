@@ -65,7 +65,7 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
           const metaResults = await pagefind.debouncedSearch(key);
           timer = null
           if (metaResults?.results?.length > 0) {
-            console.log(`${key}: ${metaResults.results.length}`)
+            // console.log(`${key}: ${metaResults.results.length}`)
             const resultsData = await Promise.all(metaResults.results.map((r: any) => r.data()));
             let filterResults = []
             if (appConfig?.bloginote?.search?.exclude && appConfig.bloginote.search.exclude.length > 0) {
@@ -74,10 +74,19 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
               filterResults = resultsData
             }
             searchResults.value = filterResults.map( item => {
+              let hash = item.excerpt
+              while(hash.includes('mark')){
+                hash = item.excerpt.substring(
+                  item.excerpt.indexOf("<mark>") + 6, 
+                  item.excerpt.indexOf("</mark>")
+                )
+              } 
+              hash = hash.replace(/[^a-z0-9]/gi, '').split(' ').join('-')
+              // console.log(hash)
               const res = Object.assign({}, item, {
-                url: item.url.replace(/\/$/, "")
+                url: `${item.url.replace(/\/$/, "")}#${hash}`
               })
-              // console.log(res.excerpt)
+              // console.log(res.url)
               return res
             });
           } else {
@@ -102,11 +111,11 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
 const inputHandler = async (event: Event) => {
   const target = event.target as HTMLInputElement
   // console.log(target.value)
-  if (pagefind) {
+  if (pagefind && target.value.length) {
     if(target.value.length === 1) {
       await pagefind.preload(target.value);
     }
-    await debouncedSearch(target.value)
+    await debouncedSearch(target.value.toLowerCase())
   } else {
     // console.log(process.dev)
     // console.log('tidak ada pagefind.preload')

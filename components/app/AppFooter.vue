@@ -10,9 +10,11 @@ const nbSocialIcons = computed(() => (socialIcons.value ? socialIconsCount.value
 <template>
   <footer>
     <Container
+
       :fluid="config?.footer?.fluid"
       padded
       class="footer-container"
+      data-pagefind-ignore
     >
       <!-- Left -->
       <div class="left">

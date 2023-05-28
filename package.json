@@ -31,5 +31,8 @@
     "typescript": "^5.0.4",
     "vite-plugin-inspect": "^0.7.26",
     "vite-plugin-pug": "^0.3.2"
+  },
+  "dependencies": {
+    "remark-super": "file:./markdownPlugins/remark-super"
   }
 }

@@ -89,7 +89,28 @@ export default defineNuxtConfig({
     },
     navigation: {
       fields: ['icon', 'titleTemplate', 'header', 'main', 'aside', 'footer']
+    },
+    markdown: {
+      // toc: {
+      //   depth: 5,
+      //   searchDepth: 5
+      // },
+      remarkPlugins: [
+        // 'remark-math', 
+        // 'remark-sub', 
+        'remark-super'
+      ],
+      // rehypePlugins: {
+      //   'rehype-katex': {
+      //     // the math formula will render as HTML and Mathml
+      //     // because the Mathml <annotation> contain the formula text content
+      //     // and enable to copy the formula from the web page
+      //     // refer to https://katex.org/docs/options.html#:~:text=output
+      //     output: 'mathml' // the default value is `htmlAndMathml`
+      //   }
+      // }
     }
+
 
   },
   nitro: {

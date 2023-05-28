@@ -95,7 +95,7 @@ onBeforeUnmount(() => {
     >
       <div class="toc-wrapper">
         <button @click="isOpen = !isOpen">
-          <span class="title">Table of Contents</span>
+          <span class="title">Daftar Isi</span>
           <Icon
             name="heroicons-outline:chevron-right"
             class="icon"
