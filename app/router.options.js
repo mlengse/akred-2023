@@ -47,17 +47,17 @@ export default {
 
           return setTimeout(() => { resolve(findEl(hash, ++x || 1)) }, 100)
         }
-        function highlight(keyword){
-          document.querySelector('article.page-body').innerHTML = transformContent(keyword)
+        function highlight(el, keyword){
+          el.innerHTML = transformContent(el, keyword)
           // console.log('highlight')
         }
         
-        function transformContent(keyword){
+        function transformContent(el, keyword){
           let keywords = keyword.split('-')
-          let temp = document.querySelector('article.page-body').innerHTML
+          let temp = el.innerHTML
           console.log(keywords)
           keywords.forEach(keyword => {
-            temp = temp.replace(new RegExp(keyword, 'ig'), wrapKeywordWithHTML(keyword, `https://www.google.com/search?q=${keyword}`))
+            temp = temp.replace(new RegExp(keyword, 'ig'), wrapKeywordWithHTML(keyword ))
           })
         
           return temp
@@ -74,10 +74,10 @@ export default {
           let searchText = to.hash.split('#').join('')
           if ('scrollBehavior' in document.documentElement.style) {
             window.scrollTo({ top: el.offsetTop, behavior: 'smooth' })
-            resolve(highlight(searchText))
+            resolve(highlight(el, searchText))
           } else {
             window.scrollTo(0, el.offsetTop)
-            resolve(highlight(searchText))
+            resolve(highlight(el, searchText))
           }
         } else {
           resolve(window.scrollTo(0, 0))
