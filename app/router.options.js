@@ -31,14 +31,14 @@ export default {
           if(!!el){
             return el
           }
-          // console.log(hash)
+          console.log(hash)
           let searchText = hash.split('#').join('')
           let elems = getElementsWithNoChildren(document)
           let matchingElementArr = Array.from(elems).filter(v => v.textContent.includes(searchText));
           let matchingElement = false
           if(matchingElementArr.length){
             matchingElement = matchingElementArr[0]
-            // console.log(searchText, !!matchingElement)
+            console.log(searchText, !!matchingElement)
             return matchingElement
           }
           if (x > 50) {
@@ -53,13 +53,18 @@ export default {
         }
         
         function transformContent(keyword){
-          let temp = document.querySelector('article.page-body').innerHTML.replace(new RegExp(keyword, 'ig'), wrapKeywordWithHTML(keyword))
+          let keywords = keyword.split('-')
+          let temp = document.querySelector('article.page-body').innerHTML
+          console.log(keywords)
+          keywords.forEach(keyword => {
+            temp = temp.replace(new RegExp(keyword, 'ig'), wrapKeywordWithHTML(keyword, `https://www.google.com/search?q=${keyword}`))
+          })
         
           return temp
         }
         
         function wrapKeywordWithHTML(keyword){
-          return `<mark style="bg-yellow-300">  ${keyword}  </mark>`
+          return `<mark style="bg-yellow-300">${keyword}</mark>`
         }
     
     

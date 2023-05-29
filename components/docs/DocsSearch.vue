@@ -65,7 +65,7 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
           const metaResults = await pagefind.debouncedSearch(key);
           timer = null
           if (metaResults?.results?.length > 0) {
-            // console.log(`${key}: ${metaResults.results.length}`)
+            console.log(`${key}: ${metaResults.results.length}`)
             const resultsData = await Promise.all(metaResults.results.map((r: any) => r.data()));
             let filterResults = []
             if (appConfig?.bloginote?.search?.exclude && appConfig.bloginote.search.exclude.length > 0) {
@@ -81,12 +81,12 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
                   item.excerpt.indexOf("</mark>")
                 )
               } 
-              hash = hash.replace(/[^a-z0-9]/gi, '').split(' ').join('-')
-              // console.log(hash)
+              hash = hash.replace(/[^a-z0-9 -]/gi, ' ').split(' ').filter( e => e.length).join('-')
+              console.log(hash)
               const res = Object.assign({}, item, {
                 url: `${item.url.replace(/\/$/, "")}#${hash}`
               })
-              // console.log(res.url)
+              console.log(res.url)
               return res
             });
           } else {
@@ -159,7 +159,7 @@ Client-Only
       .px-4.py-4.flex.items-center.gap-4.border-b.rounded-t-lg
         UInput(
           name="searchInputDOM"
-          :autofocus='isSearchModalOpen && !inputText.length '
+          :autofocus='() =>isSearchModalOpen && !inputText.length '
           v-model="inputText"
           type="text"
           placeholder="Search Content"
