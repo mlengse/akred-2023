@@ -5,7 +5,7 @@ export default {
     return new Promise((resolve) => {
       nuxtApp.hook('page:finish', async () => {
         console.log('page finish')
-        if(to.hash){
+        if(to.hash.length){
           let hash = to.hash
           let searchTexts = [...new Set([hash.split('#').join(''), hash.split('#').join('').toLowerCase()])]
           let elems = getElementsWithNoChildren(document.querySelector('article.page-body'))
