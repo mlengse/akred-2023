@@ -29,22 +29,7 @@ watch(isSearchModalOpen, () => {
     document.body.classList.remove('overflow-hidden')
   }
 })
-// const searchInputDOM = ref<HTMLElement | null>(null) // get the input DOM
-// when the search modal show up, auto focus the input box
-onMounted(() => {
-  // watch(isSearchModalOpen, () => {
-  //   if (searchInputDOM.value && isSearchModalOpen.value) {
-  //     nextTick(() => {
-  //       searchInputDOM.value?.focus()
-  //     })
-  //   }
-  // })
-})
-// const focusInputHandler = () => {
-//   if (searchInputDOM.value) {
-//     searchInputDOM.value.focus()
-//   }
-// }
+
 // listen input and then search
 const searchState = ref<'waiting' | 'solved'>('waiting')
 const inputText = ref<string>('')
@@ -159,7 +144,7 @@ Client-Only
       .px-4.py-4.flex.items-center.gap-4.border-b.rounded-t-lg
         UInput(
           name="searchInputDOM"
-          :autofocus='() =>isSearchModalOpen && !inputText.length '
+          :autofocus='isSearchModalOpen && !inputText.length'
           v-model="inputText"
           type="text"
           placeholder="Search Content"

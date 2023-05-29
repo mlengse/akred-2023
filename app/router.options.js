@@ -4,42 +4,54 @@ export default {
 
     return new Promise((resolve) => {
       nuxtApp.hook('page:finish', async () => {
+        console.log('page finish')
+        if(to.hash){
+          let hash = to.hash
+          let searchTexts = [...new Set([hash.split('#').join(''), hash.split('#').join('').toLowerCase()])]
+          let elems = getElementsWithNoChildren(document.querySelector('article.page-body'))
+          searchTexts.map(searchText => {
+
+            let matchingElementArr = Array.from(elems).filter(v => v.textContent.includes(searchText));
+            if(matchingElementArr.length){
+              console.log(searchText, matchingElementArr.length)
+              highlight(matchingElementArr, searchText)
+            }
+          })
+        }
         if (savedPosition) {
           return savedPosition
         }
     
-        const getElementsWithNoChildren = (target) => {
+        function getElementsWithNoChildren (target) {
           let candidates;
       
           if (target && typeof target.querySelectorAll === 'function') {
-              candidates = target.querySelectorAll('*');
+            candidates = target.querySelectorAll('*');
           }
           else if (target && typeof target.length === 'number') {
-              candidates = target;
+            candidates = target;
           }
           else {
-              candidates = document.querySelectorAll('*');
+            candidates = document.querySelectorAll('*');
           }
       
           return Array.from(candidates).filter((elem) => {
-              return elem.children.length === 0;
+            return elem.children.length === 0;
           });
         };
     
         const findEl = async (hash , x ) => {
           let el = document.querySelector(hash)
-          if(!!el){
-            return el
-          }
-          console.log(hash)
           let searchText = hash.split('#').join('')
-          let elems = getElementsWithNoChildren(document)
+          let elems = getElementsWithNoChildren(document.querySelector('article.page-body'))
           let matchingElementArr = Array.from(elems).filter(v => v.textContent.includes(searchText));
           let matchingElement = false
           if(matchingElementArr.length){
             matchingElement = matchingElementArr[0]
-            console.log(searchText, !!matchingElement)
             return matchingElement
+          }
+          if(!!el){
+            return el
           }
           if (x > 50) {
             return ''
@@ -47,15 +59,15 @@ export default {
 
           return setTimeout(() => { resolve(findEl(hash, ++x || 1)) }, 100)
         }
-        function highlight(el, keyword){
-          el.innerHTML = transformContent(el, keyword)
-          // console.log('highlight')
+        function highlight(els, keyword){
+          els.map( el => el.innerHTML = transformContent(el, keyword))
+          
         }
         
         function transformContent(el, keyword){
           let keywords = keyword.split('-')
           let temp = el.innerHTML
-          console.log(keywords)
+          // console.log(keywords)
           keywords.forEach(keyword => {
             temp = temp.replace(new RegExp(keyword, 'ig'), wrapKeywordWithHTML(keyword ))
           })
@@ -69,15 +81,11 @@ export default {
     
     
         if (to.hash) {
-      
           let el = await findEl(to.hash) 
-          let searchText = to.hash.split('#').join('')
           if ('scrollBehavior' in document.documentElement.style) {
-            window.scrollTo({ top: el.offsetTop, behavior: 'smooth' })
-            resolve(highlight(el, searchText))
+            resolve(window.scrollTo({ top: el.offsetTop, behavior: 'smooth' }))
           } else {
-            window.scrollTo(0, el.offsetTop)
-            resolve(highlight(el, searchText))
+            resolve(window.scrollTo(0, el.offsetTop))
           }
         } else {
           resolve(window.scrollTo(0, 0))
