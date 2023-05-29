@@ -7,20 +7,18 @@ export default {
         console.log('page finish')
         if(to.hash.length){
           let hash = to.hash
-          let searchTexts = [...new Set([hash.split('#').join(''), hash.split('#').join('').toLowerCase()])]
-          let elems = getElementsWithNoChildren(document.querySelector('article.page-body'))
-          searchTexts.map(searchText => {
-
-            let matchingElementArr = Array.from(elems).filter(v => v.textContent.includes(searchText));
-            if(matchingElementArr.length){
-              console.log(searchText, matchingElementArr.length)
-              highlight(matchingElementArr, searchText)
+          let searchTexts = [...new Set([...hash.split('#').join('').split('-'), ...hash.split('#').join('').toLowerCase().split('-')])]
+          let elems = document.querySelector('article.page-body').querySelectorAll('*')
+          for(let searchText of searchTexts){
+            for(let v of elems) if(v.textContent.includes(searchText)){
+              console.log(searchText)
+              highlight([v], searchText)
             }
-          })
+          }
         }
-        if (savedPosition) {
-          return savedPosition
-        }
+        // if (savedPosition) {
+        //   return savedPosition
+        // }
     
         function getElementsWithNoChildren (target) {
           let candidates;
@@ -42,7 +40,8 @@ export default {
     
         const findEl = async (hash , x ) => {
           let el = document.querySelector(hash)
-          let searchText = hash.split('#').join('')
+          let searchTexts = hash.split('#').join('').split('-')
+          let searchText = searchTexts[0]
           let elems = getElementsWithNoChildren(document.querySelector('article.page-body'))
           let matchingElementArr = Array.from(elems).filter(v => v.textContent.includes(searchText));
           let matchingElement = false
