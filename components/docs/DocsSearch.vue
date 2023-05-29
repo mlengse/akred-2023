@@ -66,12 +66,11 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
                   item.excerpt.indexOf("</mark>")
                 )
               } 
-              hash = hash.replace(/[^a-z0-9 -]/gi, ' ').split(' ').filter( e => e.length).join('-')
-              console.log(hash)
+              hash = hash.replace(/[^a-z0-9]/gi, ' ').split(' ').filter( v => v.length).join('-')
               const res = Object.assign({}, item, {
                 url: `${item.url.replace(/\/$/, "")}#${hash}`
               })
-              console.log(res.url)
+              console.log(hash, res.url)
               return res
             });
           } else {
