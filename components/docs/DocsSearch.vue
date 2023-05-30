@@ -60,11 +60,11 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
             }
             searchResults.value = filterResults.map( item => {
               let hash = ''
-                const a = new RegExp(`(?<=<mark>)(.*?)(?=</mark>)`, 'gi')
+                const a = new RegExp(`(?<=<mark>)(.*?)(?=</mark>)`, 'g')
                 const arrhash = item.excerpt.match(a).filter( v => v.length)
               console.log(arrhash)
                 // .join('-')
-              hash = [...new Set(arrhash.join(' ').replace(/[^a-z0-9]/gi, ' ').split(' '))].filter( (v: string )=> v.length).join('-')
+              hash = [...new Set(arrhash.join(' ').replace(/[^a-z0-9]/g, ' ').split(' '))].filter( (v: string )=> v.length).join('-')
               const res = Object.assign({}, item, {
                 url: `${item.url.replace(/\/$/, "")}#${hash}`
               })
@@ -93,9 +93,9 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
   }
 }
 const inputHandler = async (event: Event) => {
-  const target = event.target as HTMLInputElement
+  const target = event?.target as HTMLInputElement
   // console.log(target.value)
-  if (pagefind && target?.value?.length) {
+  if (pagefind && target?.value?.length && typeof target.value === 'string') {
     if(target?.value?.length === 1) {
       await pagefind.preload(target?.value);
     }

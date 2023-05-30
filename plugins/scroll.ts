@@ -53,12 +53,12 @@ export default defineNuxtPlugin(() => {
       const hash = window.location.hash
       // console.log(to)
       // console.log(window.location.pathname)
-      const searchTexts = hash.replace(/[^\w\d]/gi, ' ').split(' ').filter( w => w.length)
+      const searchTexts = [...new Set([...hash.replace(/[^\w\d]/g, ' ').split(' '), ...hash.replace(/[^\w\d]/g, ' ').toLowerCase().split(' ')])].filter( w => w.length)
       const el = document.querySelector('article.page-body')
       for(const searchText of searchTexts){
-          let a = new RegExp(`(?<=>[^>]*)(${searchText})(?=[^>]*<)`, 'gi')
+          let a = new RegExp(`(?<=>[^>]*)(${searchText})(?=[^>]*<)`, 'g')
           let b = el.innerHTML.match(a)
-          console.log(searchText, b?.length)
+          console.log(searchText, b)
           el.innerHTML = el.innerHTML.replace(a, wrapKeywordWithHTML(searchText ))
       }
       // console.log(el.innerHTML)
