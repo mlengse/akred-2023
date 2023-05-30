@@ -3,7 +3,7 @@ export const useDocus = () => {
   const { navPageFromPath, navDirFromPath, navKeyFromPath } = useContentHelpers()
   const { navigation, page } = useContent()
   const route = useRoute()
-  console.log(page.value.title)
+  // console.log(page.value.title)
 
   /**
    * Returns fallbacked values for `main`, `header`, `aside` and `footer`.
