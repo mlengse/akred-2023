@@ -59,14 +59,12 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
               filterResults = resultsData
             }
             searchResults.value = filterResults.map( item => {
-              let hash = item.excerpt
+              let hash = ''
               while(hash.includes('mark')){
-                hash = item.excerpt.substring(
-                  item.excerpt.indexOf("<mark>") + 6, 
-                  item.excerpt.indexOf("</mark>")
-                )
+                const a = new RegExp(`(?<=>[^>]*)(.*?)(?=[^>]*<[\\/\\-\\!])`, 'gi')
+                hash = item.excerpt.match(a).filter( v => v.length).join('-')
               } 
-              hash = hash.replace(/[^a-z0-9]/gi, ' ').split(' ').filter( v => v.length).join('-')
+              hash = [...new Set(hash.replace(/[^a-z0-9]/gi, ' ').split(' '))].filter( v => v.length).join('-')
               const res = Object.assign({}, item, {
                 url: `${item.url.replace(/\/$/, "")}#${hash}`
               })
