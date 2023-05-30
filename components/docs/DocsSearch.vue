@@ -97,9 +97,9 @@ const inputHandler = async (event: Event) => {
   // console.log(target.value)
   if (pagefind && target?.value?.length) {
     if(target?.value?.length === 1) {
-      await pagefind.preload(target.value);
+      await pagefind.preload(target?.value);
     }
-    await debouncedSearch(target.value.toLowerCase())
+    await debouncedSearch(target?.value?.toLowerCase())
   } else {
     // console.log(process.dev)
     // console.log('tidak ada pagefind.preload')
