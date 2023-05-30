@@ -3,6 +3,7 @@ export const useDocus = () => {
   const { navPageFromPath, navDirFromPath, navKeyFromPath } = useContentHelpers()
   const { navigation, page } = useContent()
   const route = useRoute()
+  console.log(page.value.title)
 
   /**
    * Returns fallbacked values for `main`, `header`, `aside` and `footer`.
@@ -16,6 +17,7 @@ export const useDocus = () => {
       const header = docus?.value?.header || {}
       const aside = docus?.value?.aside || {}
       const footer = docus?.value?.footer || {}
+
 
       return {
         // Raw appConfig
@@ -31,7 +33,9 @@ export const useDocus = () => {
         header: {
           ...header,
           ...navKeyFromPath(route.path, 'header', navigation.value || []),
-          ...page.value?.header
+          ...page.value?.header,
+          title: page.value.title
+
         } as typeof header,
         aside: {
           ...aside,

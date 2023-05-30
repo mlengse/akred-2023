@@ -36,7 +36,8 @@ export default {
       iconLinks: [
         {
           href: 'https://pkm-jayengan.surakarta.go.id/',
-          icon: 'mdi:web'
+          icon: 'mdi:web',
+          label: 'laman resmi Puskesmas Jayengan'
         }
       ]
     }

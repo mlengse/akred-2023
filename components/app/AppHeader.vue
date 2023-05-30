@@ -32,7 +32,7 @@ header( :class="{ 'has-dialog': hasDialog }" data-pagefind-ignore)
       AppHeaderNavigation
     .section.right
       Client-Only
-        button(@click="openDocsSearch")
+        button( aria-label='cari' @click="openDocsSearch")
           Icon( name="heroicons:magnifying-glass")
         //- ColorThemeSelect
         ThemeSelect

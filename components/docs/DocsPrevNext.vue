@@ -20,6 +20,7 @@ const directory = (link: any) => {
 <template>
   <div
     v-if="prev || next"
+    data-pagefind-ignore
     class="docs-prev-next"
   >
     <NuxtLink

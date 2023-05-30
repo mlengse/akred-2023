@@ -8,7 +8,7 @@ const nbSocialIcons = computed(() => (socialIcons.value ? socialIconsCount.value
 </script>
 
 <template>
-  <footer>
+  <footer data-pagefind-ignore>
     <Container
 
       :fluid="config?.footer?.fluid"
