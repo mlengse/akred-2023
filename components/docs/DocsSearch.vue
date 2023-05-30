@@ -60,15 +60,17 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
             }
             searchResults.value = filterResults.map( item => {
               let hash = ''
-              while(hash.includes('mark')){
-                const a = new RegExp(`(?<=>[^>]*)(.*?)(?=[^>]*<[\\/\\-\\!])`, 'gi')
-                hash = item.excerpt.match(a).filter( v => v.length).join('-')
-              } 
-              hash = [...new Set(hash.replace(/[^a-z0-9]/gi, ' ').split(' '))].filter( v => v.length).join('-')
+                const a = new RegExp(`(?<=<mark>)(.*?)(?=</mark>)`, 'gi')
+                const arrhash = item.excerpt.match(a).filter( v => v.length)
+              console.log(arrhash)
+                // .join('-')
+              hash = [...new Set(arrhash.join(' ').replace(/[^a-z0-9]/gi, ' ').split(' '))].filter( (v: string )=> v.length).join('-')
               const res = Object.assign({}, item, {
                 url: `${item.url.replace(/\/$/, "")}#${hash}`
               })
-              console.log(hash, res.url)
+              // console.log(item.excerpt)
+              console.log(hash)
+              // console.log(res.url)
               return res
             });
           } else {

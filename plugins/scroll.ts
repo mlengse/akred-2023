@@ -56,17 +56,12 @@ export default defineNuxtPlugin(() => {
       const searchTexts = hash.replace(/[^\w\d]/gi, ' ').split(' ').filter( w => w.length)
       const el = document.querySelector('article.page-body')
       for(const searchText of searchTexts){
-        if(el.textContent.includes(searchText)){
-          let temp = el.innerHTML
-          const a = new RegExp(`(?<=>[^>]*)(${searchText})(?=[^>]*<[\\/\\-\\!])`, 'gi')
-          const b = temp.match(a)
-          if(b){
-            console.log(searchText, b.length)
-            el.innerHTML = temp.replace(a, wrapKeywordWithHTML(searchText ))
-          }
-  
-        }
+          let a = new RegExp(`(?<=>[^>]*)(${searchText})(?=[^>]*<)`, 'gi')
+          let b = el.innerHTML.match(a)
+          console.log(searchText, b?.length)
+          el.innerHTML = el.innerHTML.replace(a, wrapKeywordWithHTML(searchText ))
       }
+      // console.log(el.innerHTML)
 
       const elto = await findEl(window.location.hash, 10, document) as HTMLElement
       if ('scrollBehavior' in document.documentElement.style) {
