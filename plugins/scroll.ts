@@ -48,8 +48,8 @@ export default defineNuxtPlugin(() => {
   }
 
   nuxtApp.hook('page:finish', async () => {
-    console.log('page finish', window.location.pathname, window.location.hash)
     if(window.location.hash.length){
+      console.log('page finish', window.location.pathname, window.location.hash)
       const hash = window.location.hash
       // console.log(to)
       // console.log(window.location.pathname)
@@ -58,7 +58,7 @@ export default defineNuxtPlugin(() => {
       for(const searchText of searchTexts){
           let a = new RegExp(`(?<=>[^>]*)(${searchText})(?=[^>]*<)`, 'g')
           let b = el.innerHTML.match(a)
-          console.log(searchText, b)
+          console.log(searchText, b.length)
           el.innerHTML = el.innerHTML.replace(a, wrapKeywordWithHTML(searchText ))
       }
       // console.log(el.innerHTML)
