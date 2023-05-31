@@ -97,10 +97,6 @@ export default defineTheme({
       ]
     },
     body: {
-      backgroundColor: {
-        initial: '{color.white}', 
-        dark: '{color.black}',
-      },
       color: {
         initial: '{color.gray.800}',
         dark: '{color.gray.200}',

@@ -1,5 +1,24 @@
-export default defineNuxtPlugin(() => {
-  const nuxtApp = useNuxtApp()
+import hyphen from 'hyphen/id'
+
+const { hyphenateHTML } = hyphen
+
+// hyphenate("Plain text - hyphenate everything").then(result => {
+//   // Plain text - hy[-]phen[-]ate every[-]thing
+// });
+
+// hyphenateHTMLSync("<blockquote>Sync version of `hyphenateHTML`</blockquote>");
+// // <blockquote>Sync ver[-]sion of `hy[-]phen[-]ate[-]HTML`</blockquote>
+
+// hyphenateSync("Sync version of `hyphenate`");
+// // Sync ver[-]sion of `hy[-]phen[-]ate`
+
+export default defineNuxtPlugin( nuxtApp => {
+  nuxtApp.hook('app:rendered', ctx =>{
+    console.log('app rendered')
+  })
+  nuxtApp.hook('page:start', ctx =>{
+    console.log('page start')
+  })
 
   // if (savedPosition) {
   //   return savedPosition
@@ -47,22 +66,23 @@ export default defineNuxtPlugin(() => {
     return `<mark style="bg-yellow-300">${keyword}</mark>`
   }
 
-  nuxtApp.hook('page:finish', async () => {
+  nuxtApp.hook('page:finish', async page => {
+    const el = document.querySelector('article.page-body')
     if(window.location.hash.length){
       console.log('page finish', window.location.pathname, window.location.hash)
       const hash = window.location.hash
       // console.log(to)
       // console.log(window.location.pathname)
       const searchTexts = [...new Set([...hash.replace(/[^\w\d]/g, ' ').split(' '), ...hash.replace(/[^\w\d]/g, ' ').toLowerCase().split(' ')])].filter( w => w.length)
-      const el = document.querySelector('article.page-body')
       for(const searchText of searchTexts){
           let a = new RegExp(`(?<=>[^>]*)(${searchText})(?=[^>]*<)`, 'g')
           let b = el.innerHTML.match(a)
           console.log(searchText, b.length)
           el.innerHTML = el.innerHTML.replace(a, wrapKeywordWithHTML(searchText ))
       }
-      // console.log(el.innerHTML)
 
+      
+      
       const elto = await findEl(window.location.hash, 10, document) as HTMLElement
       if ('scrollBehavior' in document.documentElement.style) {
         window.scrollTo({ top: elto.offsetTop, behavior: 'smooth' })
@@ -73,5 +93,10 @@ export default defineNuxtPlugin(() => {
       window.scrollTo(0, 0)
 
     }
+    // console.log(el.innerHTML)
+    hyphenateHTML(el.innerHTML).then( result => {
+      el.innerHTML = result
+      // <blockquote>HTML tags are NOT hy[-]phen[-]at[-]ed</blockquote>
+    });
   })
 })

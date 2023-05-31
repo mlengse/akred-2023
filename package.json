@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "nuxi generate && npx pagefind && nuxi dev",
+    "dev": "nuxi dev",
+    "devgen": "nuxi generate && npx pagefind && nuxi dev",
     "build": "nuxi build",
     "generate": "nuxi generate && npx pagefind",
     "preview": "nuxi generate && npx pagefind && nuxi preview",
@@ -23,16 +24,17 @@
     "@volar/vue-language-plugin-pug": "^1.6.5",
     "@vueuse/nuxt": "^10.1.2",
     "eslint": "^8.40.0",
+    "hyphen": "^1.6.5",
+    "hypher": "^0.2.5",
     "nuxt": "^3.5.0",
     "nuxt-lodash": "^2.4.1",
     "nuxt-seo-kit": "^1.3.8",
     "pinceau": "^0.18.9",
+    "remark-hypher": "^0.0.1",
+    "remark-super": "^1.0.2",
     "sitemap": "^7.1.1",
     "typescript": "^5.0.4",
     "vite-plugin-inspect": "^0.7.26",
     "vite-plugin-pug": "^0.3.2"
-  },
-  "dependencies": {
-    "remark-super": "file:./markdownPlugins/remark-super"
   }
 }

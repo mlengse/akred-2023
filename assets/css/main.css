@@ -6,25 +6,15 @@
   --color: #243746;
   --color-primary: #158876;
   --color-secondary: #0e2233;
-  --bg: #f3f5f4;
+  --bg: #737473;
   --bg-secondary: #fff;
   --border-color: #ddd;
 }
 
-.dark-mode {
-  --color: #ebf4f1;
-  --color-primary: #41b38a;
-  --color-secondary: #fdf9f3;
-  --bg: #091a28;
-  --bg-secondary: #071521;
-  --border-color: #0d2538;
-}
-.sepia-mode {
-  --color: #433422;
-  --color-secondary: #504231;
-  --bg: #e7b43b;
-  --bg-secondary: #d4a639;
-  --border-color: #bb6f13;
+article {
+  hyphens: auto;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .dark:root {

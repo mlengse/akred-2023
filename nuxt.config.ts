@@ -1,4 +1,6 @@
 import { createResolver } from '@nuxt/kit'
+// import en from './patterns/en'
+// import id from './patterns/id'
 
 const { resolve } = createResolver(import.meta.url)
 
@@ -34,7 +36,7 @@ export default defineNuxtConfig({
       siteUrl: process.env.SITE_URL,
       siteName: 'Akreditasi 2023',
       siteDescription: 'Puskesmas Jayengan. Sahabat menuju sehat.',
-      language: 'id-ID',
+      language: 'id',
 
     }
   },
@@ -95,11 +97,20 @@ export default defineNuxtConfig({
       //   depth: 5,
       //   searchDepth: 5
       // },
-      remarkPlugins: [
+      remarkPlugins: {
         // 'remark-math', 
         // 'remark-sub', 
-        'remark-super'
-      ],
+        'remark-super':{
+
+        },
+        // 'remark-hypher': {
+        //   language: id,
+        //   // language: en,
+        //   leftmin: 2,
+        //   rightmin: 3,
+        //   minLength: 4,
+        // },
+      },
       // rehypePlugins: {
       //   'rehype-katex': {
       //     // the math formula will render as HTML and Mathml
@@ -125,7 +136,7 @@ export default defineNuxtConfig({
     globalName: '__NUXT_COLOR_MODE__',
     componentName: 'AkColorScheme',
     classPrefix: '',
-    classSuffix: '-mode',
+    classSuffix: '',
     storageKey: 'nuxt-color-mode'
   },
   
@@ -133,7 +144,7 @@ export default defineNuxtConfig({
     inlineSSRStyles: false
   },
   ui: {
-    global: true,
+    // global: true,
     // icons: ['heroicons', 'simple-icons']
     icons: ['all']
   },
