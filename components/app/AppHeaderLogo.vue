@@ -50,6 +50,7 @@ css({
     display: 'flex',
     alignItems: 'center',
     flex: 'none',
+    width: 'auto',
 
     '.logo': {
       height: '{docus.header.logo.height}',
