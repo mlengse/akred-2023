@@ -72,8 +72,7 @@ css({
     },
 
     '.title': {
-      fontSize: '50vw',
-      fontWeight: '{docus.header.title.fontWeight}',
+      fontSize: '5vw',
       color: '{docus.header.title.color.static}',
       '&:hover': {
         color: '{docus.header.title.color.hover}',
