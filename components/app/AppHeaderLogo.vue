@@ -72,7 +72,7 @@ css({
     },
 
     '.title': {
-      fontSize: '5vw',
+      fontSize: 'calc(3 * (0.5vw + 0.5vh));',
       fontWeight: '{docus.header.title.fontWeight}',
       color: '{docus.header.title.color.static}',
       '&:hover': {
