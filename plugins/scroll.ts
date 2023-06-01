@@ -2,8 +2,7 @@ import hyphen from 'hyphen/id'
 
 const { hyphenateHTML } = hyphen
 
-export default defineNuxtPlugin( () => {
-  const nuxtApp = useNuxtApp()
+export default defineNuxtPlugin( nuxtApp => {
 
   function getElementsWithNoChildren (target, document) {
     let candidates;
