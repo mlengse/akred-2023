@@ -28,11 +28,6 @@ export default {
       showLinkIcon: true
     },
     footer: {
-      // credits: {
-      //   icon: 'IconDocus',
-      //   text: 'Bukan Demit',
-      //   href: 'https://github.com/mlengse',
-      // },
       iconLinks: [
         {
           href: 'https://pkm-jayengan.surakarta.go.id/',

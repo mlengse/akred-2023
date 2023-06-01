@@ -3,3 +3,6 @@
 - :badge{type='danger'}[:icon{name='cib:opera'}] 
 - :badge{type='warning'}[:icon{name='simple-icons:webflow'}] 
 - :badge{type='primary'}[:icon{name='mingcute:stripe-line'}] 
+:alert{type='secondary'}
+:alert{type='success'}
+:alert{type='warning'}

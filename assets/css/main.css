@@ -11,10 +11,17 @@
   --border-color: #ddd;
 }
 
-article {
+.page-body{
   hyphens: auto;
   text-align: justify;
-  text-justify: inter-word;
+  text-justify: auto;
+  
+}
+
+.page-body h1, 
+.page-body h2 {
+  text-align: start;
+
 }
 
 .dark:root {
