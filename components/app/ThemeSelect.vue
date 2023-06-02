@@ -11,7 +11,7 @@ const onClick = () => {
 
 <template lang="pug">
 button(aria-label="Color Mode" @click="onClick")
-  AkColorScheme(placeholder="...")
+  AkColorScheme(name='color mode' placeholder="...")
     Icon(v-if="colorMode.preference === 'dark'" name="uil:moon")
     Icon(v-else-if="colorMode.preference === 'sepia'" name="uil:coffee")
     Icon(v-else-if="colorMode.preference === 'light'" name="uil:sun")

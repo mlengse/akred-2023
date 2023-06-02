@@ -6,7 +6,7 @@ Starter template for [Docus](https://docus.dev).
 
 Clone the repository (using `nuxi`):
 
-```bash
+```js
 npx nuxi init -t themes/docus
 ```
 
@@ -14,13 +14,13 @@ npx nuxi init -t themes/docus
 
 Install dependencies:
 
-```bash
+```js
 yarn install
 ```
 
 ## Development
 
-```bash
+```js
 yarn dev
 ```
 
@@ -30,7 +30,7 @@ Can be deployed to Vercel Functions, Netlify Functions, AWS, and most Node-compa
 
 Look at all the available presets [here](https://v3.nuxtjs.org/guide/deploy/presets).
 
-```bash
+```js
 yarn build
 ```
 
@@ -40,7 +40,7 @@ Use the `generate` command to build your application.
 
 The HTML files will be generated in the .output/public directory and ready to be deployed to any static compatible hosting.
 
-```bash
+```js
 yarn generate
 ```
 

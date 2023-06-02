@@ -15,6 +15,7 @@ export default defineNuxtConfig({
   // sitemap: {
   //   hostname: 'http://localhost:3000'
   // },
+  // @ts-ignore
   modules: [
     '@nuxt-themes/tokens',    
     'pinceau/nuxt',
@@ -109,7 +110,7 @@ export default defineNuxtConfig({
   },
   colorMode: {
     preference: 'system', 
-    fallback: 'light',
+    fallback: 'dark',
     hid: 'nuxt-color-mode-script',
     globalName: '__NUXT_COLOR_MODE__',
     componentName: 'AkColorScheme',
