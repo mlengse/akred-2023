@@ -22,6 +22,8 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@vueuse/nuxt',
     '@nuxthq/ui',
+    'nuxt-simple-sitemap',
+    'nuxt-delay-hydration',
     // '@nuxt/devtools',
     // '@nuxthq/studio',
     // '@nuxtjs/plausible',
@@ -100,6 +102,11 @@ export default defineNuxtConfig({
       routes: ['/sitemap.xml']
     }
   },
+  delayHydration: {
+    // enables nuxt-delay-hydration in dev mode for testing
+    debug: process.env.NODE_ENV === 'development',
+    mode: 'init'
+  },
   colorMode: {
     preference: 'system', 
     fallback: 'light',
@@ -121,7 +128,9 @@ export default defineNuxtConfig({
     strict: false,
     includeWorkspace: true
   },
-
+  sitemap: {
+    siteUrl: process.env.SITE_URL,
+  },
   // routeRules: {
   //   '/': { redirect: '/getting-started' }
   // },

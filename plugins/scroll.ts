@@ -1,6 +1,4 @@
-import hyphen from 'hyphen/id'
 
-const { hyphenateHTML } = hyphen
 
 export default defineNuxtPlugin( nuxtApp => {
 
@@ -38,7 +36,7 @@ export default defineNuxtPlugin( nuxtApp => {
       return ''
     }
 
-    return setTimeout(() => { findEl(hash, ++x || 1, document) }, 10)
+    return setTimeout(() => { findEl(hash, ++x || 1, document) }, 300)
   }
   
   
@@ -47,6 +45,10 @@ export default defineNuxtPlugin( nuxtApp => {
   }
 
   nuxtApp.hook('page:finish', async () => {
+    const hyphen = await import('hyphen/id')
+
+    const { hyphenateHTML } = hyphen
+    
     console.log('page finish')
     if(window.location.hash.length){
       console.log(window.location.pathname, window.location.hash)
@@ -100,7 +102,7 @@ export default defineNuxtPlugin( nuxtApp => {
     if(window.location.hash.length){
       const elto = await findEl(window.location.hash, 100, document) as HTMLElement
       if ('scrollBehavior' in document.documentElement.style) {
-        window.scrollTo({ top: elto.offsetTop, behavior: 'smooth' })
+        window.scrollTo({ top: elto.offsetTop - 20, behavior: 'smooth' })
       } else {
         window.scrollTo(0, elto.offsetTop)
       }
