@@ -22,6 +22,11 @@ export default defineNuxtPlugin( nuxtApp => {
 
   const findEl = async (hash: string , x = 100, document ) => {
     let el = document.querySelector(hash)
+
+    if(!!el){
+      return el
+    }
+
     let searchTexts = hash.split('#').join('').split('-')
     let searchText = searchTexts[0]
     let elems = getElementsWithNoChildren(document.querySelector('article.page-body'), document)
@@ -29,9 +34,7 @@ export default defineNuxtPlugin( nuxtApp => {
     if(matchingElementArr.length){
       return matchingElementArr[0]
     }
-    if(!!el){
-      return el
-    }
+
     if (x > 50) {
       return ''
     }
@@ -45,46 +48,57 @@ export default defineNuxtPlugin( nuxtApp => {
   }
 
   nuxtApp.hook('page:finish', async () => {
-    const hyphen = await import('hyphen/id')
-
-    const { hyphenateHTML } = hyphen
-    
     console.log('page finish')
     if(window.location.hash.length){
       console.log(window.location.pathname, window.location.hash)
       const hash = window.location.hash
-      // console.log(to)
-      // console.log(window.location.pathname)
-      const searchTexts = [...new Set([...hash.replace(/[^\w\d]/g, ' ').split(' '), ...hash.replace(/[^\w\d]/g, ' ').toLowerCase().split(' ')])].filter( w => w.length)
-      const els = [
-        ...document.querySelectorAll('article.page-body p'),
-        ...document.querySelectorAll('article.page-body h1'),
-        ...document.querySelectorAll('article.page-body h2'),
-        ...document.querySelectorAll('article.page-body ol'),
-        ...document.querySelectorAll('article.page-body ul'),
-      ]
-      if(els.length) {
-        console.log(els.length)
-        for (let el of els) {
-          for(const searchText of searchTexts){
-            let a = new RegExp(`(?<=>[^>]*)(${searchText})(?=[^>]*<)`, 'gi')
-            let b = el.innerHTML.match(a)
-            if(!b){
-              a = new RegExp(`${searchText}`, 'gi')
-              b = el.innerHTML.match(a)
-            }
-            if(b?.length){
-              el.innerHTML = el.innerHTML.replace(a, wrapKeywordWithHTML)
+      let el = document.querySelector(hash)
+
+      if(!el){
+        // console.log(to)
+        // console.log(window.location.pathname)
+        const searchTexts = [...new Set([...hash.replace(/[^\w\d]/g, ' ').split(' '), ...hash.replace(/[^\w\d]/g, ' ').toLowerCase().split(' ')])].filter( w => w.length)
+        const els = [
+          ...document.querySelectorAll('article.page-body p'),
+          ...document.querySelectorAll('article.page-body h1'),
+          ...document.querySelectorAll('article.page-body h2'),
+          ...document.querySelectorAll('article.page-body ol'),
+          ...document.querySelectorAll('article.page-body ul'),
+        ]
+        if(els.length) {
+          console.log(els.length)
+          
+              for (let el of els) {
+            for(const searchText of searchTexts){
+              let a = new RegExp(`(?<=>[^>]*)(${searchText})(?=[^>]*<)`, 'gi')
+              let b = el.innerHTML.match(a)
+              if(!b){
+                a = new RegExp(`${searchText}`, 'gi')
+                b = el.innerHTML.match(a)
+              }
+              if(b?.length){
+                el.innerHTML = el.innerHTML.replace(a, wrapKeywordWithHTML)
+              }
             }
           }
-        }
-      } 
+        } 
+
+      }
+
     }
+
+    const hyphen = await import('hyphen/id')
+
+    const { hyphenateHTML } = hyphen
 
     const hypEls = [
       ...Array.from(document.querySelectorAll('article.page-body p')),
       ...Array.from(document.querySelectorAll('article.page-body h1')),
       ...Array.from(document.querySelectorAll('article.page-body h2')),
+      ...Array.from(document.querySelectorAll('article.page-body h3')),
+      ...Array.from(document.querySelectorAll('article.page-body h4')),
+      ...Array.from(document.querySelectorAll('article.page-body h5')),
+      ...Array.from(document.querySelectorAll('article.page-body h6')),
       ...Array.from(document.querySelectorAll('article.page-body ol')),
       ...Array.from(document.querySelectorAll('article.page-body ul')),
     ]
