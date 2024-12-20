@@ -44,6 +44,7 @@ export default defineNuxtConfig({
     }
   },
   app: {
+    baseURL: '/akred/pkm/',
     head: {
       // link: [
       //   {

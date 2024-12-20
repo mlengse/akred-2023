@@ -7,7 +7,7 @@
     "devgen": "nuxi generate && npx pagefind && nuxi dev",
     "build": "nuxi build",
     "generate": "nuxi generate && npx pagefind",
-    "preview": "nuxi generate && npx pagefind && nuxi preview",
+    "preview": "nuxi preview",
     "lint": "eslint ."
   },
   "devDependencies": {
