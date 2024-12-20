@@ -44,7 +44,7 @@ export default defineNuxtConfig({
     }
   },
   app: {
-    baseURL: '/akred/pkm/',
+    // baseURL: '/akred/pkm/',
     head: {
       // link: [
       //   {
@@ -91,6 +91,11 @@ export default defineNuxtConfig({
     navigation: {
       fields: ['icon', 'titleTemplate', 'header', 'main', 'aside', 'footer']
     },
+    // experimental: {
+    //   clientDB: true,
+    //   stripQueryParameters: false,
+    //   advancedIgnoresPattern: false
+    // }
     // markdown: {
     //   remarkPlugins: {
     //     'remark-super':{
@@ -99,8 +104,23 @@ export default defineNuxtConfig({
     //   },
     // }
   },
+  // hooks: {
+  //   'prerender:routes' ({ routes }) {
+  //     routes.clear() // Do not generate any routes (except the defaults)
+  //   }
+  // },
+  // ssr: false,
   nitro: {
+    // static: true,
+    // prerender: {
+    //   concurrency: 250,
+    //   interval: 100,
+    // }
+  // },
+  // nitro: {
     prerender: {
+      crawlLinks: true,
+      // interval: 100,
       routes: ['/sitemap.xml']
     }
   },
@@ -120,9 +140,9 @@ export default defineNuxtConfig({
     storageKey: 'nuxt-color-mode'
   },
   
-  experimental: {
-    inlineSSRStyles: false
-  },
+  // experimental: {
+  //   inlineSSRStyles: false
+  // },
   ui: {
     icons: ['all']
   },
@@ -133,10 +153,13 @@ export default defineNuxtConfig({
   sitemap: {
     siteUrl: process.env.SITE_URL,
   },
+  routeRules: {
+    "/**": { prerender: true },
+  },
   // routeRules: {
   //   '/': { redirect: '/getting-started' }
   // },
   // generate: {
-  //   routes: ['/']
+  //   routes: ['/1']
   // }
 })

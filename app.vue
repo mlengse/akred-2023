@@ -1,6 +1,6 @@
 <template lang="pug">
 AppLayout
-  SeoKit
-  OgImageStatic
+  //- SeoKit
+  //- OgImageStatic
   NuxtPage
 </template>
