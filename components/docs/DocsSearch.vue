@@ -13,7 +13,7 @@ if (process.client) {
       })
     }
   } catch (error) {
-      console.log(error);
+      // console.log(error);
   }
 }
 // search modal
@@ -50,7 +50,7 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
           const metaResults = await pagefind.debouncedSearch(key);
           timer = null
           if (metaResults?.results?.length > 0) {
-            console.log(`${key}: ${metaResults.results.length}`)
+            // console.log(`${key}: ${metaResults.results.length}`)
             const resultsData = await Promise.all(metaResults.results.map((r: any) => r.data()));
             let filterResults = []
             if (appConfig?.bloginote?.search?.exclude && appConfig.bloginote.search.exclude.length > 0) {
@@ -69,7 +69,7 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
                 url: `${item.url.replace(/\/$/, "")}#${hash}`
               })
               // console.log(item.excerpt)
-              console.log(hash, arrhash.length)
+              // console.log(hash, arrhash.length)
               // console.log(res.url)
               return res
             });
@@ -77,7 +77,7 @@ const debouncedSearch = async (key: string, delay: number = 100) => {
             searchResults.value = []
           }
         } catch (error) {
-          console.log(error);
+          // console.log(error);
         } finally {
           searchState.value = 'solved'
         }

@@ -52,7 +52,7 @@ export default defineNuxtPlugin( nuxtApp => {
   nuxtApp.hook('page:finish', async () => {
     // console.log('page finish')
     if(window.location.hash.length){
-      console.log(window.location.pathname, window.location.hash)
+      // console.log(window.location.pathname, window.location.hash)
       const hash = window.location.hash
       let el = document.querySelector(hash)
 
@@ -68,7 +68,7 @@ export default defineNuxtPlugin( nuxtApp => {
           ...document.querySelectorAll('article.page-body ul'),
         ]
         if(els.length) {
-          console.log(els.length)
+          // console.log(els.length)
           
               for (let el of els) {
             for(const searchText of searchTexts){
