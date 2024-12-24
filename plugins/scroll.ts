@@ -1,3 +1,5 @@
+import createHyphenator from "hyphen";
+import patterns from "../patterns/id";
 
 
 export default defineNuxtPlugin( nuxtApp => {
@@ -87,9 +89,12 @@ export default defineNuxtPlugin( nuxtApp => {
 
     }
 
-    const hyphen = await import('hyphen/id')
 
-    const { hyphenateHTML } = hyphen
+  const hyphenateHTML = createHyphenator(patterns, { async: true, html: true });
+
+    // const hyphen = await import('hyphen/id')
+
+    // const { hyphenateHTML } = hyphen
 
     const hypEls = [
       ...Array.from(document.querySelectorAll('article.page-body p')),
