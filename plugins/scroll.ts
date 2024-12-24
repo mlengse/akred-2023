@@ -50,7 +50,7 @@ export default defineNuxtPlugin( nuxtApp => {
   }
 
   nuxtApp.hook('page:finish', async () => {
-    console.log('page finish')
+    // console.log('page finish')
     if(window.location.hash.length){
       console.log(window.location.pathname, window.location.hash)
       const hash = window.location.hash
