@@ -1,6 +1,7 @@
 import { createResolver } from '@nuxt/kit'
 // import en from './patterns/en'
 // import id from './patterns/id'
+import pattern from './patterns/hypher-id'
 
 const { resolve } = createResolver(import.meta.url)
 
@@ -96,13 +97,16 @@ export default defineNuxtConfig({
     //   stripQueryParameters: false,
     //   advancedIgnoresPattern: false
     // }
-    // markdown: {
-    //   remarkPlugins: {
-    //     'remark-super':{
-
-    //     },
-    //   },
-    // }
+    markdown: {
+      remarkPlugins: {
+        'remark-hypher':{
+          language: pattern,
+          leftmin: 2,
+          rightmin: 3,
+          minLength: 5,
+        },
+      },
+    }
   },
   // hooks: {
   //   'prerender:routes' ({ routes }) {
