@@ -1,124 +1,67 @@
-import createHyphenator from "hyphen";
-import patterns from "../patterns/id";
-
-
-export default defineNuxtPlugin( nuxtApp => {
-
-  function getElementsWithNoChildren (target, document) {
-    let candidates;
-
-    if (target && typeof target.querySelectorAll === 'function') {
-      candidates = target.querySelectorAll('*');
+function getTextNodes(node) {
+  let textNodes = [];
+  if (node.nodeType === Node.TEXT_NODE) {
+    textNodes.push(node);
+  } else {
+    for (let child of node.childNodes) {
+      textNodes = textNodes.concat(getTextNodes(child));
     }
-    else if (target && typeof target.length === 'number') {
-      candidates = target;
-    }
-    else {
-      candidates = document.querySelectorAll('*');
-    }
-
-    return Array.from(candidates).filter((elem: HTMLElement) => {
-      return elem.children.length === 0;
-    });
-  };
-
-  const findEl = async (hash: string , x = 100, document ) => {
-    let el = document.querySelector(hash)
-
-    if(!!el){
-      return el
-    }
-
-    let searchTexts = hash.split('#').join('').split('-')
-    let searchText = searchTexts[0]
-    let elems = getElementsWithNoChildren(document.querySelector('article.page-body'), document)
-    let matchingElementArr = Array.from(elems).filter((v:HTMLElement) => v.textContent.includes(searchText));
-    if(matchingElementArr.length){
-      return matchingElementArr[0]
-    }
-
-    if (x > 50) {
-      return ''
-    }
-
-    return setTimeout(() => { findEl(hash, ++x || 1, document) }, 300)
   }
-  
-  
-  function wrapKeywordWithHTML(keyword: string){
-    return `<mark style="bg-yellow-300">${keyword}</mark>`
+  return textNodes
+}
+
+function listAllTextElements() {
+  const textNodes = getTextNodes(document.body);
+  const textContents = textNodes.filter( textNode => textNode.textContent.length > 0);
+  return textContents;
+}
+
+async function findEl (hash: string, x = 100, document) {
+  const el = document.querySelector(hash)
+
+  if (!!el) {
+    return el
   }
+
+  const searchTexts = hash.split('#').join('').split('-')
+  const searchText = searchTexts[0]
+  const elems = listAllTextElements()
+  const matchingElementArr = elems.filter(textNodes => {
+    return textNodes.textContent.split(/\u00AD/g).join('').includes(searchText)
+  });
+  if (matchingElementArr.length) {
+    return matchingElementArr[0].parentElement
+  }
+  if (x > 50) {
+    return ''
+  }
+  return setTimeout(() => { findEl(hash, ++x || 1, document) }, 100)
+}
+
+
+function wrapKeywordWithHTML(keyword: string) {
+  return `<mark style="bg-yellow-300">${keyword}</mark>`
+}
+
+
+export default defineNuxtPlugin(nuxtApp => {
+
 
   nuxtApp.hook('page:finish', async () => {
-    // console.log('page finish')
-    if(window.location.hash.length){
-      // console.log(window.location.pathname, window.location.hash)
+    if (window.location.hash.length) {
       const hash = window.location.hash
-      let el = document.querySelector(hash)
-
-      if(!el){
-        // console.log(to)
-        // console.log(window.location.pathname)
-        const searchTexts = [...new Set([...hash.replace(/[^\w\d]/g, ' ').split(' '), ...hash.replace(/[^\w\d]/g, ' ').toLowerCase().split(' ')])].filter( w => w.length)
-        const els = [
-          ...document.querySelectorAll('article.page-body p'),
-          ...document.querySelectorAll('article.page-body h1'),
-          ...document.querySelectorAll('article.page-body h2'),
-          ...document.querySelectorAll('article.page-body ol'),
-          ...document.querySelectorAll('article.page-body ul'),
-        ]
-        if(els.length) {
-          // console.log(els.length)
-          
-              for (let el of els) {
-            for(const searchText of searchTexts){
-              let a = new RegExp(`(?<=>[^>]*)(${searchText})(?=[^>]*<)`, 'gi')
-              let b = el.innerHTML.match(a)
-              if(!b){
-                a = new RegExp(`${searchText}`, 'gi')
-                b = el.innerHTML.match(a)
-              }
-              if(b?.length){
-                el.innerHTML = el.innerHTML.replace(a, wrapKeywordWithHTML)
-              }
-            }
-          }
-        } 
-
+      const searchTexts = [...new Set([...hash.replace(/[^\w\d]/g, ' ').split(' '), ...hash.replace(/[^\w\d]/g, ' ').toLowerCase().split(' ')])].filter(w => w.length)
+      for (const searchText of searchTexts) {
+        const els = listAllTextElements().filter( textNode => textNode.textContent.split(/\u00AD/g).join('').includes(searchText))
+        for(const el of els){
+          el.parentElement.innerHTML = el.parentElement.innerHTML.split(/\u00AD/g).join('').split(searchText).join(wrapKeywordWithHTML(searchText))
+      }
+        
       }
 
     }
 
-
-  const hyphenateHTML = createHyphenator(patterns, { async: true, html: true });
-
-    // const hyphen = await import('hyphen/id')
-
-    // const { hyphenateHTML } = hyphen
-
-    const hypEls = [
-      ...Array.from(document.querySelectorAll('article.page-body p')),
-      ...Array.from(document.querySelectorAll('article.page-body h1')),
-      ...Array.from(document.querySelectorAll('article.page-body h2')),
-      ...Array.from(document.querySelectorAll('article.page-body h3')),
-      ...Array.from(document.querySelectorAll('article.page-body h4')),
-      ...Array.from(document.querySelectorAll('article.page-body h5')),
-      ...Array.from(document.querySelectorAll('article.page-body h6')),
-      ...Array.from(document.querySelectorAll('article.page-body ol')),
-      ...Array.from(document.querySelectorAll('article.page-body ul')),
-    ]
-    // console.log(el.innerHTML)
-    for(let hypEl of hypEls){
-      hyphenateHTML(hypEl.innerHTML, { 
-        // debug: true, 
-        // hyphenChar: "%", 
-        minWordLength: 3 
-      }).then( result =>{
-        hypEl.innerHTML = result
-      })
-    }
-
-    if(window.location.hash.length){
+    if (window.location.hash.length) {
       const elto = await findEl(window.location.hash, 100, document) as HTMLElement
       if ('scrollBehavior' in document.documentElement.style) {
         window.scrollTo({ top: elto.offsetTop - 20, behavior: 'smooth' })
