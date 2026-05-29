@@ -12,11 +12,11 @@ export default {
   },
   docus: {
     title: 'Akreditasi 2023',
-    description: 'Puskesmas Jayengan. Sahabat menuju sehat.',
+    description: 'Puskesmas Pajang. Sahabat menuju sehat.',
     url: process.env.SITE_URL,
     socials: {
-      youtube: '@puskesmasjayengan',
-      instagram: 'puskesmasjayengan',
+      youtube: '@puskesmaspajang',
+      instagram: 'puskesmaspajang',
     },
     aside: {
       level: 1,
@@ -30,9 +30,9 @@ export default {
     footer: {
       iconLinks: [
         {
-          href: 'https://pkm-jayengan.surakarta.go.id/',
+          href: 'https://pkm-pajang.surakarta.go.id/',
           icon: 'mdi:web',
-          label: 'laman resmi Puskesmas Jayengan'
+          label: 'laman resmi Puskesmas Pajang'
         }
       ]
     }

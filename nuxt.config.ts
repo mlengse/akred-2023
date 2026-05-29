@@ -39,7 +39,7 @@ export default defineNuxtConfig({
     public: {
       siteUrl: process.env.SITE_URL,
       siteName: 'Akreditasi 2023',
-      siteDescription: 'Puskesmas Jayengan. Sahabat menuju sehat.',
+      siteDescription: 'Puskesmas Pajang. Sahabat menuju sehat.',
       language: 'id-id',
 
     }
